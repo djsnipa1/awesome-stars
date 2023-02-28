@@ -34,6 +34,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
+- [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -399,6 +400,7 @@
 
 ## Jupyter Notebook 
 
+- [ApoorvGit/save-files-from-torrent-to-google-drive](https://github.com/ApoorvGit/save-files-from-torrent-to-google-drive) - Save content from Torrent to Google drive in seconds
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [maxent-ai/ocrpy](https://github.com/maxent-ai/ocrpy) - OCR, Archive, Index and Search: Implementation agnostic OCR framework.
 - [ynshung/blender-colab](https://github.com/ynshung/blender-colab) - Render Blender 3.x and 2.9x scenes with Google Colaboratory
@@ -586,6 +588,10 @@
 - [sighack/processing-boilerplate](https://github.com/sighack/processing-boilerplate) - A boilerplate for creating generative art using Processing with lots of export options.
 - [nature-of-code/noc-examples-processing](https://github.com/nature-of-code/noc-examples-processing) - Repository for example code from The Nature of Code book
 - [fr43nk/The-Nature-of-Code-Examples](https://github.com/fr43nk/The-Nature-of-Code-Examples) - Repository for example code from The Nature of Code book
+
+## Pug 
+
+- [karl-chan/google-drive-torrent](https://github.com/karl-chan/google-drive-torrent) - Download torrents to your Google Drive fast and direct
 
 ## Python 
 
