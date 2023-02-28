@@ -1178,6 +1178,8 @@
 
 ## others 
 
+- [ApoorvGit/save-files-from-torrent-to-google-drive](https://github.com/ApoorvGit/save-files-from-torrent-to-google-drive) - Save content from Torrent to Google drive in seconds
+- [karl-chan/google-drive-torrent](https://github.com/karl-chan/google-drive-torrent) - Download torrents to your Google Drive fast and direct
 - [6zz/svelte-bookmarklet-tpl](https://github.com/6zz/svelte-bookmarklet-tpl) - a bookmarklet building tool that uses svelte for UI templating
 - [ryantm/home-manager-template](https://github.com/ryantm/home-manager-template) - A quick-start template for using home-manager in a more reproducible way.
 - [devidw/cookiecutter-bookmarklet](https://github.com/devidw/cookiecutter-bookmarklet) - Boilerplate template to create new bookmarklets blazingly fast.
