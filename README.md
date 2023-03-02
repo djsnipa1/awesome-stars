@@ -45,7 +45,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [YARA](#yara)
 
 ## AutoHotkey 
 
@@ -753,6 +752,7 @@
 
 - [wklken/bash-utils](https://github.com/wklken/bash-utils) - utils for shell
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
+- [V1D1AN/S1EM](https://github.com/V1D1AN/S1EM) - This project is a SIEM with SIRP and Threat Intel, all in one.
 - [joshmedeski/fish-lf-icons](https://github.com/joshmedeski/fish-lf-icons) - Fish plugin to add Nerd Font icon support to the lf terminal file manager
 - [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Wallpapers for gruvbox
 - [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell) - fish and zsh support for the nix run and nix-shell environments of the Nix package manager
@@ -893,10 +893,6 @@
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [t-MURO/taditech](https://github.com/t-MURO/taditech) - Spotify tools - reorder playlists / see your followed artists new releases!
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
-
-## YARA 
-
-- [V1D1AN/S1EM](https://github.com/V1D1AN/S1EM) - This project is a SIEM with SIRP and Threat Intel, all in one.
 
 
 ## License
