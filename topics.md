@@ -158,6 +158,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -938,6 +939,7 @@
 
 ## linux 
 
+- [vlinkz/nix-editor](https://github.com/vlinkz/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - 🛸  nixos, fish, neovim, leftwm
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1178,6 +1180,8 @@
 
 ## others 
 
+- [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
+- [vlinkz/nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
 - [ApoorvGit/save-files-from-torrent-to-google-drive](https://github.com/ApoorvGit/save-files-from-torrent-to-google-drive) - Save content from Torrent to Google drive in seconds
 - [karl-chan/google-drive-torrent](https://github.com/karl-chan/google-drive-torrent) - Download torrents to your Google Drive fast and direct
 - [6zz/svelte-bookmarklet-tpl](https://github.com/6zz/svelte-bookmarklet-tpl) - a bookmarklet building tool that uses svelte for UI templating
@@ -1891,6 +1895,12 @@
 - [helloworld-Co/html2md](https://github.com/helloworld-Co/html2md) - helloworld 开发者社区开源的一个轻量级，强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地。
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
+
+## vuejs 
+
+- [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
+- [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 
 ## web 
 
