@@ -707,6 +707,9 @@
 
 ## Rust 
 
+- [vlinkz/nix-editor](https://github.com/vlinkz/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
+- [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
+- [vlinkz/nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [WantGuns/bin](https://github.com/WantGuns/bin) - highly opinionated, minimal pastebin
