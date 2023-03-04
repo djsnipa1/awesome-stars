@@ -236,6 +236,7 @@
 
 ## JavaScript 
 
+- [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [6zz/svelte-bookmarklet-tpl](https://github.com/6zz/svelte-bookmarklet-tpl) - a bookmarklet building tool that uses svelte for UI templating
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
