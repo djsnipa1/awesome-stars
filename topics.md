@@ -1194,6 +1194,7 @@
 
 ## others 
 
+- [MattGibney/viva-pinata-data](https://github.com/MattGibney/viva-pinata-data) - 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ThePrimeagen/youtube-bot](https://github.com/ThePrimeagen/youtube-bot) - Thee premier youtube bot.
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
