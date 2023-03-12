@@ -159,6 +159,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -1194,6 +1195,7 @@
 
 ## others 
 
+- [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [MattGibney/viva-pinata-data](https://github.com/MattGibney/viva-pinata-data) - 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ThePrimeagen/youtube-bot](https://github.com/ThePrimeagen/youtube-bot) - Thee premier youtube bot.
@@ -1914,6 +1916,12 @@
 - [helloworld-Co/html2md](https://github.com/helloworld-Co/html2md) - helloworld 开发者社区开源的一个轻量级，强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地。
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
+
+## vuejs 
+
+- [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
+- [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 
 ## web 
 
