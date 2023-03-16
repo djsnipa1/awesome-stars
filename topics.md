@@ -1195,6 +1195,7 @@
 
 ## others 
 
+- [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
 - [khrome/ascii-art-docs](https://github.com/khrome/ascii-art-docs) - Documentation and test data for ascii-art
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
@@ -1501,7 +1502,7 @@
 - [amiramitai/spotsync](https://github.com/amiramitai/spotsync) - Creates a new releases playlist from user's followed artists in spotify.
 - [gosulap/Spotify-forecast](https://github.com/gosulap/Spotify-forecast) - Finds songs that align with my music taste in Spotify's new releases
 - [kowenhouston/spotify-new-album](https://github.com/kowenhouston/spotify-new-album) - Do something when your favourite artist releases a new album
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [t-MURO/taditech](https://github.com/t-MURO/taditech) - Spotify tools - reorder playlists / see your followed artists new releases!
 - [kafene/bookmarklet-combiner](https://github.com/kafene/bookmarklet-combiner) - combine all your bookmarklets into one.
 - [wizardg/paintstrap](https://github.com/wizardg/paintstrap) - Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
