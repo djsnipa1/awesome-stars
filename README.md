@@ -238,6 +238,7 @@
 
 ## JavaScript 
 
+- [launchlet/launchlet](https://github.com/launchlet/launchlet) - Make the web yours.
 - [MattGibney/viva-pinata-data](https://github.com/MattGibney/viva-pinata-data) - 
 - [ThePrimeagen/youtube-bot](https://github.com/ThePrimeagen/youtube-bot) - Thee premier youtube bot.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
