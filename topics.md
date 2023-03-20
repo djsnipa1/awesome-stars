@@ -1797,7 +1797,7 @@
 
 ## svelte 
 
-- [launchlet/launchlet](https://github.com/launchlet/launchlet) - Make the web yours.
+- [rosano/launchlet](https://github.com/rosano/launchlet) - Make the web yours.
 - [qianjiachun/svelte-tampermonkey](https://github.com/qianjiachun/svelte-tampermonkey) - 🚀 Vite + Svelte Tampermonkey boilerplate
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [aykutkardas/svgps.app](https://github.com/aykutkardas/svgps.app) - SVGPS converts your icons into a single JSON file that is ready to use in your frontend or mobile projects.
