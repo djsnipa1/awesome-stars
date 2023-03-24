@@ -723,6 +723,7 @@
 
 ## Rust 
 
+- [almindor/texel](https://github.com/almindor/texel) - ASCII Art and landscape editor
 - [vlinkz/nix-editor](https://github.com/vlinkz/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [vlinkz/nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
@@ -842,6 +843,7 @@
 
 ## TypeScript 
 
+- [douo/raycast-openai-translator](https://github.com/douo/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [folke/splashcii](https://github.com/folke/splashcii) - Simple cli tool that shows a random ascii art from https://www.asciiur.com/
