@@ -168,7 +168,7 @@
 
 ## 3d 
 
-- [threlte/threlte](https://github.com/threlte/threlte) - A three.js component library for Svelte.
+- [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## ai 
@@ -1201,6 +1201,7 @@
 
 ## others 
 
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [almindor/texel](https://github.com/almindor/texel) - ASCII Art and landscape editor
 - [douo/raycast-openai-translator](https://github.com/douo/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
@@ -1812,7 +1813,7 @@
 - [aykutkardas/svgps.app](https://github.com/aykutkardas/svgps.app) - SVGPS converts your icons into a single JSON file that is ready to use in your frontend or mobile projects.
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 - [N00nDay/stwui](https://github.com/N00nDay/stwui) - Opinionated yet customizable Svelte-TailwindCSS component library
-- [threlte/threlte](https://github.com/threlte/threlte) - A three.js component library for Svelte.
+- [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 
 ## tensorflow 
 
