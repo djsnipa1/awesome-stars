@@ -732,7 +732,7 @@
 - [vlinkz/nixos-conf-editor](https://github.com/vlinkz/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-- [WantGuns/bin](https://github.com/WantGuns/bin) - highly opinionated, minimal pastebin
+- [wantguns/bin](https://github.com/wantguns/bin) - highly opinionated, minimal pastebin
 - [rust-motd/rust-motd](https://github.com/rust-motd/rust-motd) - Beautiful, useful, configurable MOTD generation with zero runtime dependencies
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
