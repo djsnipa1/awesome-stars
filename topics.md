@@ -1729,7 +1729,7 @@
 ## rust 
 
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
-- [WantGuns/bin](https://github.com/WantGuns/bin) - highly opinionated, minimal pastebin
+- [wantguns/bin](https://github.com/wantguns/bin) - highly opinionated, minimal pastebin
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [ghuntley/ghuntley](https://github.com/ghuntley/ghuntley) - @ghuntley's personal monorepo
