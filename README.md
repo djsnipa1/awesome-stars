@@ -148,6 +148,7 @@
 
 ## Go 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [Notch-Technologies/dotshake](https://github.com/Notch-Technologies/dotshake) - Peer-to-peer mesh network based on WireGuard
@@ -239,6 +240,7 @@
 
 ## JavaScript 
 
+- [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [rosano/launchlet](https://github.com/rosano/launchlet) - Make the web yours.
 - [MattGibney/viva-pinata-data](https://github.com/MattGibney/viva-pinata-data) - 
