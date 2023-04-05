@@ -148,6 +148,7 @@
 
 ## Go 
 
+- [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
@@ -256,7 +257,7 @@
 - [dex-group/dex.list](https://github.com/dex-group/dex.list) - DEX List - The Index page for creative workers.
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [ghuntley/ghuntley](https://github.com/ghuntley/ghuntley) - @ghuntley's personal monorepo
+- [ghuntley/ghuntley-monorepo-retired](https://github.com/ghuntley/ghuntley-monorepo-retired) - 
 - [BeneathTheInk/html2md](https://github.com/BeneathTheInk/html2md) - HTML to Markdown converter in JavaScript.
 - [jes/hardbin](https://github.com/jes/hardbin) - Encrypted pastebin using IPFS
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
@@ -507,6 +508,7 @@
 
 ## Others 
 
+- [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively.
 - [khrome/ascii-art-docs](https://github.com/khrome/ascii-art-docs) - Documentation and test data for ascii-art
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
@@ -906,6 +908,7 @@
 
 ## Vim Script 
 
+- [nickeb96/fish.vim](https://github.com/nickeb96/fish.vim) - Vim configuration for Fish
 - [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) - Vim plugin to fetch and display answers from Stack Overflow
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [yassinebridi/vim-purpura](https://github.com/yassinebridi/vim-purpura) - ☂️ A bold purple colorscheme for vim
