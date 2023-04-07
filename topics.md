@@ -357,6 +357,7 @@
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 
 ## chrome 
@@ -608,7 +609,7 @@
 
 ## flask 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
 ## flutter 
 
@@ -676,7 +677,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [imfunniee/gitark](https://github.com/imfunniee/gitark) - :octocat: Dark theme for Github
 - [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 
@@ -785,6 +786,9 @@
 
 ## html 
 
+- [breakdance/breakdance-mercury](https://github.com/breakdance/breakdance-mercury) - Breakdance plugin for mercury, the spiritual successor to readability.com. Mercury removes ads and distractions from HTML before passing it to breakdance, resulting in cleaner, more readable markdown.
+- [breakdance/breakdance-request](https://github.com/breakdance/breakdance-request) - Convert webpages to markdown! API and CLI.
+- [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
@@ -1043,6 +1047,9 @@
 
 ## markdown 
 
+- [breakdance/breakdance-mercury](https://github.com/breakdance/breakdance-mercury) - Breakdance plugin for mercury, the spiritual successor to readability.com. Mercury removes ads and distractions from HTML before passing it to breakdance, resulting in cleaner, more readable markdown.
+- [breakdance/breakdance-request](https://github.com/breakdance/breakdance-request) - Convert webpages to markdown! API and CLI.
+- [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [jacany/nosbin](https://github.com/jacany/nosbin) - nostr pastebin
@@ -1090,7 +1097,7 @@
 ## mongodb 
 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
 ## monitoring 
 
@@ -1200,7 +1207,7 @@
 
 ## numpy 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
 ## open-source 
 
@@ -1235,7 +1242,6 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [MattGibney/viva-pinata-data](https://github.com/MattGibney/viva-pinata-data) - 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ThePrimeagen/youtube-bot](https://github.com/ThePrimeagen/youtube-bot) - Thee premier youtube bot.
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
@@ -1649,7 +1655,7 @@
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [danishprakash/spotify-tools](https://github.com/danishprakash/spotify-tools) - :musical_note: Export Spotify playlist to plain text without logging in. (WIP)
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [stavlocker/SpotifyNoDupes](https://github.com/stavlocker/SpotifyNoDupes) - The smart Spotify duplicate remover and detector.
 - [linickx/snsync](https://github.com/linickx/snsync) - rsync for Simplenote
@@ -1671,7 +1677,7 @@
 - [bstoilov/py3-pinterest](https://github.com/bstoilov/py3-pinterest) - Fully fledged Python Pinterest client
 - [aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE) - Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY F
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [txstc55/image_assembling](https://github.com/txstc55/image_assembling) - uses your images to assemble another image
 - [tdamdouni/Pythonista](https://github.com/tdamdouni/Pythonista) - Collection of Python Scripts written for Pythonista iOS App
 
