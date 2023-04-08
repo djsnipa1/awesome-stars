@@ -11,7 +11,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -99,7 +98,6 @@
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [tudurom/rainbou](https://github.com/tudurom/rainbou) - Theme generator
 - [marcin-chwedczuk/hilbert_curve](https://github.com/marcin-chwedczuk/hilbert_curve) - Drawing Hilbert curve iteratively
-- [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [caro401/royal-velvet](https://github.com/caro401/royal-velvet) - A dark theme for obsidian.md
 - [codrops/ElasticSVGElements](https://github.com/codrops/ElasticSVGElements) - Adding elasticity with SVG shape animations for enhanced UI interactions.
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
@@ -128,10 +126,6 @@
 - [murtaugh/HTML5-Reset](https://github.com/murtaugh/HTML5-Reset) - A simple set of best practices to get HTML5 projects off on the right foot.
 - [shakrmedia/tuesday](https://github.com/shakrmedia/tuesday) - A quirky CSS Animation Library by Shakr
 - [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
-
-## Dart 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -199,6 +193,7 @@
 - [benkeen/responsive-design-bookmarklet-generator](https://github.com/benkeen/responsive-design-bookmarklet-generator) - Generates custom bookmarklets for testing responsive layouts to show how they look in different viewport sizes.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [filamentgroup/faux-pas](https://github.com/filamentgroup/faux-pas) - A script to highlight elements that are mismatched incorrectly to @​font-face blocks, which may result in shoddy faux bold or faux italic rendering.
+- [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [kyle-rb/simplecopy](https://github.com/kyle-rb/simplecopy) - A really basic copy-to-clipboard JavaScript library.
 - [8BitJonny/liveSpotify](https://github.com/8BitJonny/liveSpotify) - Dynamic realtime profile ReadMe linked with spotify
@@ -755,6 +750,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
