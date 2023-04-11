@@ -381,7 +381,7 @@
 - [rez/notify](https://github.com/rez/notify) - Project to quickly obtain new releases and live shows of followed spotify artist.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ahmadawais/VSCode-Tips-Tricks](https://github.com/ahmadawais/VSCode-Tips-Tricks) - VSCode-Tips-Tricks Examples and Workflows to help you become a Visual Studio Code Power User →
-- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that may help you to create cohesive color schemes.
+- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [wwwtyro/vixel](https://github.com/wwwtyro/vixel) - A WebGL voxel path tracer
