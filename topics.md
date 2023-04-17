@@ -995,6 +995,7 @@
 
 ## linux 
 
+- [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [bcyran/fancy-motd](https://github.com/bcyran/fancy-motd) - Fancy, colorful MOTD written in bash. Server status at a glance.
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
