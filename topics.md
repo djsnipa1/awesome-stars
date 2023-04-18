@@ -995,6 +995,7 @@
 
 ## linux 
 
+- [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [bcyran/fancy-motd](https://github.com/bcyran/fancy-motd) - Fancy, colorful MOTD written in bash. Server status at a glance.
@@ -1055,6 +1056,7 @@
 
 ## macos 
 
+- [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
 - [NullBhikkhu/Google-Chrome-backup](https://github.com/NullBhikkhu/Google-Chrome-backup) - A tool to backup Google Chrome personal data
@@ -1253,6 +1255,8 @@
 
 ## others 
 
+- [mlorberdev/Palettes-API-NodeJS](https://github.com/mlorberdev/Palettes-API-NodeJS) - 
+- [vv9k/bogster](https://github.com/vv9k/bogster) - A theme for Vim and NeoVim
 - [kabirvirji/colortherapy](https://github.com/kabirvirji/colortherapy) - Generate playlists using colors
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
 - [lynndylanhurley/nvim](https://github.com/lynndylanhurley/nvim) - My personal neovim config
@@ -1439,7 +1443,6 @@
 - [tobi-wan-kenobi/dotfiles](https://github.com/tobi-wan-kenobi/dotfiles) - Small collection of my humble dot files
 - [tobi-wan-kenobi/vim-hints](https://github.com/tobi-wan-kenobi/vim-hints) - Collection of small, hopefully useful vim hints (mostly to help me learn vim better)
 - [dguo/blood-moon](https://github.com/dguo/blood-moon) - :waxing_crescent_moon: A bold, dark color scheme for code
-- [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [jayseesee/Crittermound-Fork](https://github.com/jayseesee/Crittermound-Fork) - Fork of Crittermound
 - [insanum/sncli](https://github.com/insanum/sncli) - Simplenote CLI
 - [sonjiku/pywal](https://github.com/sonjiku/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -1785,6 +1788,7 @@
 
 ## rust 
 
+- [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [wantguns/bin](https://github.com/wantguns/bin) - highly opinionated, minimal pastebin
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
@@ -1906,6 +1910,7 @@
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
+- [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
@@ -2023,6 +2028,7 @@
 
 ## windows 
 
+- [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
