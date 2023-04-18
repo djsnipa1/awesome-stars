@@ -92,6 +92,7 @@
 
 ## CSS 
 
+- [mlorberdev/Palettes-API-NodeJS](https://github.com/mlorberdev/Palettes-API-NodeJS) - 
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
@@ -208,6 +209,7 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [TurboWay/big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
 - [CarlHauschke/spotiauth](https://github.com/CarlHauschke/spotiauth) - Easily display the result that the Spotify Developer Authorization form returns
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [aziz/sublime-mini-ui](https://github.com/aziz/sublime-mini-ui) - 
 - [Martins-Bruno/material-colors-palette](https://github.com/Martins-Bruno/material-colors-palette) - 
@@ -734,6 +736,7 @@
 
 ## Rust 
 
+- [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [almindor/texel](https://github.com/almindor/texel) - ASCII Art and landscape editor
 - [vlinkz/nix-editor](https://github.com/vlinkz/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
@@ -831,7 +834,6 @@
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [ibrahimbutt/direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [paladini/ghost-on-github-pages](https://github.com/paladini/ghost-on-github-pages) - Ghost on Github Pages. Build and deploy Ghost for free in a few minutes.
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [pvinis/colortools](https://github.com/pvinis/colortools) - colortools
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -914,6 +916,7 @@
 
 ## Vim Script 
 
+- [vv9k/bogster](https://github.com/vv9k/bogster) - A theme for Vim and NeoVim
 - [nickeb96/fish.vim](https://github.com/nickeb96/fish.vim) - Vim configuration for Fish
 - [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) - Vim plugin to fetch and display answers from Stack Overflow
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
