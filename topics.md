@@ -832,6 +832,7 @@
 
 ## html5 
 
+- [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [Tressley/_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1258,6 +1259,9 @@
 
 ## others 
 
+- [lookingcoolonavespa/Ether](https://github.com/lookingcoolonavespa/Ether) - 
+- [ofelizestevez/chameleon](https://github.com/ofelizestevez/chameleon) - 
+- [PrettyCoffee/yet-another-generic-startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) - This a generic startpage to demonstrate the react startpage library.
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [mlorberdev/Palettes-API-NodeJS](https://github.com/mlorberdev/Palettes-API-NodeJS) - 
 - [vv9k/bogster](https://github.com/vv9k/bogster) - A theme for Vim and NeoVim
