@@ -239,6 +239,7 @@
 
 ## JavaScript 
 
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [ofelizestevez/chameleon](https://github.com/ofelizestevez/chameleon) - 
 - [kabirvirji/colortherapy](https://github.com/kabirvirji/colortherapy) - Generate playlists using colors
