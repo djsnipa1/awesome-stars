@@ -1045,6 +1045,7 @@
 
 ## lua 
 
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 25+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Lua port of the most famous vim colorscheme
@@ -1158,6 +1159,7 @@
 
 ## neovim 
 
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
 - [nickeb96/fish.vim](https://github.com/nickeb96/fish.vim) - Vim configuration for Fish
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
@@ -1267,6 +1269,7 @@
 
 ## others 
 
+- [jaseg/lolcat](https://github.com/jaseg/lolcat) - High-performance implementation of https://github.com/busyloop/lolcat
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [lookingcoolonavespa/Ether](https://github.com/lookingcoolonavespa/Ether) - 
@@ -1852,6 +1855,7 @@
 
 ## shell 
 
+- [ninecath/nincat](https://github.com/ninecath/nincat) - A small, lightweight, and fun way to differentiate a new terminal from others *:｡･ﾟ.*ヽ(´∀｀ヽ)
 - [bcyran/fancy-motd](https://github.com/bcyran/fancy-motd) - Fancy, colorful MOTD written in bash. Server status at a glance.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
@@ -1912,6 +1916,7 @@
 
 ## terminal 
 
+- [ninecath/nincat](https://github.com/ninecath/nincat) - A small, lightweight, and fun way to differentiate a new terminal from others *:｡･ﾟ.*ヽ(´∀｀ヽ)
 - [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [netxs-group/vtm](https://github.com/netxs-group/vtm) - Terminal multiplexer with window manager and session sharing
