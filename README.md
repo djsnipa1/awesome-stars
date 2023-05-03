@@ -240,7 +240,7 @@
 
 ## JavaScript 
 
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [ofelizestevez/chameleon](https://github.com/ofelizestevez/chameleon) - 
 - [kabirvirji/colortherapy](https://github.com/kabirvirji/colortherapy) - Generate playlists using colors
@@ -806,7 +806,7 @@
 - [joshmedeski/fish-lf-icons](https://github.com/joshmedeski/fish-lf-icons) - Fish plugin to add Nerd Font icon support to the lf terminal file manager
 - [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Wallpapers for gruvbox
 - [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell) - fish and zsh support for the nix run and nix-shell environments of the Nix package manager
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome.
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
