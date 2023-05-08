@@ -1271,6 +1271,7 @@
 
 ## others 
 
+- [F1LT3R/axel](https://github.com/F1LT3R/axel) - AXEL is a Node.js graphics library for drawing graphics to your console with ASCII characters. AXEL has been designed to help create games, retro graphics and spice up the terminal components of your 
 - [jaseg/lolcat](https://github.com/jaseg/lolcat) - High-performance implementation of https://github.com/busyloop/lolcat
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
