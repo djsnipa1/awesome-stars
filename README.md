@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [F1LT3R/axel](https://github.com/F1LT3R/axel) - AXEL is a Node.js graphics library for drawing graphics to your console with ASCII characters. AXEL has been designed to help create games, retro graphics and spice up the terminal components of your 
 - [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [ofelizestevez/chameleon](https://github.com/ofelizestevez/chameleon) - 
