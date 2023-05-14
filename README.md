@@ -241,6 +241,7 @@
 
 ## JavaScript 
 
+- [chunqiuyiyu/bing-chat-bookmarklets](https://github.com/chunqiuyiyu/bing-chat-bookmarklets) - A collection of bookmarklets for the Bing chat client.
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
 - [F1LT3R/axel](https://github.com/F1LT3R/axel) - AXEL is a Node.js graphics library for drawing graphics to your console with ASCII characters. AXEL has been designed to help create games, retro graphics and spice up the terminal components of your 
