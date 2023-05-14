@@ -1279,6 +1279,7 @@
 
 ## others 
 
+- [chunqiuyiyu/bing-chat-bookmarklets](https://github.com/chunqiuyiyu/bing-chat-bookmarklets) - A collection of bookmarklets for the Bing chat client.
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
 - [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
