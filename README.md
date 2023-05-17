@@ -500,6 +500,7 @@
 
 ## Nix 
 
+- [winston0410/mkNodePackage](https://github.com/winston0410/mkNodePackage) - A helper flake for building Node.js package easily with Nix.
 - [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
 - [cpcloud/nix-config](https://github.com/cpcloud/nix-config) - My NixOS configuration
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
