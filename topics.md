@@ -1311,7 +1311,7 @@
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [almindor/texel](https://github.com/almindor/texel) - ASCII Art and landscape editor
-- [douo/raycast-openai-translator](https://github.com/douo/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
+- [openai-translator/raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS
 - [khrome/ascii-art-docs](https://github.com/khrome/ascii-art-docs) - Documentation and test data for ascii-art
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
