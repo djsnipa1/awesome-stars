@@ -256,7 +256,7 @@
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [rosano/launchlet](https://github.com/rosano/launchlet) - Make the web yours.
-- [MattGibney/viva-pinata-data](https://github.com/MattGibney/viva-pinata-data) - 
+- [Moppler/viva-pinata-data](https://github.com/Moppler/viva-pinata-data) - 
 - [ThePrimeagen/youtube-bot](https://github.com/ThePrimeagen/youtube-bot) - Thee premier youtube bot.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [6zz/svelte-bookmarklet-tpl](https://github.com/6zz/svelte-bookmarklet-tpl) - a bookmarklet building tool that uses svelte for UI templating
