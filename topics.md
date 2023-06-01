@@ -1295,6 +1295,7 @@
 
 ## others 
 
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast
 - [winston0410/mkNodePackage](https://github.com/winston0410/mkNodePackage) - A helper flake for building Node.js package easily with Nix.
