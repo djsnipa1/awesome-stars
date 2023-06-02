@@ -19,6 +19,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
@@ -420,6 +421,10 @@
 - [chaohuang/cloudsave](https://github.com/chaohuang/cloudsave) - Save to the cloud.
 - [yyx990803/HTML5-Clear](https://github.com/yyx990803/HTML5-Clear) - [DEPRECATED] A replica of the Clear iphone app in HTML5
 
+## Jinja 
+
+- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
+
 ## Jupyter Notebook 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -669,7 +674,6 @@
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
-- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [AlexEidt/Fractal-Explorer](https://github.com/AlexEidt/Fractal-Explorer) - Escape-Time Fractal Explorer for Mandelbrot and Julia Sets.
 - [AlexEidt/ASCII-Vision](https://github.com/AlexEidt/ASCII-Vision) - Real-time Color ASCII Webcam Streaming.
 - [jm33-m0/mec](https://github.com/jm33-m0/mec) - for mass exploiting
