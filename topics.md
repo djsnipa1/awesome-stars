@@ -2033,6 +2033,7 @@
 
 ## typescript 
 
+- [s-rigaud/huskyfy](https://github.com/s-rigaud/huskyfy) - Huskyfy - Interact with Spotify playlists smoothly
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images)
 - [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
