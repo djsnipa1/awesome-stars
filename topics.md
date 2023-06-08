@@ -692,7 +692,6 @@
 ## gh-extension 
 
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
-- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
 
