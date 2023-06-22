@@ -1296,6 +1296,7 @@
 
 ## others 
 
+- [KingBecks123/Sublime](https://github.com/KingBecks123/Sublime) - A lime clicker incremental game.
 - [jeff-hykin/xd-font](https://github.com/jeff-hykin/xd-font) - 💾 ✅ A custom ligature font based on Iosevka, because Font Fira is for casuals
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
