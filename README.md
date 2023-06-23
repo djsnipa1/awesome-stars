@@ -125,7 +125,6 @@
 - [jasonm23/markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - A collection of css themes for Markdown
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [imfunniee/gitark](https://github.com/imfunniee/gitark) - :octocat: Dark theme for Github
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [mike-schultz/materialette](https://github.com/mike-schultz/materialette) - Materialette - A material design color palette
 - [rhiokim/markdown-css](https://github.com/rhiokim/markdown-css) - markdown theme standard style, using less (for haroopad)
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
@@ -248,6 +247,7 @@
 
 ## JavaScript 
 
+- [dominik-lueke/PokemonOfTheDay](https://github.com/dominik-lueke/PokemonOfTheDay) - Scriptable iOS Widget to display a new random Pokémon every day
 - [KingBecks123/Sublime](https://github.com/KingBecks123/Sublime) - A lime clicker incremental game.
 - [jeff-hykin/xd-font](https://github.com/jeff-hykin/xd-font) - 💾 ✅ A custom ligature font based on Iosevka, because Font Fira is for casuals
 - [chunqiuyiyu/bing-chat-bookmarklets](https://github.com/chunqiuyiyu/bing-chat-bookmarklets) - A collection of bookmarklets for the Bing chat client.
@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast
@@ -823,6 +824,7 @@
 - [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) - A Comprehensive, Highly-Customisable and Elegant Light/Dark Theme for Obsidian.md
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 创建在线课程，学术简历或初创网站。#OpenScience
 - [creativetimofficial/argon-design-system-angular](https://github.com/creativetimofficial/argon-design-system-angular) - 
 - [twbs/bootstrap-expo](https://github.com/twbs/bootstrap-expo) - Beautiful and inspiring uses of Bootstrap.
