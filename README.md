@@ -156,7 +156,6 @@
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
-- [Notch-Technologies/dotshake](https://github.com/Notch-Technologies/dotshake) - Peer-to-peer mesh network based on WireGuard
 - [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -463,6 +462,7 @@
 
 ## Lua 
 
+- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
 - [p3nguin-kun/penguinVim](https://github.com/p3nguin-kun/penguinVim) - NeoVim but better
 - [hackorum/nfs](https://github.com/hackorum/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
