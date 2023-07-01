@@ -832,6 +832,7 @@
 
 ## Shell 
 
+- [dominikduda/tmux_mode_indicator](https://github.com/dominikduda/tmux_mode_indicator) - Tmux plugin that indicate modes you are in (normal/prefix, copy/insert)
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [ninecath/nincat](https://github.com/ninecath/nincat) - A small, lightweight, and fun way to differentiate a new terminal from others *:｡･ﾟ.*ヽ(´∀｀ヽ)
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
