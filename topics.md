@@ -1408,7 +1408,7 @@
 - [georgealexanderday/nix-gitpod](https://github.com/georgealexanderday/nix-gitpod) - gitpod nix dotfiles
 - [benkeen/responsive-design-bookmarklet-generator](https://github.com/benkeen/responsive-design-bookmarklet-generator) - Generates custom bookmarklets for testing responsive layouts to show how they look in different viewport sizes.
 - [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) - 
-- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
 - [xamut/tmux-weather](https://github.com/xamut/tmux-weather) - 🌤 Weather plugin for tmux
 - [ichitaso/uYouPlus-for-JB](https://github.com/ichitaso/uYouPlus-for-JB) - uYouPlus is a modified version of uYou (made by @MiRO92) with additional features and mainly made for jailbroken users!
 - [the-nix-way/nix-flakes-gitpod](https://github.com/the-nix-way/nix-flakes-gitpod) - A GitPod environment with Nix included and flakes enabled [maintainer=@lucperkins]
