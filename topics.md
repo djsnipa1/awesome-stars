@@ -1190,6 +1190,7 @@
 
 ## neovim 
 
+- [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Discover and share Neovim configs and plugins
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
 - [DoomHammer/neovim-copilot-nix-bundle](https://github.com/DoomHammer/neovim-copilot-nix-bundle) - Run Neovim with GitHub Copilot out of the box
 - [p3nguin-kun/penguinVim](https://github.com/p3nguin-kun/penguinVim) - NeoVim but better
