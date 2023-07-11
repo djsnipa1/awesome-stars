@@ -386,7 +386,7 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [imfunniee/gitark](https://github.com/imfunniee/gitark) - :octocat: Dark theme for Github
 - [xpl/crx-hotreload](https://github.com/xpl/crx-hotreload) - Chrome Extension Hot Reloader
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 
 ## chrome-extension 
 
@@ -396,7 +396,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [xpl/crx-hotreload](https://github.com/xpl/crx-hotreload) - Chrome Extension Hot Reloader
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 
 ## cli 
@@ -452,7 +452,7 @@
 - [cpcloud/nix-config](https://github.com/cpcloud/nix-config) - My NixOS configuration
 - [Manas140/Conscious](https://github.com/Manas140/Conscious) - Neovim config
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 
 ## cpp 
 
@@ -642,7 +642,7 @@
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 
 ## flask 
 
@@ -2129,7 +2129,7 @@
 - [susam/uncap](https://github.com/susam/uncap) - Map Caps Lock to Escape or any key to any key
 - [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 
 ## virtual-reality 
