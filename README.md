@@ -382,7 +382,7 @@
 - [xpl/crx-hotreload](https://github.com/xpl/crx-hotreload) - Chrome Extension Hot Reloader
 - [Jam3/nice-color-palettes](https://github.com/Jam3/nice-color-palettes) - nice colour palettes as JSON
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [afeld/emoji-css](https://github.com/afeld/emoji-css) - An easy way to include emoji in your HTML
 - [kgolid/p5ycho](https://github.com/kgolid/p5ycho) - Generative art with P5
 - [stihilus/Generated-p5js-Portraits](https://github.com/stihilus/Generated-p5js-Portraits) - 
