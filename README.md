@@ -547,7 +547,7 @@
 - [georgealexanderday/nix-gitpod](https://github.com/georgealexanderday/nix-gitpod) - gitpod nix dotfiles
 - [the-nix-way/nix-flakes-gitpod](https://github.com/the-nix-way/nix-flakes-gitpod) - A GitPod environment with Nix included and flakes enabled [maintainer=@lucperkins]
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + tmux + neovim
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys]
 
 ## Others 
 
@@ -846,6 +846,9 @@
 
 ## Shell 
 
+- [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing
 - [bashup/mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
