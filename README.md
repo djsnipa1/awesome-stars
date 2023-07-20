@@ -64,7 +64,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [tiehuis/2048-cli](https://github.com/tiehuis/2048-cli) - The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)
 - [VaughnValle/blue-sky](https://github.com/VaughnValle/blue-sky) - A clean and blue BSPWM setup
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [o-oconnell/mp4grep](https://github.com/o-oconnell/mp4grep) - mp4grep is a CLI for transcribing and searching audio/video files
 - [Francesco149/weebp](https://github.com/Francesco149/weebp) - free and open-source wallpaper engine, set any window as your wallpaper
@@ -253,6 +253,7 @@
 
 ## JavaScript 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
 - [dominik-lueke/PokemonOfTheDay](https://github.com/dominik-lueke/PokemonOfTheDay) - Scriptable iOS Widget to display a new random Pokémon every day
 - [KingBecks123/Sublime](https://github.com/KingBecks123/Sublime) - A lime clicker incremental game.
@@ -334,7 +335,6 @@
 - [evandcoleman/scriptable](https://github.com/evandcoleman/scriptable) - A collection of my scriptable.app scripts
 - [ajatkj/scriptable](https://github.com/ajatkj/scriptable) - Scriptable scripts for iOS
 - [im3x/Scriptables](https://github.com/im3x/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
-- [thelicato/asciified](https://github.com/thelicato/asciified) - A simple ASCII Art API with a good-looking Web App.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [FirefoxCSS-Store/FirefoxCSS-Store.github.io](https://github.com/FirefoxCSS-Store/FirefoxCSS-Store.github.io) - A collection site of Firefox userchrome themes, mostly from FirefoxCSS Reddit community.
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
@@ -470,6 +470,7 @@
 
 ## Lua 
 
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [p3nguin-kun/penguinVim](https://github.com/p3nguin-kun/penguinVim) - NeoVim but better
 - [hackorum/nfs](https://github.com/hackorum/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
@@ -547,7 +548,7 @@
 - [georgealexanderday/nix-gitpod](https://github.com/georgealexanderday/nix-gitpod) - gitpod nix dotfiles
 - [the-nix-way/nix-flakes-gitpod](https://github.com/the-nix-way/nix-flakes-gitpod) - A GitPod environment with Nix included and flakes enabled [maintainer=@lucperkins]
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + tmux + neovim
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 
 ## Others 
 
@@ -668,6 +669,8 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds and Telegram bot for free game and loot offers.
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
@@ -791,6 +794,8 @@
 
 ## Rust 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -970,6 +975,7 @@
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor) - An assist for creating CSS snippets for Obsidian
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
+- [thelicato/asciified](https://github.com/thelicato/asciified) - A simple ASCII Art API with a good-looking Web App.
 - [agneym/the-reader](https://github.com/agneym/the-reader) - A JAM Stack Reading Mode PWA with React & Netlify Functions
 - [mgmeyers/obsidian-embedded-note-titles](https://github.com/mgmeyers/obsidian-embedded-note-titles) - 
 - [angelogiuseppe/force-resolutions](https://github.com/angelogiuseppe/force-resolutions) - This packages modifies package-lock.json to force the installation of specific version of a transitive dependency
