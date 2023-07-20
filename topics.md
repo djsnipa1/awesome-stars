@@ -316,6 +316,9 @@
 
 ## bash 
 
+- [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing
 - [bashup/mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -401,6 +404,7 @@
 
 ## cli 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
 - [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
@@ -513,17 +517,18 @@
 ## data-visualization 
 
 - [vasturiano/three-globe](https://github.com/vasturiano/three-globe) - WebGL Globe Data Visualization as a ThreeJS reusable 3D object
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 
 ## database 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
 ## deep-learning 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [maxent-ai/ocrpy](https://github.com/maxent-ai/ocrpy) - OCR, Archive, Index and Search: Implementation agnostic OCR framework.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -546,7 +551,7 @@
 
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 
 ## django 
 
@@ -566,7 +571,7 @@
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [yboyer/realreleaseradar](https://github.com/yboyer/realreleaseradar) - Creates and updates a Release Radar playlist on Spotify with all your new weekly tracks.
 
@@ -607,6 +612,7 @@
 
 ## emoji 
 
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [0x00memex/emoji-commit-cheat-sheet](https://github.com/0x00memex/emoji-commit-cheat-sheet) - 🍄 Bring life to your commits.
@@ -636,6 +642,7 @@
 
 ## firefox 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -706,6 +713,7 @@
 
 ## git 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
@@ -793,7 +801,7 @@
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [Mangeshrex/rxfetch](https://github.com/Mangeshrex/rxfetch) - A custom system info fetching tool
@@ -1013,7 +1021,7 @@
 
 - [ghuntley/ghuntley-monorepo-retired](https://github.com/ghuntley/ghuntley-monorepo-retired) - 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 
 ## laravel 
 
@@ -1032,6 +1040,9 @@
 
 ## linux 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
+- [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
 - [p3nguin-kun/penguinVim](https://github.com/p3nguin-kun/penguinVim) - NeoVim but better
 - [hackorum/nfs](https://github.com/hackorum/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
@@ -1055,7 +1066,7 @@
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) - A fast dotfiles and system configuration installer optimized for Gitpod and power users
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -1074,6 +1085,7 @@
 
 ## lua 
 
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [hackorum/nfs](https://github.com/hackorum/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
@@ -1095,15 +1107,17 @@
 
 ## machine-learning 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
 ## macos 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
@@ -1121,6 +1135,7 @@
 
 ## markdown 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [bashup/mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
 - [breakdance/breakdance-mercury](https://github.com/breakdance/breakdance-mercury) - Breakdance plugin for mercury, the spiritual successor to readability.com. Mercury removes ads and distractions from HTML before passing it to breakdance, resulting in cleaner, more readable markdown.
@@ -1172,7 +1187,7 @@
 
 ## mongodb 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
@@ -1180,7 +1195,7 @@
 
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 
 ## music 
 
@@ -1194,12 +1209,13 @@
 ## mysql 
 
 - [adventurer-hexed/HexedVisualizer](https://github.com/adventurer-hexed/HexedVisualizer) - Hexed Visualizer is an audio visualizer built for spotify.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [ezSQL/ezsql](https://github.com/ezSQL/ezsql) - PHP class to make interacting with a database ridiculusly easy
 
 ## neovim 
 
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Discover and share Neovim configs and plugins
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
@@ -1232,7 +1248,7 @@
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + tmux + neovim
 - [nvimdev/dope](https://github.com/nvimdev/dope) - a modern structure neovim config template write in lua
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) - A fast dotfiles and system configuration installer optimized for Gitpod and power users
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
@@ -1253,6 +1269,7 @@
 
 ## nlp 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [maxent-ai/ocrpy](https://github.com/maxent-ai/ocrpy) - OCR, Archive, Index and Search: Implementation agnostic OCR framework.
 
 ## node 
@@ -1320,6 +1337,7 @@
 
 ## others 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds and Telegram bot for free game and loot offers.
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
@@ -1726,7 +1744,7 @@
 
 ## postgresql 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
@@ -1808,6 +1826,7 @@
 
 ## pytorch 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## r 
@@ -1820,7 +1839,7 @@
 
 ## raspberry-pi 
 
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
 ## react 
@@ -1892,6 +1911,8 @@
 
 ## rust 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -1920,6 +1941,8 @@
 
 ## security 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -1947,6 +1970,7 @@
 
 ## server 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [bcyran/fancy-motd](https://github.com/bcyran/fancy-motd) - Fancy, colorful MOTD written in bash. Server status at a glance.
 - [lukejacksonn/servor](https://github.com/lukejacksonn/servor) - Dependency free file server for single page app development
 
@@ -1957,6 +1981,9 @@
 
 ## shell 
 
+- [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
+- [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) - Simple, extendable and embeddable scripting language.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [ninecath/nincat](https://github.com/ninecath/nincat) - A small, lightweight, and fun way to differentiate a new terminal from others *:｡･ﾟ.*ヽ(´∀｀ヽ)
@@ -2098,6 +2125,7 @@
 
 ## vim 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [DoomHammer/neovim-copilot-nix-bundle](https://github.com/DoomHammer/neovim-copilot-nix-bundle) - Run Neovim with GitHub Copilot out of the box
 - [p3nguin-kun/penguinVim](https://github.com/p3nguin-kun/penguinVim) - NeoVim but better
@@ -2111,7 +2139,7 @@
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + tmux + neovim
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
@@ -2176,6 +2204,7 @@
 
 ## windows 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
