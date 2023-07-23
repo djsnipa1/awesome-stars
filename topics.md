@@ -1337,6 +1337,7 @@
 
 ## others 
 
+- [cheeaun/node-hnapi](https://github.com/cheeaun/node-hnapi) - Unofficial Hacker News API
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds and Telegram bot for free game and loot offers.
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
