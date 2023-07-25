@@ -310,7 +310,6 @@
 - [ertdfgcvb/play.core](https://github.com/ertdfgcvb/play.core) - 
 - [nroutasuo/level13](https://github.com/nroutasuo/level13) - Incremental browser text adventure
 - [lucaong/jsterminal](https://github.com/lucaong/jsterminal) - JSterminal, one bookmarklet to rule 'em all
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [madbence/node-drawille-canvas](https://github.com/madbence/node-drawille-canvas) - 
 - [Scoder12/replitcli](https://github.com/Scoder12/replitcli) - A command line interface for repl.it
 - [makeitcount/saas-express-starter-kit](https://github.com/makeitcount/saas-express-starter-kit) - A boilerplate for any real world SaaS with features such as authentication, email service, etc.
@@ -972,6 +971,7 @@
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [dpwoert/magic-circle](https://github.com/dpwoert/magic-circle) - Creative coding UI
 - [ikeryou/sketch253](https://github.com/ikeryou/sketch253) - sketch253
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
