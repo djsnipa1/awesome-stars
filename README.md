@@ -243,6 +243,7 @@
 
 ## Haskell 
 
+- [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Java 
