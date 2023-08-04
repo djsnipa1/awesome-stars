@@ -605,7 +605,6 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
-- [0x00memex/emoji-commit-cheat-sheet](https://github.com/0x00memex/emoji-commit-cheat-sheet) - 🍄 Bring life to your commits.
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
 - [scottdorman/microsoft-terminal-settings](https://github.com/scottdorman/microsoft-terminal-settings) - A collection of profiles, color schemes and other settings for Windows Terminal
 - [RobertJGabriel/readme-template](https://github.com/RobertJGabriel/readme-template) - README.md template for your open-source project
