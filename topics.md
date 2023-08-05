@@ -1463,7 +1463,7 @@
 - [gitpod-samples/template-x11-vnc](https://github.com/gitpod-samples/template-x11-vnc) - A template, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral X11 development environments in the cloud via VNC.
 - [BeneathTheInk/html2md](https://github.com/BeneathTheInk/html2md) - HTML to Markdown converter in JavaScript.
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
-- [lorien/awesome-pastebin](https://github.com/lorien/awesome-pastebin) - List of pastebin sites.
+- [lorien/awesome-pastebin](https://github.com/lorien/awesome-pastebin) - List of pastebin services
 - [jes/hardbin](https://github.com/jes/hardbin) - Encrypted pastebin using IPFS
 - [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
 - [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome.
@@ -1630,7 +1630,6 @@
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [richi3f-zz/pokemon-trading-spreadsheet](https://github.com/richi3f-zz/pokemon-trading-spreadsheet) - A script made to display Pokémon trading information stored in Google Sheets
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
-- [itsjavi/swordshield-data](https://github.com/itsjavi/swordshield-data) - ⚔️🛡Pokémon Sword and Shield Data Dump parser in optimised JSON format. (Includes DLCs data).
 - [CarlHauschke/spotiauth](https://github.com/CarlHauschke/spotiauth) - Easily display the result that the Spotify Developer Authorization form returns
 - [RobertJGabriel/readme-template](https://github.com/RobertJGabriel/readme-template) - README.md template for your open-source project
 - [brentvollebregt/spotify-lyrics-viewer](https://github.com/brentvollebregt/spotify-lyrics-viewer) - View the lyrics of the current playing Spotify song in your browser
