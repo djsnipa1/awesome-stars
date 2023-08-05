@@ -575,7 +575,7 @@
 - [gitpod-samples/awesome-gitpod](https://github.com/gitpod-samples/awesome-gitpod) - 🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [zhukant/Karabiner-Numpad-Mode](https://github.com/zhukant/Karabiner-Numpad-Mode) - A Custom Complex Modification for Karabiner Elements by Tekezo
-- [lorien/awesome-pastebin](https://github.com/lorien/awesome-pastebin) - List of pastebin sites.
+- [lorien/awesome-pastebin](https://github.com/lorien/awesome-pastebin) - List of pastebin services
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
@@ -636,7 +636,6 @@
 
 - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-- [itsjavi/swordshield-data](https://github.com/itsjavi/swordshield-data) - ⚔️🛡Pokémon Sword and Shield Data Dump parser in optimised JSON format. (Includes DLCs data).
 - [datenstrom/yellow](https://github.com/datenstrom/yellow) - Datenstrom Yellow is for people who make small websites.
 - [electrikmilk/scpleditor-accounts-files](https://github.com/electrikmilk/scpleditor-accounts-files) - User account management backend and files API for the ScPL Editor. Written in procedural PHP.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
