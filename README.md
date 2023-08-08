@@ -168,7 +168,7 @@
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [AlexEidt/Amaze](https://github.com/AlexEidt/Amaze) - Maze Pattern Generator.
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
-- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 a CLI app can send pretty HTTP & API requests with TUI
+- [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -200,7 +200,7 @@
 - [viperML/neohome](https://github.com/viperML/neohome) - Source for https://ayats.org
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [4s3ti/terminalcv](https://github.com/4s3ti/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme
-- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.
+- [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
