@@ -825,7 +825,7 @@
 - [rust-motd/rust-motd](https://github.com/rust-motd/rust-motd) - Beautiful, useful, configurable MOTD generation with zero runtime dependencies
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
-- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [raftario/filite](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [jeremyschlatter/env](https://github.com/jeremyschlatter/env) - My development environment, managed by nix
