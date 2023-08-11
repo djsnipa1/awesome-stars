@@ -1351,6 +1351,7 @@
 
 ## others 
 
+- [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [viperML/neohome](https://github.com/viperML/neohome) - Source for https://ayats.org
