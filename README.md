@@ -456,7 +456,7 @@
 - [HendrickZhou/shazam-air](https://github.com/HendrickZhou/shazam-air) - music recognition and classifier project just like shazam but lighter and simpler
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [Ori5000/zspotifycolab](https://github.com/Ori5000/zspotifycolab) - ZSpotify? Now in Google Colab! :)
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes. 😎  published by the Naas community.
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data & AI templates, organized by tools to jumpstart your projects and data products in minutes.
 - [apolitical/colab-env](https://github.com/apolitical/colab-env) - Handles environment variables in Google Colab notebooks
 - [justmarkham/trump-lies](https://github.com/justmarkham/trump-lies) - Tutorial: Web scraping in Python with Beautiful Soup
 
