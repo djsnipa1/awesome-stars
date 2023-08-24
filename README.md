@@ -945,6 +945,7 @@
 
 ## TypeScript 
 
+- [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
