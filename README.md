@@ -1011,7 +1011,7 @@
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [misterpinedita/SpotiApp](https://github.com/misterpinedita/SpotiApp) - Angular App navigates through new releases and artist from data of spotify developer api
 - [josiahdahl/sieve](https://github.com/josiahdahl/sieve) - Discover your next favorite song or album - easily find new releases on Spotify
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
 
