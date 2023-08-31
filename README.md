@@ -353,7 +353,7 @@
 - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [mhyfritz/generative-art-speedrun-examples](https://github.com/mhyfritz/generative-art-speedrun-examples) - Examples from @tholman's "Generative Art Speedrun" talk
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
-- [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
+- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 An interesting markdown note taking application
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [felipecustodio/p5-starter](https://github.com/felipecustodio/p5-starter) - :herb: Boilerplate for p5.js projects, including VSCode Intellisense and linting for HTML, CSS and JS.
@@ -480,7 +480,6 @@
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
-- [p3nguin-kun/penguinVim](https://github.com/p3nguin-kun/penguinVim) - NeoVim but better
 - [hackorum/nfs](https://github.com/hackorum/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - A genaralized, personalized, and simple configuration.
