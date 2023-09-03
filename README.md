@@ -256,6 +256,7 @@
 
 ## JavaScript 
 
+- [adiptal/adiptal-editor](https://github.com/adiptal/adiptal-editor) - Adiptal Page Editor is an iframe based feature-rich JavaScript plugin to integrate in any cms/framework. With advanced features & nestable blocks, it gives clean output to design responsive pages.
 - [alisoft/github-trending-api](https://github.com/alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
 - [cheeaun/node-hnapi](https://github.com/cheeaun/node-hnapi) - Unofficial Hacker News API
@@ -861,6 +862,7 @@
 
 ## Shell 
 
+- [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
@@ -944,6 +946,7 @@
 
 ## TypeScript 
 
+- [Dan6erbond/sk-auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
