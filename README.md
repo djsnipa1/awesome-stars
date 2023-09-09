@@ -195,6 +195,8 @@
 
 ## HTML 
 
+- [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed) - Animated and tweakable starfield for HTML5 Canvas
+- [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
 - [viperML/neohome](https://github.com/viperML/neohome) - Source for https://ayats.org
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [4s3ti/terminalcv](https://github.com/4s3ti/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme
@@ -215,7 +217,6 @@
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [8BitJonny/liveSpotify](https://github.com/8BitJonny/liveSpotify) - Dynamic realtime profile ReadMe linked with spotify
 - [conradj/now-mercury-parser](https://github.com/conradj/now-mercury-parser) - Easily deployed mercury-parser endpoint
-- [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed) - Animated and tweakable starfield for HTML5 Canvas
 - [adolfintel/muhtriangles.js](https://github.com/adolfintel/muhtriangles.js) - A simple and lightweight library for drawing colorful and animated triangles to an HTML5 Canvas element, with a good amout of settings that you can tweak.
 - [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
@@ -256,6 +257,8 @@
 
 ## JavaScript 
 
+- [viclabV1/starfield](https://github.com/viclabV1/starfield) - Star field warp effect made using three.js as a background for my portfolio website
+- [GraemeFulton/ThreeJS-3D-Music-Visualizer](https://github.com/GraemeFulton/ThreeJS-3D-Music-Visualizer) - Three.js terrain + starfield (object oriented)
 - [chrisdiana/webden](https://github.com/chrisdiana/webden) - Open source mobile friendly code playground 📱
 - [adiptal/adiptal-editor](https://github.com/adiptal/adiptal-editor) - Adiptal Page Editor is an iframe based feature-rich JavaScript plugin to integrate in any cms/framework. With advanced features & nestable blocks, it gives clean output to design responsive pages.
 - [alisoft/github-trending-api](https://github.com/alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
