@@ -486,7 +486,7 @@
 - [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [krshoss/gardevoir](https://github.com/krshoss/gardevoir) - The Modern CSS Reset 🚀 (Formerly Reseter.css)
+- [xkrishguptaa/gardevoir](https://github.com/xkrishguptaa/gardevoir) - The Modern CSS Reset 🚀 (Formerly Reseter.css)
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
