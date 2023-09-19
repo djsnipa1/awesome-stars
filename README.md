@@ -257,6 +257,7 @@
 
 ## JavaScript 
 
+- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
 - [viclabV1/starfield](https://github.com/viclabV1/starfield) - Star field warp effect made using three.js as a background for my portfolio website
 - [GraemeFulton/ThreeJS-3D-Music-Visualizer](https://github.com/GraemeFulton/ThreeJS-3D-Music-Visualizer) - Three.js terrain + starfield (object oriented)
 - [chrisdiana/webden](https://github.com/chrisdiana/webden) - Open source mobile friendly code playground 📱
