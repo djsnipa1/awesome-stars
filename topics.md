@@ -637,7 +637,7 @@
 
 ## emulator 
 
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 
 ## es6 
