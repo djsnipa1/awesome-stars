@@ -1374,6 +1374,7 @@
 
 ## others 
 
+- [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph/Cody plugin for Neovim
 - [radulff/sveltekit-spotify-app](https://github.com/radulff/sveltekit-spotify-app) - SvelteKit Spotify Learning App
 - [viclabV1/starfield](https://github.com/viclabV1/starfield) - Star field warp effect made using three.js as a background for my portfolio website
 - [GraemeFulton/ThreeJS-3D-Music-Visualizer](https://github.com/GraemeFulton/ThreeJS-3D-Music-Visualizer) - Three.js terrain + starfield (object oriented)
