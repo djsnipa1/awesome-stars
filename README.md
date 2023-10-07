@@ -372,7 +372,7 @@
 - [JMPerez/spotify-dedup-mobile](https://github.com/JMPerez/spotify-dedup-mobile) - Spotify Dedup - Mobile app version
 - [JMPerez/contour](https://github.com/JMPerez/contour) - Draw an image with SVG
 - [spckio/spck-embed](https://github.com/spckio/spck-embed) - Full-fledged embeddable code editor designed for the web.
-- [aemkei/tixy](https://github.com/aemkei/tixy) - 
+- [aemkei/tixy](https://github.com/aemkei/tixy) - (t,i,x,y) =&gt; "creative code golfing"
 - [alirawashdeh/spotify-playlist-editor](https://github.com/alirawashdeh/spotify-playlist-editor) - A lightweight, mobile-friendly web application for reording tracks in Spotify playlists
 - [supahfunk/gradientwaves-svg](https://github.com/supahfunk/gradientwaves-svg) - 
 - [yaylinda/scriptable](https://github.com/yaylinda/scriptable) - Scripts and widgets for the iOS Scriptable App
@@ -871,6 +871,7 @@
 
 ## Shell 
 
+- [TheRealLorenz/lf-settings](https://github.com/TheRealLorenz/lf-settings) - This repository contains my configuration for lf file manager, file preview for lf, some custom settings and an install script.
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
@@ -957,6 +958,7 @@
 
 ## TypeScript 
 
+- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [Yureien/YABin](https://github.com/Yureien/YABin) - Yet another pastebin, simple but feature-rich, along with a CLI client
 - [Dan6erbond/sk-auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!
