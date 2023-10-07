@@ -1377,6 +1377,7 @@
 
 ## others 
 
+- [TheRealLorenz/lf-settings](https://github.com/TheRealLorenz/lf-settings) - This repository contains my configuration for lf file manager, file preview for lf, some custom settings and an install script.
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - The official Sourcegraph/Cody plugin for Neovim
 - [radulff/sveltekit-spotify-app](https://github.com/radulff/sveltekit-spotify-app) - SvelteKit Spotify Learning App
 - [viclabV1/starfield](https://github.com/viclabV1/starfield) - Star field warp effect made using three.js as a background for my portfolio website
@@ -1631,7 +1632,7 @@
 - [simurai/duotone-dark-syntax](https://github.com/simurai/duotone-dark-syntax) - DuoTone dark - A syntax theme for Atom
 - [simurai/duotone-syntax](https://github.com/simurai/duotone-syntax) - Master template for DuoTone syntax themes
 - [spckio/spck-embed](https://github.com/spckio/spck-embed) - Full-fledged embeddable code editor designed for the web.
-- [aemkei/tixy](https://github.com/aemkei/tixy) - 
+- [aemkei/tixy](https://github.com/aemkei/tixy) - (t,i,x,y) =&gt; "creative code golfing"
 - [DawnOfCrafting/DawnOfCrafting.github.io](https://github.com/DawnOfCrafting/DawnOfCrafting.github.io) - http://www.dawnofcrafting.com/
 - [alirawashdeh/spotify-playlist-editor](https://github.com/alirawashdeh/spotify-playlist-editor) - A lightweight, mobile-friendly web application for reording tracks in Spotify playlists
 - [supahfunk/gradientwaves-svg](https://github.com/supahfunk/gradientwaves-svg) - 
@@ -1900,6 +1901,7 @@
 
 ## react 
 
+- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -2094,6 +2096,7 @@
 
 ## svelte 
 
+- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [Aman07a/svelte-spotify](https://github.com/Aman07a/svelte-spotify) - Svelte & SvelteKit: The Complete Guide
 - [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
 - [Dan6erbond/sk-auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!
@@ -2245,6 +2248,7 @@
 
 ## vue 
 
+- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [aykutkardas/svgps.app](https://github.com/aykutkardas/svgps.app) - SVGPS converts your icons into a single JSON file that is ready to use in your frontend or mobile projects.
