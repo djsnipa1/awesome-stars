@@ -393,7 +393,7 @@
 - [JMPerez/spotify-player](https://github.com/JMPerez/spotify-player) - A wrapper around Spotify Connect to interact with the player
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [xpl/crx-hotreload](https://github.com/xpl/crx-hotreload) - Chrome Extension Hot Reloader
-- [Jam3/nice-color-palettes](https://github.com/Jam3/nice-color-palettes) - nice colour palettes as JSON
+- [Experience-Monks/nice-color-palettes](https://github.com/Experience-Monks/nice-color-palettes) - nice colour palettes as JSON
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [afeld/emoji-css](https://github.com/afeld/emoji-css) - An easy way to include emoji in your HTML
