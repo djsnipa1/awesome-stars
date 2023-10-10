@@ -1675,7 +1675,7 @@
 - [JMPerez/spotify-player](https://github.com/JMPerez/spotify-player) - A wrapper around Spotify Connect to interact with the player
 - [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
-- [Jam3/nice-color-palettes](https://github.com/Jam3/nice-color-palettes) - nice colour palettes as JSON
+- [Experience-Monks/nice-color-palettes](https://github.com/Experience-Monks/nice-color-palettes) - nice colour palettes as JSON
 - [pstaender/csv2md](https://github.com/pstaender/csv2md) - Converts csv data to markdown tables
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [rhiokim/markdown-css](https://github.com/rhiokim/markdown-css) - markdown theme standard style, using less (for haroopad)
