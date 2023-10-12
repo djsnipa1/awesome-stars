@@ -955,6 +955,7 @@
 
 ## javascript 
 
+- [kevinashworth/make-bookmarklet](https://github.com/kevinashworth/make-bookmarklet) - Using node, make a bookmarklet from your JavaScript file.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
 - [adiptal/adiptal-editor](https://github.com/adiptal/adiptal-editor) - Adiptal Page Editor is an iframe based feature-rich JavaScript plugin to integrate in any cms/framework. With advanced features & nestable blocks, it gives clean output to design responsive pages.
@@ -1127,7 +1128,7 @@
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [hackorum/nfs](https://github.com/hackorum/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - General, personal, and packed with laugh-out-loud startup messages! Enjoy your coding journey! 😄🚀
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Generalized and Personalized
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Lua port of the most famous vim colorscheme
@@ -1264,7 +1265,7 @@
 - [DoomHammer/neovim-copilot-nix-bundle](https://github.com/DoomHammer/neovim-copilot-nix-bundle) - Run Neovim with GitHub Copilot out of the box
 - [hackorum/nfs](https://github.com/hackorum/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - General, personal, and packed with laugh-out-loud startup messages! Enjoy your coding journey! 😄🚀
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Generalized and Personalized
 - [nickeb96/fish.vim](https://github.com/nickeb96/fish.vim) - Vim configuration for Fish
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
@@ -1325,6 +1326,7 @@
 
 ## nodejs 
 
+- [kevinashworth/make-bookmarklet](https://github.com/kevinashworth/make-bookmarklet) - Using node, make a bookmarklet from your JavaScript file.
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [folke/splashcii](https://github.com/folke/splashcii) - Simple cli tool that shows a random ascii art from https://www.asciiur.com/
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images)
