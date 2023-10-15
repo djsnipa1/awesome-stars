@@ -2144,6 +2144,7 @@
 - [bcicen/tcolors](https://github.com/bcicen/tcolors) - Commandline color picker and palette builder
 - [ArthurSonzogni/rgb-tui](https://github.com/ArthurSonzogni/rgb-tui) - Create and get colors code from the terminal using a nice interface.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
 - [gansm/finalcut](https://github.com/gansm/finalcut) - A text-based widget toolkit
