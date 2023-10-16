@@ -2099,6 +2099,7 @@
 
 ## svelte 
 
+- [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [Aman07a/svelte-spotify](https://github.com/Aman07a/svelte-spotify) - Svelte & SvelteKit: The Complete Guide
 - [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
