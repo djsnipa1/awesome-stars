@@ -1426,7 +1426,7 @@
 - [jaseg/lolcat](https://github.com/jaseg/lolcat) - High-performance implementation of https://github.com/busyloop/lolcat
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
-- [lookingcoolonavespa/Ether](https://github.com/lookingcoolonavespa/Ether) - 
+- [nksupermarket/Ether](https://github.com/nksupermarket/Ether) - 
 - [ofelizestevez/chameleon](https://github.com/ofelizestevez/chameleon) - 
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [mlorberdev/Palettes-API-NodeJS](https://github.com/mlorberdev/Palettes-API-NodeJS) - 
