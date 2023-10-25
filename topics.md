@@ -1385,6 +1385,7 @@
 
 ## others 
 
+- [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
 - [diogo-karma/bingchat-expressjs](https://github.com/diogo-karma/bingchat-expressjs) - Example of how to use BingChat with ExpressJS
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
 - [TheRealLorenz/lf-settings](https://github.com/TheRealLorenz/lf-settings) - This repository contains my configuration for lf file manager, file preview for lf, some custom settings and an install script.
