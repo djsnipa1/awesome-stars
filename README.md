@@ -109,7 +109,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [Thiews/Obsidian-Harmonic](https://github.com/Thiews/Obsidian-Harmonic) - Harmonic is a minimal and highly customizable theme for Obsidian.md
 - [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
-- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) - An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️.
 - [jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme) - CSS files and a template for using Pandoc to generate standalone HTML files
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
@@ -220,6 +219,7 @@
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [8BitJonny/liveSpotify](https://github.com/8BitJonny/liveSpotify) - Dynamic realtime profile ReadMe linked with spotify
 - [conradj/now-mercury-parser](https://github.com/conradj/now-mercury-parser) - Easily deployed mercury-parser endpoint
+- [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [adolfintel/muhtriangles.js](https://github.com/adolfintel/muhtriangles.js) - A simple and lightweight library for drawing colorful and animated triangles to an HTML5 Canvas element, with a good amout of settings that you can tweak.
 - [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
