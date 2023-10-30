@@ -947,6 +947,7 @@
 
 ## Svelte 
 
+- [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
 - [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
 - [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
 - [Aman07a/svelte-spotify](https://github.com/Aman07a/svelte-spotify) - Svelte & SvelteKit: The Complete Guide
