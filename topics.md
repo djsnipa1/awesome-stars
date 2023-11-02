@@ -1389,6 +1389,7 @@
 
 ## others 
 
+- [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) - 
 - [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
 - [diogo-karma/bingchat-expressjs](https://github.com/diogo-karma/bingchat-expressjs) - Example of how to use BingChat with ExpressJS
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
