@@ -124,6 +124,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [pentesting](#pentesting)
 - [php](#php)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
@@ -1797,6 +1798,11 @@
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [tapannallan/awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
+
+## pentesting 
+
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
 ## php 
 
