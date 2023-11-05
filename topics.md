@@ -493,7 +493,7 @@
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [xkrishguptaa/gardevoir](https://github.com/xkrishguptaa/gardevoir) - The Modern CSS Reset 🚀 (Formerly Reseter.css)
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
 - [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
@@ -892,7 +892,7 @@
 - [breakdance/breakdance-mercury](https://github.com/breakdance/breakdance-mercury) - Breakdance plugin for mercury, the spiritual successor to readability.com. Mercury removes ads and distractions from HTML before passing it to breakdance, resulting in cleaner, more readable markdown.
 - [breakdance/breakdance-request](https://github.com/breakdance/breakdance-request) - Convert webpages to markdown! API and CLI.
 - [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -1636,7 +1636,6 @@
 - [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
 - [spieglt/Cloaker.js](https://github.com/spieglt/Cloaker.js) - Simple password-based file encryption entirely in your browser, interoperable with Cloaker.
 - [peabrainiac/peabrainiac.github.io](https://github.com/peabrainiac/peabrainiac.github.io) - 
-- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [MamoruDS/TaioTrans](https://github.com/MamoruDS/TaioTrans) - Generate Taio's workflow with JS/TS
 - [PurpleGuitar/dynalist_utils_py](https://github.com/PurpleGuitar/dynalist_utils_py) - Python scripts for working with Dynalist documents
@@ -1835,6 +1834,7 @@
 
 ## programming 
 
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 
 ## publishing 
