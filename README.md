@@ -113,7 +113,7 @@
 - [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) - An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️.
 - [jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme) - CSS files and a template for using Pandoc to generate standalone HTML files
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
-- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Vallium/godoc-gruvbox](https://github.com/Vallium/godoc-gruvbox) - Gruvbox colors for https://godoc.org/, https://play.golang.org/ and https://golang.org/
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
@@ -210,7 +210,7 @@
 - [mikebarkmin/gitpod-workspace-full-vnc-java-ipad](https://github.com/mikebarkmin/gitpod-workspace-full-vnc-java-ipad) - 
 - [Tressley/_traichu](https://github.com/Tressley/_traichu) - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [benkeen/responsive-design-bookmarklet-generator](https://github.com/benkeen/responsive-design-bookmarklet-generator) - Generates custom bookmarklets for testing responsive layouts to show how they look in different viewport sizes.
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [filamentgroup/faux-pas](https://github.com/filamentgroup/faux-pas) - A script to highlight elements that are mismatched incorrectly to @​font-face blocks, which may result in shoddy faux bold or faux italic rendering.
