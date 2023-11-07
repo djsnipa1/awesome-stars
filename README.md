@@ -27,6 +27,7 @@
 - [Liquid](#liquid)
 - [Logos](#logos)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [Others](#others)
@@ -54,7 +55,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## C 
 
@@ -534,6 +535,10 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 
+## MDX 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
 ## Markdown 
 
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
@@ -583,7 +588,6 @@
 - [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively.
 - [khrome/ascii-art-docs](https://github.com/khrome/ascii-art-docs) - Documentation and test data for ascii-art
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [ThomasOrlita/awesome-bookmarklets](https://github.com/ThomasOrlita/awesome-bookmarklets) - Collection of useful bookmarklets for developers.
 - [gitpod-samples/awesome-gitpod](https://github.com/gitpod-samples/awesome-gitpod) - 🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.
