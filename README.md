@@ -84,7 +84,7 @@
 ## C++ 
 
 - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - 
-- [netxs-group/vtm](https://github.com/netxs-group/vtm) - Virtual terminal multiplexer with session sharing
+- [directvt/vtm](https://github.com/directvt/vtm) - virtual terminal multiplexer
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [ArthurSonzogni/rgb-tui](https://github.com/ArthurSonzogni/rgb-tui) - Create and get colors code from the terminal using a nice interface.
