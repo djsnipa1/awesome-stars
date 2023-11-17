@@ -1390,6 +1390,7 @@
 
 ## others 
 
+- [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
 - [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) - 
 - [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
 - [diogo-karma/bingchat-expressjs](https://github.com/diogo-karma/bingchat-expressjs) - Example of how to use BingChat with ExpressJS
