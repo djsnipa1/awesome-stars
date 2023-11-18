@@ -155,6 +155,7 @@
 - [sketch](#sketch)
 - [software](#software)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
@@ -1390,6 +1391,7 @@
 
 ## others 
 
+- [Rov3r/scmusicplus](https://github.com/Rov3r/scmusicplus) - Enhance your iOS SoundCloud experience
 - [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
 - [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) - 
 - [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
@@ -2107,6 +2109,10 @@
 ## sql 
 
 - [ezSQL/ezsql](https://github.com/ezSQL/ezsql) - PHP class to make interacting with a database ridiculusly easy
+
+## sqlite 
+
+- [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 
 ## statistics 
 
