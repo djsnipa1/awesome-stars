@@ -1391,6 +1391,7 @@
 
 ## others 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [Rov3r/scmusicplus](https://github.com/Rov3r/scmusicplus) - Enhance your iOS SoundCloud experience
 - [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
 - [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) - 
