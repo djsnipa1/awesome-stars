@@ -979,7 +979,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [huntabyte/mode-watcher](https://github.com/huntabyte/mode-watcher) - Simple light/dark mode management for SvelteKit apps. 🌑 ←→ ☀️
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) - 
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
