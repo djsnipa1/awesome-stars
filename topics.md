@@ -984,7 +984,7 @@
 - [kevinashworth/make-bookmarklet](https://github.com/kevinashworth/make-bookmarklet) - Using node, make a bookmarklet from your JavaScript file.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
-- [adiptal/adiptal-editor](https://github.com/adiptal/adiptal-editor) - Adiptal Page Editor is an iframe based feature-rich JavaScript plugin to integrate in any cms/framework. With advanced features & nestable blocks, it gives clean output to design responsive pages.
+- [adiptal/adiptal-editor](https://github.com/adiptal/adiptal-editor) - Adiptal Studio is an iframe based feature-rich JavaScript plugin to integrate in any cms/framework. With advanced features & nestable blocks, it gives clean output to design responsive pages.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
@@ -1053,7 +1053,7 @@
 
 ## js 
 
-- [adiptal/adiptal-editor](https://github.com/adiptal/adiptal-editor) - Adiptal Page Editor is an iframe based feature-rich JavaScript plugin to integrate in any cms/framework. With advanced features & nestable blocks, it gives clean output to design responsive pages.
+- [adiptal/adiptal-editor](https://github.com/adiptal/adiptal-editor) - Adiptal Studio is an iframe based feature-rich JavaScript plugin to integrate in any cms/framework. With advanced features & nestable blocks, it gives clean output to design responsive pages.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
