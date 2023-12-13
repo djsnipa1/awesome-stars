@@ -433,7 +433,6 @@
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [rikschennink/shiny](https://github.com/rikschennink/shiny) - 🌟 Shiny reflections for mobile websites
 - [jakiestfu/Behave.js](https://github.com/jakiestfu/Behave.js) - A lightweight, cross browser library for adding IDE style behaviors to plain text areas
-- [rez/notify](https://github.com/rez/notify) - Project to quickly obtain new releases and live shows of followed spotify artist.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ahmadawais/VSCode-Tips-Tricks](https://github.com/ahmadawais/VSCode-Tips-Tricks) - VSCode-Tips-Tricks Examples and Workflows to help you become a Visual Studio Code Power User →
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
@@ -526,7 +525,7 @@
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
 - [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) - 
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [nvimdev/dope](https://github.com/nvimdev/dope) - a modern structure neovim config template write in lua
@@ -957,6 +956,7 @@
 
 ## Svelte 
 
+- [AlessioGr/sveltescape](https://github.com/AlessioGr/sveltescape) - A stunning storybook alternative made with Svelte for Svelte
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
