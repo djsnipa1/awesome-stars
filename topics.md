@@ -95,6 +95,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
+- [latex](#latex)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -160,6 +161,7 @@
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
+- [storybook](#storybook)
 - [sublime-text](#sublime-text)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1094,6 +1096,10 @@
 - [sfx101/deck](https://github.com/sfx101/deck) - DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
+## latex 
+
+- [inns/mak](https://github.com/inns/mak) - A universal notepad. (WIP)
+
 ## learning 
 
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
@@ -1203,6 +1209,7 @@
 
 ## markdown 
 
+- [inns/mak](https://github.com/inns/mak) - A universal notepad. (WIP)
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [bashup/mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
@@ -1277,7 +1284,7 @@
 
 ## mysql 
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [adventurer-hexed/HexedVisualizer](https://github.com/adventurer-hexed/HexedVisualizer) - Hexed Visualizer is an audio visualizer built for spotify.
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -1337,7 +1344,7 @@
 
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [jasperhartong/scriptable-ts-boilerplate](https://github.com/jasperhartong/scriptable-ts-boilerplate) - A boilerplate for creating remote-updatable Scriptable widgets. Includes setup, components, utils and examples to develop in the comfort of TypeScript.
 
 ## nlp 
@@ -1396,7 +1403,7 @@
 
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -1558,7 +1565,7 @@
 - [georgealexanderday/nix-gitpod](https://github.com/georgealexanderday/nix-gitpod) - gitpod nix dotfiles
 - [benkeen/responsive-design-bookmarklet-generator](https://github.com/benkeen/responsive-design-bookmarklet-generator) - Generates custom bookmarklets for testing responsive layouts to show how they look in different viewport sizes.
 - [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) - 
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - magit for neovim
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [xamut/tmux-weather](https://github.com/xamut/tmux-weather) - 🌤 Weather plugin for tmux
 - [ichitaso/uYouPlus-for-JB](https://github.com/ichitaso/uYouPlus-for-JB) - uYouPlus is a modified version of uYou (made by @MiRO92) with additional features and mainly made for jailbroken users!
 - [the-nix-way/nix-flakes-gitpod](https://github.com/the-nix-way/nix-flakes-gitpod) - A GitPod environment with Nix included and flakes enabled [maintainer=@lucperkins]
@@ -1778,7 +1785,6 @@
 - [misterpinedita/SpotiApp](https://github.com/misterpinedita/SpotiApp) - Angular App navigates through new releases and artist from data of spotify developer api
 - [Yuzu/Spotifier](https://github.com/Yuzu/Spotifier) - A solution for keeping up to date w/ new Spotify artist releases!
 - [josiahdahl/sieve](https://github.com/josiahdahl/sieve) - Discover your next favorite song or album - easily find new releases on Spotify
-- [rez/notify](https://github.com/rez/notify) - Project to quickly obtain new releases and live shows of followed spotify artist.
 - [amiramitai/spotsync](https://github.com/amiramitai/spotsync) - Creates a new releases playlist from user's followed artists in spotify.
 - [gosulap/Spotify-forecast](https://github.com/gosulap/Spotify-forecast) - Finds songs that align with my music taste in Spotify's new releases
 - [kowenhouston/spotify-new-album](https://github.com/kowenhouston/spotify-new-album) - Do something when your favourite artist releases a new album
@@ -2156,6 +2162,10 @@
 
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 
+## storybook 
+
+- [AlessioGr/sveltescape](https://github.com/AlessioGr/sveltescape) - A stunning storybook alternative made with Svelte for Svelte
+
 ## sublime-text 
 
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -2163,6 +2173,7 @@
 
 ## svelte 
 
+- [AlessioGr/sveltescape](https://github.com/AlessioGr/sveltescape) - A stunning storybook alternative made with Svelte for Svelte
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
@@ -2271,7 +2282,7 @@
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images)
 - [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
