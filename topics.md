@@ -35,6 +35,7 @@
 - [cpp](#cpp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -545,6 +546,10 @@
 ## cybersecurity 
 
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+
+## dart 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## data-science 
 
