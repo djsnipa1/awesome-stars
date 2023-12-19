@@ -265,6 +265,8 @@
 
 ## JavaScript 
 
+- [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf) - 
+- [isontheline/pro.webssh.net](https://github.com/isontheline/pro.webssh.net) - iOS / iPadOS / macOS SSH Client
 - [b2renger/p5js-designing-interactive-patterns](https://github.com/b2renger/p5js-designing-interactive-patterns) - Code for a creative coding class with  graphics designers.
 - [b2renger/p5js_patterns](https://github.com/b2renger/p5js_patterns) - experiments with p5js and pattern design
 - [alialaa/css-grid-cheat-sheet](https://github.com/alialaa/css-grid-cheat-sheet) - CSS Grid Cheat Sheet
