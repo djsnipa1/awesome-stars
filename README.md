@@ -888,6 +888,7 @@
 
 ## Shell 
 
+- [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [hiifeng/V2ray-for-Codesandbox](https://github.com/hiifeng/V2ray-for-Codesandbox) - The tool can install v2ray on the Codesandbox, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 - [TheRealLorenz/lf-settings](https://github.com/TheRealLorenz/lf-settings) - This repository contains my configuration for lf file manager, file preview for lf, some custom settings and an install script.
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
