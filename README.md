@@ -291,7 +291,7 @@
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
 - [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
 - [F1LT3R/axel](https://github.com/F1LT3R/axel) - AXEL is a Node.js graphics library for drawing graphics to your console with ASCII characters. AXEL has been designed to help create games, retro graphics and spice up the terminal components of your 
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
+- [foldmap/colorette](https://github.com/foldmap/colorette) - 🌈Easily set your terminal text color & styles
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [ofelizestevez/chameleon](https://github.com/ofelizestevez/chameleon) - 
 - [kabirvirji/colortherapy](https://github.com/kabirvirji/colortherapy) - Generate playlists using colors
@@ -554,6 +554,7 @@
 
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [DoomHammer/neovim-copilot-nix-bundle](https://github.com/DoomHammer/neovim-copilot-nix-bundle) - Run Neovim with GitHub Copilot out of the box
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [winston0410/mkNodePackage](https://github.com/winston0410/mkNodePackage) - A helper flake for building Node.js package easily with Nix.
 - [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
 - [cpcloud/nix-config](https://github.com/cpcloud/nix-config) - My NixOS configuration
@@ -711,7 +712,6 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast
 - [dtaivpp/ghdorker](https://github.com/dtaivpp/ghdorker) - An extensible GitHub dorking project
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -910,7 +910,7 @@
 - [joshmedeski/fish-lf-icons](https://github.com/joshmedeski/fish-lf-icons) - Fish plugin to add Nerd Font icon support to the lf terminal file manager
 - [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Wallpapers for gruvbox
 - [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell) - fish and zsh support for the nix run and nix-shell environments of the Nix package manager
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+- [foldmap/fisher](https://github.com/foldmap/fisher) - A plugin manager for Fish
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome.
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
