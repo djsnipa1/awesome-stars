@@ -265,6 +265,7 @@
 
 ## JavaScript 
 
+- [d-velopment/SvelteKit-One-Bundle](https://github.com/d-velopment/SvelteKit-One-Bundle) - Hacky solution to build SvelteKit project in a looking-like-one bundle.js
 - [trim21/webpack-userscript-template](https://github.com/trim21/webpack-userscript-template) - template to build userscript with webpack
 - [dgreenheck/threejs-procedural-planets](https://github.com/dgreenheck/threejs-procedural-planets) - Procedurally generated planets using Three.js
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf) - 
