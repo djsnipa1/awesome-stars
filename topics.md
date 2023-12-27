@@ -1428,6 +1428,7 @@
 
 ## others 
 
+- [d-velopment/SvelteKit-One-Bundle](https://github.com/d-velopment/SvelteKit-One-Bundle) - Hacky solution to build SvelteKit project in a looking-like-one bundle.js
 - [dgreenheck/threejs-procedural-planets](https://github.com/dgreenheck/threejs-procedural-planets) - Procedurally generated planets using Three.js
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf) - 
