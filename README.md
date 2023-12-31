@@ -266,6 +266,7 @@
 
 ## JavaScript 
 
+- [mark-rolich/RulersGuides.js](https://github.com/mark-rolich/RulersGuides.js) - Creates Photoshop-like guides and rulers interface on a web page
 - [d-velopment/SvelteKit-One-Bundle](https://github.com/d-velopment/SvelteKit-One-Bundle) - Hacky solution to build SvelteKit project in a looking-like-one bundle.js
 - [trim21/webpack-userscript-template](https://github.com/trim21/webpack-userscript-template) - template to build userscript with webpack
 - [dgreenheck/threejs-procedural-planets](https://github.com/dgreenheck/threejs-procedural-planets) - Procedurally generated planets using Three.js
