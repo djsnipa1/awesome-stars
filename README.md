@@ -449,7 +449,6 @@
 - [nextapps-de/fat](https://github.com/nextapps-de/fat) - Web's fastest and most lightweight animation tool.
 - [noeldelgado/colour-lovers-palettes](https://github.com/noeldelgado/colour-lovers-palettes) - :lemon: Random Color Palettes (via ColourLovers' API)
 - [hlotvonen/glyph-drawing-club](https://github.com/hlotvonen/glyph-drawing-club) - GlyphDrawing.club is an online text art and modular design editor.
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [khrome/ascii-art](https://github.com/khrome/ascii-art) - A Node.js library for ansi codes, figlet fonts, ascii art and other ASCII graphics
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1066,10 +1065,11 @@
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [misterpinedita/SpotiApp](https://github.com/misterpinedita/SpotiApp) - Angular App navigates through new releases and artist from data of spotify developer api
 - [josiahdahl/sieve](https://github.com/josiahdahl/sieve) - Discover your next favorite song or album - easily find new releases on Spotify
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
 - [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## Vim Script 
 
