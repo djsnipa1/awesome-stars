@@ -502,6 +502,7 @@
 
 ## css 
 
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -1432,6 +1433,8 @@
 
 ## others 
 
+- [ivanzk/bookmarklet-webpack-template](https://github.com/ivanzk/bookmarklet-webpack-template) - Create bookmarklets using Webpack
+- [eonarheim/webpack-bookmarklet](https://github.com/eonarheim/webpack-bookmarklet) - Build a bookmarklet with webpack for automating your websites (Like YouTube)
 - [mark-rolich/RulersGuides.js](https://github.com/mark-rolich/RulersGuides.js) - Creates Photoshop-like guides and rulers interface on a web page
 - [d-velopment/SvelteKit-One-Bundle](https://github.com/d-velopment/SvelteKit-One-Bundle) - Hacky solution to build SvelteKit project in a looking-like-one bundle.js
 - [dgreenheck/threejs-procedural-planets](https://github.com/dgreenheck/threejs-procedural-planets) - Procedurally generated planets using Three.js
