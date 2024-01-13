@@ -318,6 +318,7 @@
 - [6zz/svelte-bookmarklet-tpl](https://github.com/6zz/svelte-bookmarklet-tpl) - a bookmarklet building tool that uses svelte for UI templating
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [myleftshoe/sveltekit-page-transitions](https://github.com/myleftshoe/sveltekit-page-transitions) - 
 - [sindresorhus/cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copy files
@@ -1030,7 +1031,6 @@
 - [folke/splashcii](https://github.com/folke/splashcii) - Simple cli tool that shows a random ascii art from https://www.asciiur.com/
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
-- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [EvitanRelta/htmlarkdown](https://github.com/EvitanRelta/htmlarkdown) - HTML-to-Markdown converter that adaptively preserves HTML when needed (eg. when center-aligning, or resizing images)
 - [aykutkardas/svgps.app](https://github.com/aykutkardas/svgps.app) - SVGPS converts your icons into a single JSON file that is ready to use in your frontend or mobile projects.
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
