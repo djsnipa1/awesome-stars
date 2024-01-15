@@ -198,6 +198,8 @@
 
 ## HTML 
 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [Jolg42/FontSquirrel-Fonts](https://github.com/Jolg42/FontSquirrel-Fonts) - Fonts from FontSquirrel
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
@@ -266,6 +268,7 @@
 
 ## JavaScript 
 
+- [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - A pastebin based on Cloudflare worker, with friendly CLI usage and rich features
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [NateBaldwinDesign/proportio](https://github.com/NateBaldwinDesign/proportio) - Tool for creating proportional scales for typography, iconography, spacing, and components in design systems.
 - [adobe/leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio
@@ -998,6 +1001,9 @@
 
 ## TypeScript 
 
+- [jozsefsallai/fastbin-rewritten](https://github.com/jozsefsallai/fastbin-rewritten) - modern self-hosted pastebin service - now serverless!
+- [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
