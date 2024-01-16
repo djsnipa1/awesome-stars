@@ -449,6 +449,7 @@
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [folke/splashcii](https://github.com/folke/splashcii) - Simple cli tool that shows a random ascii art from https://www.asciiur.com/
+- [directvt/vtm](https://github.com/directvt/vtm) - Text mode desktop
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -1453,6 +1454,8 @@
 
 ## others 
 
+- [chee/gruvbox.js](https://github.com/chee/gruvbox.js) - 
+- [mattdesl/promise-cookbook](https://github.com/mattdesl/promise-cookbook) - :orange_book: a brief introduction to using Promises in JavaScript
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
@@ -1738,7 +1741,7 @@
 - [DawnOfCrafting/DawnOfCrafting.github.io](https://github.com/DawnOfCrafting/DawnOfCrafting.github.io) - http://www.dawnofcrafting.com/
 - [alirawashdeh/spotify-playlist-editor](https://github.com/alirawashdeh/spotify-playlist-editor) - A lightweight, mobile-friendly web application for reording tracks in Spotify playlists
 - [supahfunk/gradientwaves-svg](https://github.com/supahfunk/gradientwaves-svg) - 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [Marak/asciimo](https://github.com/Marak/asciimo) - asciimo - create awesome ascii art with javascript! works in the browser or node.js
 - [gautamkrishnar/github-pages-gallery](https://github.com/gautamkrishnar/github-pages-gallery) - A zero dollar solution to host your photo/video gallery online using Github pages and GitHub Actions. No coding necessary.
