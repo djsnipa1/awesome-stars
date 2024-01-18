@@ -1454,6 +1454,7 @@
 
 ## others 
 
+- [tristancade/geomanist](https://github.com/tristancade/geomanist) - 
 - [chee/gruvbox.js](https://github.com/chee/gruvbox.js) - 
 - [mattdesl/promise-cookbook](https://github.com/mattdesl/promise-cookbook) - :orange_book: a brief introduction to using Promises in JavaScript
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
