@@ -576,7 +576,6 @@
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [winston0410/mkNodePackage](https://github.com/winston0410/mkNodePackage) - A helper flake for building Node.js package easily with Nix.
 - [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
-- [cpcloud/nix-config](https://github.com/cpcloud/nix-config) - My NixOS configuration
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
 - [takagiy/nixos-declarative-fish-plugin-mgr](https://github.com/takagiy/nixos-declarative-fish-plugin-mgr) - NixOS module to manage fish plugins declaratively
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
@@ -947,7 +946,7 @@
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [archcraft-os/archcraft-wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - // Packages : Wallpapers
-- [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
+- [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰. One can also display customized dynamic feed of information like we
 - [connordelacruz/chicago-ascii.sh](https://github.com/connordelacruz/chicago-ascii.sh) - ✶ ✶ ✶ ✶ Bash scripts for displaying ASCII art of Chicago flag/skyline in the terminal ✶ ✶ ✶ ✶
 - [inline-arc/pirate-notflix](https://github.com/inline-arc/pirate-notflix) - script to stream or download torrent website contents
 - [metrofish/metrofish](https://github.com/metrofish/metrofish) - Swift, git-aware, space-conscious, powerline prompt. 🚇
@@ -1092,7 +1091,7 @@
 - [WuTheFWasThat/vimflowy](https://github.com/WuTheFWasThat/vimflowy) - An open source productivity tool drawing inspiration from workflowy and vim
 - [misterpinedita/SpotiApp](https://github.com/misterpinedita/SpotiApp) - Angular App navigates through new releases and artist from data of spotify developer api
 - [josiahdahl/sieve](https://github.com/josiahdahl/sieve) - Discover your next favorite song or album - easily find new releases on Spotify
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert curl commands into code
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
 - [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
 - [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
