@@ -982,7 +982,7 @@
 
 ## Svelte 
 
-- [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template built in SvelteKit. Includes marketing page, blog, subscriptions, auth, user settings, pricing page, and more.
+- [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
 - [Ennoriel/svelte-awesome-color-picker](https://github.com/Ennoriel/svelte-awesome-color-picker) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
 - [AlessioGr/sveltescape](https://github.com/AlessioGr/sveltescape) - A stunning storybook alternative made with Svelte for Svelte
