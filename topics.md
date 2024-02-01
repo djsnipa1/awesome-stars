@@ -418,7 +418,6 @@
 ## chrome 
 
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
@@ -1846,7 +1845,7 @@
 - [amiramitai/spotsync](https://github.com/amiramitai/spotsync) - Creates a new releases playlist from user's followed artists in spotify.
 - [gosulap/Spotify-forecast](https://github.com/gosulap/Spotify-forecast) - Finds songs that align with my music taste in Spotify's new releases
 - [kowenhouston/spotify-new-album](https://github.com/kowenhouston/spotify-new-album) - Do something when your favourite artist releases a new album
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [t-MURO/taditech](https://github.com/t-MURO/taditech) - Spotify tools - reorder playlists / see your followed artists new releases!
 - [kafene/bookmarklet-combiner](https://github.com/kafene/bookmarklet-combiner) - combine all your bookmarklets into one.
 - [wizardg/paintstrap](https://github.com/wizardg/paintstrap) - Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
