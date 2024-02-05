@@ -721,6 +721,7 @@
 
 ## Python 
 
+- [itfoundry/khand](https://github.com/itfoundry/khand) - Khand, a Devanagari + Latin family for Google Fonts.
 - [thebenezer/stippling](https://github.com/thebenezer/stippling) - stippling using circle packing
 - [Yannis4444/Orange-Share](https://github.com/Yannis4444/Orange-Share) - A small python server that accepts requests from an Apple shortcut to allow sharing all sorts of media from iOS with any desktop OS. It allows sending content right from the share sheet - similar to A
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
