@@ -1240,7 +1240,7 @@
 ## markdown 
 
 - [inns/mak](https://github.com/inns/mak) - A universal notepad. (WIP)
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Workshop for the mind
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hacker's notebook
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [bashup/mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
