@@ -441,6 +441,7 @@
 
 ## cli 
 
+- [saadeghi/tailwindcss-document-cli](https://github.com/saadeghi/tailwindcss-document-cli) - Tailwind CSS Document for CLI
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -508,6 +509,7 @@
 
 ## css 
 
+- [saadeghi/tailwindcss-document-cli](https://github.com/saadeghi/tailwindcss-document-cli) - Tailwind CSS Document for CLI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
@@ -1734,7 +1736,7 @@
 - [fedecalendino/spotify-data-reader](https://github.com/fedecalendino/spotify-data-reader) - 
 - [CyanBook/spotipy2](https://github.com/CyanBook/spotipy2) - The next generation Spotify Web API wrapper for Python 3.7+
 - [sameehaafr/SPLEETER](https://github.com/sameehaafr/SPLEETER) - Extract the stems (piano, bass, drums, vocals, etc.) of any audio/songs from YouTube.
-- [alexlee-dev/create-cli-application](https://github.com/alexlee-dev/create-cli-application) - A bootstrapper for creating a cli application with Node.
+- [actuallyReallyAlex/create-cli-application](https://github.com/actuallyReallyAlex/create-cli-application) - A bootstrapper for creating a cli application with Node.
 - [felipecustodio/p5-starter](https://github.com/felipecustodio/p5-starter) - :herb: Boilerplate for p5.js projects, including VSCode Intellisense and linting for HTML, CSS and JS.
 - [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
 - [spieglt/Cloaker.js](https://github.com/spieglt/Cloaker.js) - Simple password-based file encryption entirely in your browser, interoperable with Cloaker.
