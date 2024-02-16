@@ -1321,7 +1321,6 @@
 ## music 
 
 - [adventurer-hexed/HexedVisualizer](https://github.com/adventurer-hexed/HexedVisualizer) - Hexed Visualizer is an audio visualizer built for spotify.
-- [jsavargas/zspotify](https://github.com/jsavargas/zspotify) - 
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [kabirvirji/singlespotify](https://github.com/kabirvirji/singlespotify) - 🎵 Create Spotify playlists based on one artist through the command line
 - [brentvollebregt/emotionify](https://github.com/brentvollebregt/emotionify) - Webapp than can create emotionally gradiented Spotify playlists and more 🎵🎧🔀
