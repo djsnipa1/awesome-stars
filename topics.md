@@ -11,6 +11,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -240,6 +241,12 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [electrikmilk/scpleditor-accounts-files](https://github.com/electrikmilk/scpleditor-accounts-files) - User account management backend and files API for the ScPL Editor. Written in procedural PHP.
 - [radusuciu/savesoundcloud](https://github.com/radusuciu/savesoundcloud) - Web app for exporting information from soundcloud to csv
+
+## archlinux 
+
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
+- [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 
 ## artificial-intelligence 
 
@@ -1262,7 +1269,7 @@
 - [breakdance/breakdance](https://github.com/breakdance/breakdance) - It's time for your markup to get down! HTML to markdown converter. Breakdance is a highly pluggable, flexible and easy to use.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
-- [jacany/nosbin](https://github.com/jacany/nosbin) - nostr pastebin
+- [chakany/nosbin](https://github.com/chakany/nosbin) - nostr pastebin
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [lapwat/papeer](https://github.com/lapwat/papeer) - Scrape the web in the eink era. Convert websites into ebooks and markdown.
@@ -1468,6 +1475,7 @@
 
 ## others 
 
+- [PacketSurf/ZSpotifyGUI](https://github.com/PacketSurf/ZSpotifyGUI) - A user-friendly GUI for the ZSpotify music downloader.
 - [itfoundry/khand](https://github.com/itfoundry/khand) - Khand, a Devanagari + Latin family for Google Fonts.
 - [thebenezer/stippling](https://github.com/thebenezer/stippling) - stippling using circle packing
 - [tristancade/geomanist](https://github.com/tristancade/geomanist) - 
