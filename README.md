@@ -474,7 +474,7 @@
 - [epsil/spotgen](https://github.com/epsil/spotgen) - Spotify Playlist Generator
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
-- [zininzinin/AutoTrimps](https://github.com/zininzinin/AutoTrimps) - Automation for the idle incremental game 'Trimps'
+- [WG-SpaceCoder/AutoTrimps](https://github.com/WG-SpaceCoder/AutoTrimps) - Automation for the idle incremental game 'Trimps'
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [yyx990803/HTML5-Clear-v2](https://github.com/yyx990803/HTML5-Clear-v2) - HTML5 Clear version 2
