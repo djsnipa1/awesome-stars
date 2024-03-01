@@ -1891,7 +1891,7 @@
 - [ChristinWhite/iosWorkflows](https://github.com/ChristinWhite/iosWorkflows) - This is a collection of bookmarklets, scripts and custom URL scheme actions that help bridge apps and manipulate the data you can send between them.
 - [jal278/spotify-playlist-export](https://github.com/jal278/spotify-playlist-export) - javascript-based playlist exporter for spotify based on handlebars and the spotify web api
 - [kevinmurphy678/Stardew_Injector](https://github.com/kevinmurphy678/Stardew_Injector) - Stardew  Valley Various Mods (obsolete)
-- [zininzinin/AutoTrimps](https://github.com/zininzinin/AutoTrimps) - Automation for the idle incremental game 'Trimps'
+- [WG-SpaceCoder/AutoTrimps](https://github.com/WG-SpaceCoder/AutoTrimps) - Automation for the idle incremental game 'Trimps'
 - [ddevault/srutils](https://github.com/ddevault/srutils) - Subreddit tools for Reddit moderators
 - [onlinecreation/uuu.tf](https://github.com/onlinecreation/uuu.tf) - UTF-8 and HTML characters map
 - [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents
@@ -2366,7 +2366,6 @@
 
 ## typescript 
 
-- [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [trim21/webpack-userscript-template](https://github.com/trim21/webpack-userscript-template) - template to build userscript with webpack
