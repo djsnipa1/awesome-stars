@@ -1589,7 +1589,7 @@
 - [ryantm/home-manager-template](https://github.com/ryantm/home-manager-template) - A quick-start template for using home-manager in a more reproducible way.
 - [devidw/cookiecutter-bookmarklet](https://github.com/devidw/cookiecutter-bookmarklet) - Boilerplate template to create new bookmarklets blazingly fast.
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
-- [wochap/nvim](https://github.com/wochap/nvim) - NvChad + LazyVim + my custom config
+- [wochap/nvim](https://github.com/wochap/nvim) - Blazingly fast nvim config inspired by NvChad and LazyVim
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - [ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
