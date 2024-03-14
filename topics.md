@@ -1479,6 +1479,7 @@
 
 ## others 
 
+- [jlowin/aimages](https://github.com/jlowin/aimages) - Generate images with hidden text
 - [PacketSurf/ZSpotifyGUI](https://github.com/PacketSurf/ZSpotifyGUI) - A user-friendly GUI for the ZSpotify music downloader.
 - [itfoundry/khand](https://github.com/itfoundry/khand) - Khand, a Devanagari + Latin family for Google Fonts.
 - [thebenezer/stippling](https://github.com/thebenezer/stippling) - stippling using circle packing
