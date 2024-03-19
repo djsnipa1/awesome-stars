@@ -634,7 +634,6 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [0zul/LavalinkOnHeroku](https://github.com/0zul/LavalinkOnHeroku) - A test heroku app to deploy your own lavalink server
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -951,6 +950,7 @@
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A bash compiler written in bash to help create modular and maintainable bash projects.
 - [ConnerWill/cheat-fzf](https://github.com/ConnerWill/cheat-fzf) - Browse UNIX/Linux Command Cheatsheets from cht.sh/cheat.sh using fzf
 - [xamut/tmux-weather](https://github.com/xamut/tmux-weather) - 🌤 Weather plugin for tmux
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [djsnipa1/ctf-colab](https://github.com/djsnipa1/ctf-colab) - 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
