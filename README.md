@@ -743,7 +743,7 @@
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast
 - [dtaivpp/ghdorker](https://github.com/dtaivpp/ghdorker) - An extensible GitHub dorking project
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
