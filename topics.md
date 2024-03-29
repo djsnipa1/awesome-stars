@@ -1700,7 +1700,7 @@
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [MarcelMue/konstrukt](https://github.com/MarcelMue/konstrukt) - Commandline tool for me to play with concrete art.
 - [kyle-rb/simplecopy](https://github.com/kyle-rb/simplecopy) - A really basic copy-to-clipboard JavaScript library.
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
