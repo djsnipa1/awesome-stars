@@ -960,7 +960,7 @@
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [archcraft-os/archcraft-wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - // Packages : Wallpapers
-- [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
+- [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [connordelacruz/chicago-ascii.sh](https://github.com/connordelacruz/chicago-ascii.sh) - ✶ ✶ ✶ ✶ Bash scripts for displaying ASCII art of Chicago flag/skyline in the terminal ✶ ✶ ✶ ✶
 - [inline-arc/pirate-notflix](https://github.com/inline-arc/pirate-notflix) - script to stream or download torrent website contents
 - [metrofish/metrofish](https://github.com/metrofish/metrofish) - Swift, git-aware, space-conscious, powerline prompt. 🚇
