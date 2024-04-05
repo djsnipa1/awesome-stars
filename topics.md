@@ -77,6 +77,7 @@
 - [graphql](#graphql)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [homebrew](#homebrew)
@@ -878,6 +879,11 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [jstrieb/ctf-collab](https://github.com/jstrieb/ctf-collab) - Collaborative programming environment inside GitHub Actions – like Google Docs for hacking
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+
+## hacking-tool 
+
+- [jm33-m0/mec](https://github.com/jm33-m0/mec) - for mass exploiting
+- [jstrieb/ctf-collab](https://github.com/jstrieb/ctf-collab) - Collaborative programming environment inside GitHub Actions – like Google Docs for hacking
 
 ## hacktoberfest 
 
