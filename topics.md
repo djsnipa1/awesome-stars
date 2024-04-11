@@ -1494,6 +1494,7 @@
 
 ## others 
 
+- [BernardZhao/lenssort](https://github.com/BernardZhao/lenssort) - Making some cool pfps 👩‍🎤
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
 - [jlowin/aimages](https://github.com/jlowin/aimages) - Generate images with hidden text
 - [PacketSurf/ZSpotifyGUI](https://github.com/PacketSurf/ZSpotifyGUI) - A user-friendly GUI for the ZSpotify music downloader.
