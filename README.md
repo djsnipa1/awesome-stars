@@ -735,6 +735,7 @@
 
 ## Python 
 
+- [BernardZhao/lenssort](https://github.com/BernardZhao/lenssort) - Making some cool pfps 👩‍🎤
 - [jlowin/aimages](https://github.com/jlowin/aimages) - Generate images with hidden text
 - [PacketSurf/ZSpotifyGUI](https://github.com/PacketSurf/ZSpotifyGUI) - A user-friendly GUI for the ZSpotify music downloader.
 - [itfoundry/khand](https://github.com/itfoundry/khand) - Khand, a Devanagari + Latin family for Google Fonts.
