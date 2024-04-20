@@ -78,6 +78,7 @@
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [homebrew](#homebrew)
@@ -886,6 +887,10 @@
 ## hacking-tool 
 
 - [jm33-m0/mec](https://github.com/jm33-m0/mec) - for mass exploiting
+- [jstrieb/ctf-collab](https://github.com/jstrieb/ctf-collab) - Collaborative programming environment inside GitHub Actions – like Google Docs for hacking
+
+## hacking-tools 
+
 - [jstrieb/ctf-collab](https://github.com/jstrieb/ctf-collab) - Collaborative programming environment inside GitHub Actions – like Google Docs for hacking
 
 ## hacktoberfest 
