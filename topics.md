@@ -1520,7 +1520,7 @@
 - [Jolg42/FontSquirrel-Fonts](https://github.com/Jolg42/FontSquirrel-Fonts) - Fonts from FontSquirrel
 - [NateBaldwinDesign/proportio](https://github.com/NateBaldwinDesign/proportio) - Tool for creating proportional scales for typography, iconography, spacing, and components in design systems.
 - [adobe/leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio
-- [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) - Color scheme for neovim, based on SublimeText 4 monokai
 - [ivanzk/bookmarklet-webpack-template](https://github.com/ivanzk/bookmarklet-webpack-template) - Create bookmarklets using Webpack
 - [eonarheim/webpack-bookmarklet](https://github.com/eonarheim/webpack-bookmarklet) - Build a bookmarklet with webpack for automating your websites (Like YouTube)
