@@ -1171,6 +1171,7 @@
 
 - [Carza-104/apple-svelte](https://github.com/Carza-104/apple-svelte) - UI component library for Svelte based on Apple's Human Interface design language.
 - [gansm/finalcut](https://github.com/gansm/finalcut) - A text-based widget toolkit
+- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 
 ## linux 
@@ -1357,6 +1358,7 @@
 ## music 
 
 - [adventurer-hexed/HexedVisualizer](https://github.com/adventurer-hexed/HexedVisualizer) - Hexed Visualizer is an audio visualizer built for spotify.
+- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [kabirvirji/singlespotify](https://github.com/kabirvirji/singlespotify) - 🎵 Create Spotify playlists based on one artist through the command line
 - [brentvollebregt/emotionify](https://github.com/brentvollebregt/emotionify) - Webapp than can create emotionally gradiented Spotify playlists and more 🎵🎧🔀
@@ -1759,7 +1761,6 @@
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [interstar/bootdown](https://github.com/interstar/bootdown) - REALLY lazy static sites with Markdown and Bootstrap
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
-- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [adolfintel/muhtriangles.js](https://github.com/adolfintel/muhtriangles.js) - A simple and lightweight library for drawing colorful and animated triangles to an HTML5 Canvas element, with a good amout of settings that you can tweak.
 - [angelogiuseppe/force-resolutions](https://github.com/angelogiuseppe/force-resolutions) - This packages modifies package-lock.json to force the installation of specific version of a transitive dependency
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
