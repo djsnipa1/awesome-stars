@@ -351,7 +351,6 @@
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
 - [spotky1004/Resource-Grid](https://github.com/spotky1004/Resource-Grid) - Fill 9x9 grid with various Resources!
-- [alyxdow/pixel2svg-demo](https://github.com/alyxdow/pixel2svg-demo) - 
 - [Ennoriel/bead-pattern](https://github.com/Ennoriel/bead-pattern) - 
 - [ironhack-labs/lab-express-spotify](https://github.com/ironhack-labs/lab-express-spotify) - 
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
