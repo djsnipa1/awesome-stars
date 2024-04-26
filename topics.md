@@ -1691,7 +1691,6 @@
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [archcraft-os/archcraft-wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - // Packages : Wallpapers
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
-- [alyxdow/pixel2svg-demo](https://github.com/alyxdow/pixel2svg-demo) - 
 - [jes97210/beading_design](https://github.com/jes97210/beading_design) - A Python application where the user can design beading patterns
 - [Ennoriel/bead-pattern](https://github.com/Ennoriel/bead-pattern) - 
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
