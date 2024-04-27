@@ -1506,6 +1506,7 @@
 
 ## others 
 
+- [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [BernardZhao/lenssort](https://github.com/BernardZhao/lenssort) - Making some cool pfps 👩‍🎤
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
 - [jlowin/aimages](https://github.com/jlowin/aimages) - Generate images with hidden text
@@ -1567,7 +1568,7 @@
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins
-- [4s3ti/terminalcv](https://github.com/4s3ti/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
+- [coolapso/terminalcv](https://github.com/coolapso/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
 - [benlinton/slugify](https://github.com/benlinton/slugify) - Bash command that converts filenames and directories to a web friendly format.
 - [anoduck/anoduck](https://github.com/anoduck/anoduck) - Github Profile page for Anoduck:
 - [dominikduda/tmux_mode_indicator](https://github.com/dominikduda/tmux_mode_indicator) - Tmux plugin that indicate modes you are in (normal/prefix, copy/insert)
