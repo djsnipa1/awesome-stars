@@ -297,7 +297,6 @@
 - [diogo-karma/bingchat-expressjs](https://github.com/diogo-karma/bingchat-expressjs) - Example of how to use BingChat with ExpressJS
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
 - [kevinashworth/make-bookmarklet](https://github.com/kevinashworth/make-bookmarklet) - Using node, make a bookmarklet from your JavaScript file.
-- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
 - [viclabV1/starfield](https://github.com/viclabV1/starfield) - Star field warp effect made using three.js as a background for my portfolio website
 - [GraemeFulton/ThreeJS-3D-Music-Visualizer](https://github.com/GraemeFulton/ThreeJS-3D-Music-Visualizer) - Three.js terrain + starfield (object oriented)
 - [chrisdiana/webden](https://github.com/chrisdiana/webden) - Open source mobile friendly code playground 📱
@@ -1046,6 +1045,7 @@
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) - 
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
+- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [Yureien/YABin](https://github.com/Yureien/YABin) - Yet another pastebin, simple but feature-rich, along with a CLI client
 - [Dan6erbond/sk-auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!
