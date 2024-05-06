@@ -396,6 +396,7 @@
 
 ## bootstrap 
 
+- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
 - [edwinwebb/three-seed](https://github.com/edwinwebb/three-seed) - A Three.js starter project with ES6 and Webpack
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [twbs/bootstrap-expo](https://github.com/twbs/bootstrap-expo) - Beautiful and inspiring uses of Bootstrap.
