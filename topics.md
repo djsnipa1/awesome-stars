@@ -1515,6 +1515,7 @@
 
 ## others 
 
+- [bhaskarGyan/sveltekit-device-detector](https://github.com/bhaskarGyan/sveltekit-device-detector) - Detect device, and render view according to the detected device type.
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [BernardZhao/lenssort](https://github.com/BernardZhao/lenssort) - Making some cool pfps 👩‍🎤
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
