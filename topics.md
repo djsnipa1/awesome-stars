@@ -456,6 +456,7 @@
 
 ## cli 
 
+- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 - [saadeghi/tailwindcss-document-cli](https://github.com/saadeghi/tailwindcss-document-cli) - Tailwind CSS Document for CLI
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
@@ -832,6 +833,7 @@
 
 ## go 
 
+- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
@@ -847,6 +849,8 @@
 
 ## golang 
 
+- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
+- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
@@ -1945,6 +1949,7 @@
 
 ## p2p 
 
+- [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 
 ## package-manager 
