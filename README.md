@@ -737,6 +737,7 @@
 
 ## Python 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [BernardZhao/lenssort](https://github.com/BernardZhao/lenssort) - Making some cool pfps 👩‍🎤
 - [jlowin/aimages](https://github.com/jlowin/aimages) - Generate images with hidden text
