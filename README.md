@@ -249,7 +249,7 @@
 - [Martins-Bruno/material-colors-palette](https://github.com/Martins-Bruno/material-colors-palette) - 
 - [divshot/geo-bootstrap](https://github.com/divshot/geo-bootstrap) - A timeless Twitter Bootstrap theme built for the modern web.
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 - [wizardg/paintstrap](https://github.com/wizardg/paintstrap) - Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
 - [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [bootstrap-build/bootstrap.build](https://github.com/bootstrap-build/bootstrap.build) - 🔥 Powerful Bootstrap theme builder for your next project
@@ -684,13 +684,11 @@
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [kafene/bookmarklet-combiner](https://github.com/kafene/bookmarklet-combiner) - combine all your bookmarklets into one.
 - [lvwzhen/tools](https://github.com/lvwzhen/tools) - Tools Online
-- [jordanmerrick/shortcuts](https://github.com/jordanmerrick/shortcuts) - Shortcuts I've created.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
 - [CarlHauschke/Spotify-Shortcuts-iOS12](https://github.com/CarlHauschke/Spotify-Shortcuts-iOS12) - This repository contains a list of all available Shortcuts to control Spotify as well as an update mechanism.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [jordanmerrick/shortcutsdirectory](https://github.com/jordanmerrick/shortcutsdirectory) - A collection of user-submitted shortcuts for Shortcuts for iOS.
 - [ChristinWhite/iosWorkflows](https://github.com/ChristinWhite/iosWorkflows) - This is a collection of bookmarklets, scripts and custom URL scheme actions that help bridge apps and manipulate the data you can send between them.
 - [jal278/spotify-playlist-export](https://github.com/jal278/spotify-playlist-export) - javascript-based playlist exporter for spotify based on handlebars and the spotify web api
 - [JenniferMadden/View-Source-Chart](https://github.com/JenniferMadden/View-Source-Chart) - Visualize DOM structure and hierarchy. Navigate DOM and troubleshoot HTML at lightning speed.
