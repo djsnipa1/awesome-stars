@@ -121,7 +121,7 @@
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Vallium/godoc-gruvbox](https://github.com/Vallium/godoc-gruvbox) - Gruvbox colors for https://godoc.org/, https://play.golang.org/ and https://golang.org/
-- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [simurai/duotone-dark-syntax](https://github.com/simurai/duotone-dark-syntax) - DuoTone dark - A syntax theme for Atom
 - [simurai/duotone-syntax](https://github.com/simurai/duotone-syntax) - Master template for DuoTone syntax themes
 - [gautamkrishnar/github-pages-gallery](https://github.com/gautamkrishnar/github-pages-gallery) - A zero dollar solution to host your photo/video gallery online using Github pages and GitHub Actions. No coding necessary.
@@ -407,7 +407,7 @@
 - [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
 - [spieglt/Cloaker.js](https://github.com/spieglt/Cloaker.js) - Simple password-based file encryption entirely in your browser, interoperable with Cloaker.
 - [peabrainiac/peabrainiac.github.io](https://github.com/peabrainiac/peabrainiac.github.io) - 
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [JMPerez/spotify-dedup-mobile](https://github.com/JMPerez/spotify-dedup-mobile) - Spotify Dedup - Mobile app version
 - [JMPerez/contour](https://github.com/JMPerez/contour) - Draw an image with SVG
 - [spckio/spck-embed](https://github.com/spckio/spck-embed) - Full-fledged embeddable code editor designed for the web.
@@ -1039,7 +1039,7 @@
 - [BearToCode/mismerge](https://github.com/BearToCode/mismerge) - A modern merge editor for the Web
 - [jozsefsallai/fastbin-rewritten](https://github.com/jozsefsallai/fastbin-rewritten) - modern self-hosted pastebin service - now serverless!
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
