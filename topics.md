@@ -398,7 +398,7 @@
 
 ## bootstrap 
 
-- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
+- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte(kit) apps
 - [edwinwebb/three-seed](https://github.com/edwinwebb/three-seed) - A Three.js starter project with ES6 and Webpack
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [twbs/bootstrap-expo](https://github.com/twbs/bootstrap-expo) - Beautiful and inspiring uses of Bootstrap.
@@ -1604,7 +1604,7 @@
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins
-- [coolapso/terminalcv](https://github.com/coolapso/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
+- [coolapso/hugo-theme-terminalcv](https://github.com/coolapso/hugo-theme-terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
 - [benlinton/slugify](https://github.com/benlinton/slugify) - Bash command that converts filenames and directories to a web friendly format.
 - [anoduck/anoduck](https://github.com/anoduck/anoduck) - Github Profile page for Anoduck:
 - [dominikduda/tmux_mode_indicator](https://github.com/dominikduda/tmux_mode_indicator) - Tmux plugin that indicate modes you are in (normal/prefix, copy/insert)
@@ -2349,7 +2349,7 @@
 - [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [Aman07a/svelte-spotify](https://github.com/Aman07a/svelte-spotify) - Svelte & SvelteKit: The Complete Guide
-- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte apps
+- [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte(kit) apps
 - [Dan6erbond/sk-auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [rosano/launchlet](https://github.com/rosano/launchlet) - Make the web yours.
