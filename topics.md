@@ -1742,7 +1742,7 @@
 - [acheronfail/pixel-picker](https://github.com/acheronfail/pixel-picker) - A tiny menu bar application that helps you pick colours from your screen! 🔍✨
 - [marcin-chwedczuk/hilbert_curve](https://github.com/marcin-chwedczuk/hilbert_curve) - Drawing Hilbert curve iteratively
 - [lucaong/jsterminal](https://github.com/lucaong/jsterminal) - JSterminal, one bookmarklet to rule 'em all
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
 - [inline-arc/pirate-notflix](https://github.com/inline-arc/pirate-notflix) - script to stream or download torrent website contents
 - [madbence/node-drawille-canvas](https://github.com/madbence/node-drawille-canvas) - 
