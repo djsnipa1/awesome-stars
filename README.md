@@ -608,7 +608,7 @@
 - [georgealexanderday/nix-gitpod](https://github.com/georgealexanderday/nix-gitpod) - gitpod nix dotfiles
 - [the-nix-way/nix-flakes-gitpod](https://github.com/the-nix-way/nix-flakes-gitpod) - A GitPod environment with Nix included and flakes enabled [maintainer=@lucperkins]
 - [breuerfelix/dotfiles](https://github.com/breuerfelix/dotfiles) - macOS + nix + home-manager + yabai + zsh + zellij + neovim
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon]
 
 ## Nushell 
 
