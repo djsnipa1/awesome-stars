@@ -584,7 +584,6 @@
 
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [DoomHammer/neovim-copilot-nix-bundle](https://github.com/DoomHammer/neovim-copilot-nix-bundle) - Run Neovim with GitHub Copilot out of the box
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [winston0410/mkNodePackage](https://github.com/winston0410/mkNodePackage) - A helper flake for building Node.js package easily with Nix.
 - [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
 - [barrucadu/nixfiles](https://github.com/barrucadu/nixfiles) - My NixOS configuration and assorted other crap.
@@ -603,7 +602,6 @@
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [nix-community/pnpm2nix](https://github.com/nix-community/pnpm2nix) - Load pnpm lock files into nix :) [maintainer=@adisbladis]
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [binzcodes/new](https://github.com/binzcodes/new) - A remote, reproducible, ephemeral, sandboxed and completely diposable nix-based dev env
 - [georgealexanderday/nix-gitpod](https://github.com/georgealexanderday/nix-gitpod) - gitpod nix dotfiles
 - [the-nix-way/nix-flakes-gitpod](https://github.com/the-nix-way/nix-flakes-gitpod) - A GitPod environment with Nix included and flakes enabled [maintainer=@lucperkins]
@@ -616,6 +614,7 @@
 
 ## Others 
 
+- [UndoTheFirewall/Using-The-API](https://github.com/UndoTheFirewall/Using-The-API) - 
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) - Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
 - [mattdesl/promise-cookbook](https://github.com/mattdesl/promise-cookbook) - :orange_book: a brief introduction to using Promises in JavaScript
@@ -764,6 +763,7 @@
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [ms-jpq/isomorphic_copy](https://github.com/ms-jpq/isomorphic_copy) - Cross platform clipboard | networkless! remote copy
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane) - 🔥 Blazing fast bulk data transfers between any cloud 🔥
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -943,6 +943,7 @@
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [dominikduda/tmux_mode_indicator](https://github.com/dominikduda/tmux_mode_indicator) - Tmux plugin that indicate modes you are in (normal/prefix, copy/insert)
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) - 🎨 Tmux powerline theme
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [bcyran/fancy-motd](https://github.com/bcyran/fancy-motd) - Fancy, colorful MOTD written in bash. Server status at a glance.
 - [wklken/bash-utils](https://github.com/wklken/bash-utils) - utils for shell
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
