@@ -949,7 +949,7 @@
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
 - [V1D1AN/S1EM](https://github.com/V1D1AN/S1EM) - This project is a SIEM with SIRP and Threat Intel, all in one.
 - [joshmedeski/fish-lf-icons](https://github.com/joshmedeski/fish-lf-icons) - Fish plugin to add Nerd Font icon support to the lf terminal file manager
-- [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Wallpapers for gruvbox
+- [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox theme Wallpapers
 - [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell) - fish and zsh support for the nix run and nix-shell environments of the Nix package manager
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
