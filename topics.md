@@ -1700,7 +1700,7 @@
 - [gitpod-samples/template-x11-vnc](https://github.com/gitpod-samples/template-x11-vnc) - A template, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral X11 development environments in the cloud via VNC.
 - [BeneathTheInk/html2md](https://github.com/BeneathTheInk/html2md) - HTML to Markdown converter in JavaScript.
 - [merlinmann/wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
-- [lorien/awesome-pastebin](https://github.com/lorien/awesome-pastebin) - List of pastebin services
+- [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
 - [jes/hardbin](https://github.com/jes/hardbin) - Encrypted pastebin using IPFS
 - [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
 - [oh-my-fish/theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome.
