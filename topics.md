@@ -1409,6 +1409,7 @@
 
 ## neovim 
 
+- [elythh/nixvim](https://github.com/elythh/nixvim) - ❄️ my neovim config using nixvim
 - [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -1541,6 +1542,7 @@
 
 ## others 
 
+- [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
 - [UndoTheFirewall/Using-The-API](https://github.com/UndoTheFirewall/Using-The-API) - 
 - [bhaskarGyan/sveltekit-device-detector](https://github.com/bhaskarGyan/sveltekit-device-detector) - Detect device, and render view according to the detected device type.
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
@@ -2469,6 +2471,7 @@
 
 ## vim 
 
+- [elythh/nixvim](https://github.com/elythh/nixvim) - ❄️ my neovim config using nixvim
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
