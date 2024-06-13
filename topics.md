@@ -1542,6 +1542,7 @@
 
 ## others 
 
+- [braebo/frackit](https://github.com/braebo/frackit) - Minimal Sveltekit starter template.
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
 - [UndoTheFirewall/Using-The-API](https://github.com/UndoTheFirewall/Using-The-API) - 
 - [bhaskarGyan/sveltekit-device-detector](https://github.com/bhaskarGyan/sveltekit-device-detector) - Detect device, and render view according to the detected device type.
