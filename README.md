@@ -961,7 +961,7 @@
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A bash compiler written in bash to help create modular and maintainable bash projects.
 - [ConnerWill/cheat-fzf](https://github.com/ConnerWill/cheat-fzf) - Browse UNIX/Linux Command Cheatsheets from cht.sh/cheat.sh using fzf
-- [xamut/tmux-weather](https://github.com/xamut/tmux-weather) - 🌤 Weather plugin for tmux
+- [ilya-manin/tmux-weather](https://github.com/ilya-manin/tmux-weather) - 🌤 Weather plugin for tmux
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [djsnipa1/ctf-colab](https://github.com/djsnipa1/ctf-colab) - 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
