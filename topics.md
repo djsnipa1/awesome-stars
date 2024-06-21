@@ -2478,7 +2478,7 @@
 ## vim 
 
 - [elythh/nixvim](https://github.com/elythh/nixvim) - ❄️ my neovim config using nixvim
-- [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
+- [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for modern Neovim.
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
