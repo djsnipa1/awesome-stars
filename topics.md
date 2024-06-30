@@ -1076,6 +1076,7 @@
 
 ## javascript 
 
+- [Krazete/bookmarklets](https://github.com/Krazete/bookmarklets) - My JavaScript bookmarklets.
 - [DaveKeehl/svelte-reveal](https://github.com/DaveKeehl/svelte-reveal) - Svelte action that leverages the Intersection Observer API to trigger reveal on scroll transitions.
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
