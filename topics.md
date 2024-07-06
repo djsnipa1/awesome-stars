@@ -1548,6 +1548,7 @@
 
 ## others 
 
+- [gre/bezier-easing](https://github.com/gre/bezier-easing) - cubic-bezier implementation for your JavaScript animation easings – MIT License
 - [braebo/frackit](https://github.com/braebo/frackit) - Minimal Sveltekit starter template.
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
 - [UndoTheFirewall/Using-The-API](https://github.com/UndoTheFirewall/Using-The-API) - 
