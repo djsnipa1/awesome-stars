@@ -1548,6 +1548,8 @@
 
 ## others 
 
+- [mwrouse/message-bubbles](https://github.com/mwrouse/message-bubbles) - A little proof of concept for text message style CSS lists
+- [acconrad/css3-iphone-textmsg](https://github.com/acconrad/css3-iphone-textmsg) - A Pure CSS3 iPhone Text Message Demo
 - [gre/bezier-easing](https://github.com/gre/bezier-easing) - cubic-bezier implementation for your JavaScript animation easings – MIT License
 - [braebo/frackit](https://github.com/braebo/frackit) - Minimal Sveltekit starter template.
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
