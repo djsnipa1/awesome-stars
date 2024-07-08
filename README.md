@@ -100,6 +100,7 @@
 
 ## CSS 
 
+- [mwrouse/message-bubbles](https://github.com/mwrouse/message-bubbles) - A little proof of concept for text message style CSS lists
 - [tristancade/geomanist](https://github.com/tristancade/geomanist) - 
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
@@ -622,6 +623,7 @@
 
 ## Others 
 
+- [acconrad/css3-iphone-textmsg](https://github.com/acconrad/css3-iphone-textmsg) - A Pure CSS3 iPhone Text Message Demo
 - [UndoTheFirewall/Using-The-API](https://github.com/UndoTheFirewall/Using-The-API) - 
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) - Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
