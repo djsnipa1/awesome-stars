@@ -1048,6 +1048,7 @@
 
 ## TypeScript 
 
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Rate limiting, bot protection, email verification & attack defense for Node.js, Next.js, Bun & SvelteKit.
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
 - [bhaskarGyan/sveltekit-device-detector](https://github.com/bhaskarGyan/sveltekit-device-detector) - Detect device, and render view according to the detected device type.
