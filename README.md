@@ -376,7 +376,7 @@
 - [madbence/node-drawille-canvas](https://github.com/madbence/node-drawille-canvas) - 
 - [Scoder12/replitcli](https://github.com/Scoder12/replitcli) - A command line interface for repl.it
 - [makeitcount/saas-express-starter-kit](https://github.com/makeitcount/saas-express-starter-kit) - A boilerplate for any real world SaaS with features such as authentication, email service, etc.
-- [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [maxlath/ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - A command line executable to add a file to IPFS from a URL instead of a file path
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
 - [alainbryden/bitburner-scripts](https://github.com/alainbryden/bitburner-scripts) - My own scripts for playing bitburner
@@ -408,6 +408,7 @@
 - [SuperFola/MyReadingList](https://github.com/SuperFola/MyReadingList) - A lightweight reading list handler
 - [interstar/bootdown](https://github.com/interstar/bootdown) - REALLY lazy static sites with Markdown and Bootstrap
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [lord63/figlet_web](https://github.com/lord63/figlet_web) - Generate text to ASCII art! TRY IT NOW: http://text2ascii.lord63.com/
 - [enjeck/gfolio](https://github.com/enjeck/gfolio) - Google Search themed portfolio website, made using ReactJS
 - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
@@ -920,7 +921,6 @@
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [rhysd/vim-color-spring-night](https://github.com/rhysd/vim-color-spring-night) - Low-contrast calm color scheme for Vim
