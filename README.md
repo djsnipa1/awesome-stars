@@ -1018,6 +1018,8 @@
 
 ## Svelte 
 
+- [babakfp/svelte-outclick](https://github.com/babakfp/svelte-outclick) - A Svelte component that allows you to listen to the clicks that happen outside of an element.
+- [babakfp/epicgamesapi](https://github.com/babakfp/epicgamesapi) - Built afater being inspired by https://github.com/marclou ❤️
 - [braebo/frackit](https://github.com/braebo/frackit) - Minimal Sveltekit starter template.
 - [Carza-104/apple-svelte](https://github.com/Carza-104/apple-svelte) - UI component library for Svelte based on Apple's Human Interface design language.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -1049,6 +1051,7 @@
 
 ## TypeScript 
 
+- [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A Tailwindcss plugin that adds extra utilities and more.
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Rate limiting, bot protection, email verification & attack defense for Node.js, Next.js, Bun & SvelteKit.
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
