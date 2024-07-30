@@ -242,6 +242,7 @@
 
 ## api 
 
+- [babakfp/epicgamesapi](https://github.com/babakfp/epicgamesapi) - Built afater being inspired by https://github.com/marclou ❤️
 - [jozsefsallai/fastbin-rewritten](https://github.com/jozsefsallai/fastbin-rewritten) - modern self-hosted pastebin service - now serverless!
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -1576,6 +1577,7 @@
 
 ## others 
 
+- [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A Tailwindcss plugin that adds extra utilities and more.
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
 - [thelevicole/stripe-gradient](https://github.com/thelevicole/stripe-gradient) - A reverse engineered, and simplified javascript library to replicate the animated Stripe gradients.
@@ -2383,6 +2385,7 @@
 
 ## svelte 
 
+- [babakfp/svelte-outclick](https://github.com/babakfp/svelte-outclick) - A Svelte component that allows you to listen to the clicks that happen outside of an element.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Carza-104/apple-svelte](https://github.com/Carza-104/apple-svelte) - UI component library for Svelte based on Apple's Human Interface design language.
 - [DaveKeehl/svelte-reveal](https://github.com/DaveKeehl/svelte-reveal) - Svelte action that leverages the Intersection Observer API to trigger reveal on scroll transitions.
