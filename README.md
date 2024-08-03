@@ -285,6 +285,7 @@
 
 ## JavaScript 
 
+- [texel-org/color](https://github.com/texel-org/color) - modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [thelevicole/stripe-gradient](https://github.com/thelevicole/stripe-gradient) - A reverse engineered, and simplified javascript library to replicate the animated Stripe gradients.
 - [gre/bezier-easing](https://github.com/gre/bezier-easing) - cubic-bezier implementation for your JavaScript animation easings – MIT License
 - [Krazete/bookmarklets](https://github.com/Krazete/bookmarklets) - My JavaScript bookmarklets.
@@ -944,6 +945,7 @@
 
 ## Shell 
 
+- [simonmysun/ell](https://github.com/simonmysun/ell) - A command-line interface for LLMs written in Bash.
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [hiifeng/V2ray-for-Codesandbox](https://github.com/hiifeng/V2ray-for-Codesandbox) - The tool can install v2ray on the Codesandbox, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
