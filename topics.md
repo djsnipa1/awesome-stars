@@ -1275,6 +1275,7 @@
 
 ## llm 
 
+- [simonmysun/ell](https://github.com/simonmysun/ell) - A command-line interface for LLMs written in Bash.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 
@@ -1577,6 +1578,7 @@
 
 ## others 
 
+- [texel-org/color](https://github.com/texel-org/color) - modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A Tailwindcss plugin that adds extra utilities and more.
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
