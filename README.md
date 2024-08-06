@@ -536,7 +536,7 @@
 
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for modern Neovim.
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) - ⚡ TypeScript integration NeoVim deserves ⚡
-- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [ryoppippi/svelte_inspector.vim](https://github.com/ryoppippi/svelte_inspector.vim) - 
 - [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) - Color scheme for neovim, based on SublimeText 4 monokai
@@ -988,7 +988,7 @@
 - [connordelacruz/chicago-ascii.sh](https://github.com/connordelacruz/chicago-ascii.sh) - ✶ ✶ ✶ ✶ Bash scripts for displaying ASCII art of Chicago flag/skyline in the terminal ✶ ✶ ✶ ✶
 - [inline-arc/pirate-notflix](https://github.com/inline-arc/pirate-notflix) - script to stream or download torrent website contents
 - [metrofish/metrofish](https://github.com/metrofish/metrofish) - Swift, git-aware, space-conscious, powerline prompt. 🚇
-- [vaniacer/info-bar](https://github.com/vaniacer/info-bar) - CLI info bar
+- [vaniacer/info-bar](https://github.com/vaniacer/info-bar) - CLI $PS1 extension. It shows current dir, username, hostname, date and time, git status (if in git folger) and some animations in upper row leaving whole string for commands.
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [archcraft-os/archcraft-openbox](https://github.com/archcraft-os/archcraft-openbox) - // Configuration : Openbox
 - [NullBhikkhu/Google-Chrome-backup](https://github.com/NullBhikkhu/Google-Chrome-backup) - A tool to backup Google Chrome personal data
