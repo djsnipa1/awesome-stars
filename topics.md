@@ -88,6 +88,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -1049,6 +1050,10 @@
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests
 
+## https 
+
+- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
+
 ## icon-font 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1793,7 +1798,7 @@
 - [inline-arc/pirate-notflix](https://github.com/inline-arc/pirate-notflix) - script to stream or download torrent website contents
 - [madbence/node-drawille-canvas](https://github.com/madbence/node-drawille-canvas) - 
 - [NotNexuss/NodeJS-Project-Hoster](https://github.com/NotNexuss/NodeJS-Project-Hoster) - Host your repl.it project 24/7 with this code!, compatible with Node.JS.
-- [Scoder12/replitcli](https://github.com/Scoder12/replitcli) - A command line interface for repl.it
+- [spencerpogo/replitcli](https://github.com/spencerpogo/replitcli) - A command line interface for repl.it
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [metrofish/metrofish](https://github.com/metrofish/metrofish) - Swift, git-aware, space-conscious, powerline prompt. 🚇
 - [vaniacer/info-bar](https://github.com/vaniacer/info-bar) - CLI $PS1 extension. It shows current dir, username, hostname, date and time, git status (if in git folger) and some animations in upper row leaving whole string for commands.
@@ -1995,7 +2000,6 @@
 - [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
 - [hlotvonen/glyph-drawing-club](https://github.com/hlotvonen/glyph-drawing-club) - GlyphDrawing.club is an online text art and modular design editor.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [bootstrap-build/bootstrap.build](https://github.com/bootstrap-build/bootstrap.build) - 🔥 Powerful Bootstrap theme builder for your next project
 - [maxwellito/vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 - [Slesa/launchy](https://github.com/Slesa/launchy) - Fork from SourceForge project
