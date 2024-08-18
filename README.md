@@ -374,7 +374,7 @@
 - [nroutasuo/level13](https://github.com/nroutasuo/level13) - Incremental browser text adventure
 - [lucaong/jsterminal](https://github.com/lucaong/jsterminal) - JSterminal, one bookmarklet to rule 'em all
 - [madbence/node-drawille-canvas](https://github.com/madbence/node-drawille-canvas) - 
-- [Scoder12/replitcli](https://github.com/Scoder12/replitcli) - A command line interface for repl.it
+- [spencerpogo/replitcli](https://github.com/spencerpogo/replitcli) - A command line interface for repl.it
 - [makeitcount/saas-express-starter-kit](https://github.com/makeitcount/saas-express-starter-kit) - A boilerplate for any real world SaaS with features such as authentication, email service, etc.
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [maxlath/ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - A command line executable to add a file to IPFS from a URL instead of a file path
