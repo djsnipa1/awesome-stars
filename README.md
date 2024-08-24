@@ -1050,6 +1050,7 @@
 
 ## TypeScript 
 
+- [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Olivr/nx-copybara](https://github.com/Olivr/nx-copybara) - Example of using Copybara to open-source a library from a nx monorepo
 - [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A Tailwindcss plugin that adds extra utilities and more.
