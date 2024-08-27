@@ -442,6 +442,7 @@
 - [Benzeliden/MerchantGameDB](https://github.com/Benzeliden/MerchantGameDB) - 
 - [richi3f-zz/pokemon-trading-spreadsheet](https://github.com/richi3f-zz/pokemon-trading-spreadsheet) - A script made to display Pokémon trading information stored in Google Sheets
 - [kabirvirji/singlespotify](https://github.com/kabirvirji/singlespotify) - 🎵 Create Spotify playlists based on one artist through the command line
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [dkidd928/YouTubeClean](https://github.com/dkidd928/YouTubeClean) - A JavaScript project to view YouTube videos/playlists as their embedded equivalent.
 - [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [JMPerez/spotify-player](https://github.com/JMPerez/spotify-player) - A wrapper around Spotify Connect to interact with the player
@@ -940,7 +941,6 @@
 - [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) - A Comprehensive, Highly-Customisable and Elegant Light/Dark Theme for Obsidian.md
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [creativetimofficial/argon-design-system-angular](https://github.com/creativetimofficial/argon-design-system-angular) - 
 - [twbs/bootstrap-expo](https://github.com/twbs/bootstrap-expo) - Beautiful and inspiring uses of Bootstrap.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
