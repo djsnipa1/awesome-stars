@@ -73,7 +73,7 @@
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [tiehuis/2048-cli](https://github.com/tiehuis/2048-cli) - The game 2048 for your Linux terminal (https://github.com/gabrielecirulli/2048)
 - [VaughnValle/blue-sky](https://github.com/VaughnValle/blue-sky) - A clean and blue BSPWM setup
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [o-oconnell/mp4grep](https://github.com/o-oconnell/mp4grep) - mp4grep is a CLI for transcribing and searching audio/video files
 - [Francesco149/weebp](https://github.com/Francesco149/weebp) - free and open-source wallpaper engine, set any window as your wallpaper
@@ -282,7 +282,7 @@
 - [HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Free your Apple Notes data from Notes.app
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [shazam/choreographer-example](https://github.com/shazam/choreographer-example) - Companion repo for Shazam's tagging animation blog post
-- [HarryDulaney/deezer-web-app](https://github.com/HarryDulaney/deezer-web-app) - Full-Stack Web Application Client for Deezer's music API.
+- [HarryDulaney/deezer-web-app](https://github.com/HarryDulaney/deezer-web-app) - Music and Discography Explorer - Spring MVC SSR  Web Application
 
 ## JavaScript 
 
@@ -1057,6 +1057,7 @@
 
 ## TypeScript 
 
+- [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [CarbonPackages/Carbon.ColorPicker.OKLCH](https://github.com/CarbonPackages/Carbon.ColorPicker.OKLCH) - Color picker for Neos CMS who saves the color in the OKLCH color space
 - [ducan-ne/remove-bg](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
