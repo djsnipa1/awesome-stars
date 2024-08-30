@@ -1605,6 +1605,9 @@
 
 ## others 
 
+- [Bingchatbot/copilot-bing](https://github.com/Bingchatbot/copilot-bing) - Created with CodeSandbox
+- [SokWith/mscopilot-proxy](https://github.com/SokWith/mscopilot-proxy) - Cloudflare Pages 的 Microsoft Copilot 代理。源自 https://github.com/jianjianai/microsoft-copilot-porxy 改写;Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内轻松使用原滋原味的 Microsoft Copilot 的
+- [robbie-cahill/serve-public](https://github.com/robbie-cahill/serve-public) - Serve any folder with a public URL
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [ducan-ne/remove-bg](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
