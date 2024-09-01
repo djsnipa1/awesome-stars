@@ -164,6 +164,7 @@
 
 ## Go 
 
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -892,6 +893,8 @@
 
 ## Rust 
 
+- [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [andremaha/md2html](https://github.com/andremaha/md2html) - CLI utility to convert markdown files into the most beautiful HTML you have ever seen. Written in Rust.
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
