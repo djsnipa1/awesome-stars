@@ -1613,6 +1613,7 @@
 
 ## others 
 
+- [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
 - [charltoons/color-thief-ts](https://github.com/charltoons/color-thief-ts) - Grab the color palette from an image using just Javascript. Works in the browser and in Node.
 - [null2/color-thief](https://github.com/null2/color-thief) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
 - [adamkali/vaporlush](https://github.com/adamkali/vaporlush) - An absolutely dank vaporwave aesthetic 🌌 🌊
