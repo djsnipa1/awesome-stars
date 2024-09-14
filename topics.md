@@ -2293,6 +2293,7 @@
 
 ## rust 
 
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
