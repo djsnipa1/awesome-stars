@@ -280,7 +280,6 @@
 
 ## Java 
 
-- [Termux-Monet/termux-monet](https://github.com/Termux-Monet/termux-monet) - Termux Monet - a terminal emulator application for Android 8+ OS extendible by variety of packages, with Monet support and experimental features.
 - [HamburgChimps/apple-notes-liberator](https://github.com/HamburgChimps/apple-notes-liberator) - Free your Apple Notes data from Notes.app
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [shazam/choreographer-example](https://github.com/shazam/choreographer-example) - Companion repo for Shazam's tagging animation blog post
@@ -288,6 +287,7 @@
 
 ## JavaScript 
 
+- [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - JavaScript utility library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
 - [javierbyte/color-sort](https://github.com/javierbyte/color-sort) - A simple lib for sorting colors by perception.
 - [JWally/vomitorium](https://github.com/JWally/vomitorium) - Traverse project structure and write file contents to a single output file
 - [null2/color-thief](https://github.com/null2/color-thief) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
@@ -959,6 +959,7 @@
 
 ## Shell 
 
+- [vlisivka/bash-modules](https://github.com/vlisivka/bash-modules) - Useful modules for bash
 - [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
 - [simonmysun/ell](https://github.com/simonmysun/ell) - A command-line interface for LLMs written in Bash.
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
