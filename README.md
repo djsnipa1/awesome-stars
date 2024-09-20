@@ -215,7 +215,6 @@
 - [Jolg42/FontSquirrel-Fonts](https://github.com/Jolg42/FontSquirrel-Fonts) - Fonts from FontSquirrel
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
-- [Rov3r/scmusicplus](https://github.com/Rov3r/scmusicplus) - Enhance your iOS SoundCloud experience
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed) - Animated and tweakable starfield for HTML5 Canvas
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
@@ -531,6 +530,7 @@
 
 ## Logos 
 
+- [Rov3r/scmusicplus](https://github.com/Rov3r/scmusicplus) - Enhance your iOS SoundCloud experience
 - [ichitaso/uYouPlus-for-JB](https://github.com/ichitaso/uYouPlus-for-JB) - uYouPlus is a modified version of uYou (made by @MiRO92) with additional features and mainly made for jailbroken users!
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 
