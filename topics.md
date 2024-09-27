@@ -2463,7 +2463,7 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [BearToCode/mismerge](https://github.com/BearToCode/mismerge) - A modern merge editor for the Web
-- [ryoppippi/vim-svelte-inspector](https://github.com/ryoppippi/vim-svelte-inspector) - Vim/Neovim Plugin that allows you to use svelte-inspector in your editor!
+- [ryoppippi/vim-svelte-inspector](https://github.com/ryoppippi/vim-svelte-inspector) - Use Svelte Inspector in Vim/Neovim!
 - [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
 - [Ennoriel/svelte-awesome-color-picker](https://github.com/Ennoriel/svelte-awesome-color-picker) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
