@@ -479,7 +479,7 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [ahmadawais/VSCode-Tips-Tricks](https://github.com/ahmadawais/VSCode-Tips-Tricks) - VSCode-Tips-Tricks Examples and Workflows to help you become a Visual Studio Code Power User →
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [wwwtyro/vixel](https://github.com/wwwtyro/vixel) - A WebGL voxel path tracer
 - [Chalarangelo/create-js-project](https://github.com/Chalarangelo/create-js-project) - Set up a JavaScript project by running one command.
 - [nextapps-de/fat](https://github.com/nextapps-de/fat) - Web's fastest and most lightweight animation tool.
