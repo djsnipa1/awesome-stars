@@ -1633,6 +1633,7 @@
 
 ## others 
 
+- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [sheharyar2/tailwind-colors-object](https://github.com/sheharyar2/tailwind-colors-object) - in colors.js files i have added all the colors with their codes.
 - [vlisivka/bash-modules](https://github.com/vlisivka/bash-modules) - Useful modules for bash
 - [javierbyte/color-sort](https://github.com/javierbyte/color-sort) - A simple lib for sorting colors by perception.
