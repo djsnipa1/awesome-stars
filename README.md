@@ -281,6 +281,7 @@
 
 ## JavaScript 
 
+- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [sheharyar2/tailwind-colors-object](https://github.com/sheharyar2/tailwind-colors-object) - in colors.js files i have added all the colors with their codes.
 - [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - JavaScript utility library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
 - [javierbyte/color-sort](https://github.com/javierbyte/color-sort) - A simple lib for sorting colors by perception.
@@ -1068,7 +1069,6 @@
 
 ## TypeScript 
 
-- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 199 TypeScript projects (and ~180 examples) for general purpose, functional, data driven development
 - [charltoons/color-thief-ts](https://github.com/charltoons/color-thief-ts) - Grab the color palette from an image using just Javascript. Works in the browser and in Node.
@@ -1201,7 +1201,7 @@
 - [s-rigaud/huskyfy](https://github.com/s-rigaud/huskyfy) - Huskyfy - Interact with Spotify playlists smoothly
 - [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
-- [Schroedinger-Hat/ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
+- [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [t-MURO/taditech](https://github.com/t-MURO/taditech) - Spotify tools - reorder playlists / see your followed artists new releases!
