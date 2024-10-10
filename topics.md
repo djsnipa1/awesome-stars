@@ -1634,6 +1634,7 @@
 
 ## others 
 
+- [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [sheharyar2/tailwind-colors-object](https://github.com/sheharyar2/tailwind-colors-object) - in colors.js files i have added all the colors with their codes.
 - [vlisivka/bash-modules](https://github.com/vlisivka/bash-modules) - Useful modules for bash
