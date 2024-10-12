@@ -2030,7 +2030,6 @@
 - [nature-of-code/noc-examples-processing](https://github.com/nature-of-code/noc-examples-processing) - Repository for example code from The Nature of Code book
 - [fr43nk/The-Nature-of-Code-Examples](https://github.com/fr43nk/The-Nature-of-Code-Examples) - Repository for example code from The Nature of Code book
 - [mnurzia/even-better-ls](https://github.com/mnurzia/even-better-ls) - LS + Icons + Formatting
-- [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [billzhong/py-bark](https://github.com/billzhong/py-bark) - A python implementation of bark server https://github.com/Finb/bark-server
 - [nsfmc/swatch](https://github.com/nsfmc/swatch) - swatch is a parser for Adobe Swatch Exchange (ASE) Files
 - [hughsk/adobe-swatch-exchange](https://github.com/hughsk/adobe-swatch-exchange) - Encode/decode color palettes in Adobe's .ase format
@@ -2371,6 +2370,7 @@
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
+- [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
