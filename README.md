@@ -218,7 +218,6 @@
 - [Jolg42/FontSquirrel-Fonts](https://github.com/Jolg42/FontSquirrel-Fonts) - Fonts from FontSquirrel
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed) - Animated and tweakable starfield for HTML5 Canvas
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -770,6 +769,7 @@
 
 ## Python 
 
+- [icitry/YoutubeCLI](https://github.com/icitry/YoutubeCLI) - 
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -1057,6 +1057,7 @@
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
 - [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
 - [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Aman07a/svelte-spotify](https://github.com/Aman07a/svelte-spotify) - Svelte & SvelteKit: The Complete Guide
 - [radulff/sveltekit-spotify-app](https://github.com/radulff/sveltekit-spotify-app) - SvelteKit Spotify Learning App
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
