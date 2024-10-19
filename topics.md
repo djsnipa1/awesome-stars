@@ -1638,6 +1638,7 @@
 
 ## others 
 
+- [icitry/YoutubeCLI](https://github.com/icitry/YoutubeCLI) - 
 - [kaBeech/serious-shanns](https://github.com/kaBeech/serious-shanns) - A legible monospace font for playful professionals. Comic Sans for hackers
 - [hellricer/cursedtag](https://github.com/hellricer/cursedtag) - A console audio tag editor.
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
