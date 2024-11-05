@@ -1650,6 +1650,7 @@
 
 ## others 
 
+- [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [nfaucher8/daisy-ext](https://github.com/nfaucher8/daisy-ext) - A plugin for DaisyUI that extends the available color palette
 - [jordanisaacs/homeage](https://github.com/jordanisaacs/homeage) - runtime decrypted age secrets for nix home manager
