@@ -1081,6 +1081,9 @@
 
 ## TypeScript 
 
+- [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
+- [kevinfiol/mdbin](https://github.com/kevinfiol/mdbin) - self-hostable markdown pastebin
+- [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [nfaucher8/daisy-ext](https://github.com/nfaucher8/daisy-ext) - A plugin for DaisyUI that extends the available color palette
 - [braebo/fractils](https://github.com/braebo/fractils) - 
 - [skyra-project/haste-server](https://github.com/skyra-project/haste-server) - Haste Server used by Skyra
