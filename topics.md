@@ -290,6 +290,7 @@
 
 ## awesome 
 
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) - 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
 - [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) - Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
@@ -333,6 +334,7 @@
 
 ## awesome-list 
 
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) - 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) - Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
@@ -452,6 +454,7 @@
 
 ## chatgpt 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [transitive-bullshit/bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
@@ -567,6 +570,8 @@
 
 ## css 
 
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
@@ -752,6 +757,7 @@
 
 ## electron 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -1223,6 +1229,7 @@
 
 ## js 
 
+- [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [adiptal/studio](https://github.com/adiptal/studio) - Adiptal Studio is an iframe based self-host headless page builder to integrate in any cms/framework. It's feature-rich design and gives clean output to design responsive pages.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -1341,6 +1348,7 @@
 
 ## lua 
 
+- [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) - A colorscheme creation micro-framework for Neovim
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
@@ -1396,6 +1404,7 @@
 
 ## markdown 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [BearToCode/carta](https://github.com/BearToCode/carta) - A lightweight, fast and extensible Svelte Markdown editor and viewer.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
@@ -1491,6 +1500,7 @@
 
 ## neovim 
 
+- [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) - A colorscheme creation micro-framework for Neovim
 - [elythh/nixvim](https://github.com/elythh/nixvim) - ❄️ my neovim config using nixvim
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
@@ -1629,6 +1639,7 @@
 
 ## openai 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [simonmysun/ell](https://github.com/simonmysun/ell) - A command-line interface for LLMs written in Bash.
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
@@ -1650,6 +1661,12 @@
 
 ## others 
 
+- [eraserhd/tmux-ctrlw](https://github.com/eraserhd/tmux-ctrlw) - Emulate Vim's C-w in tmux, making pane navigation really snazzy.
+- [jdan/magic-editor](https://github.com/jdan/magic-editor) - LLM-powered writing experiments
+- [jdan/dynamo.js](https://github.com/jdan/dynamo.js) - Cycles through bits of text in place
+- [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
+- [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
+- [kevinfiol/mdbin](https://github.com/kevinfiol/mdbin) - self-hostable markdown pastebin
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [nfaucher8/daisy-ext](https://github.com/nfaucher8/daisy-ext) - A plugin for DaisyUI that extends the available color palette
@@ -2386,6 +2403,7 @@
 
 ## self-hosted 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [jozsefsallai/fastbin-rewritten](https://github.com/jozsefsallai/fastbin-rewritten) - modern self-hosted pastebin service - now serverless!
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
@@ -2532,6 +2550,7 @@
 
 ## tailwindcss 
 
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ameistad/tailwind-colors](https://github.com/ameistad/tailwind-colors) - Tailwind CSS color configration tool
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
 - [CarbonPackages/Carbon.ColorPicker.OKLCH](https://github.com/CarbonPackages/Carbon.ColorPicker.OKLCH) - Color picker for Neos CMS who saves the color in the OKLCH color space
