@@ -977,6 +977,7 @@
 
 ## Shell 
 
+- [eraserhd/tmux-ctrlw](https://github.com/eraserhd/tmux-ctrlw) - Emulate Vim's C-w in tmux, making pane navigation really snazzy.
 - [hellricer/cursedtag](https://github.com/hellricer/cursedtag) - A console audio tag editor.
 - [vlisivka/bash-modules](https://github.com/vlisivka/bash-modules) - Useful modules for bash
 - [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
