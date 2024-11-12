@@ -496,6 +496,7 @@
 
 ## cli 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 Strongly typed CLI development for Node.js
 - [morris/s4d](https://github.com/morris/s4d) - Minimal web development server with live reload
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -915,6 +916,7 @@
 
 ## go 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -931,6 +933,7 @@
 
 ## golang 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) - Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -1056,6 +1059,7 @@
 
 ## html 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 199 TypeScript projects (and ~180 examples) for general purpose, functional, data driven development
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
@@ -1120,6 +1124,7 @@
 
 ## ios 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
 - [Yannis4444/Orange-Share](https://github.com/Yannis4444/Orange-Share) - A small python server that accepts requests from an Apple shortcut to allow sharing all sorts of media from iOS with any desktop OS. It allows sending content right from the share sheet - similar to A
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -1404,6 +1409,7 @@
 
 ## markdown 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [BearToCode/carta](https://github.com/BearToCode/carta) - A lightweight, fast and extensible Svelte Markdown editor and viewer.
@@ -1464,6 +1470,7 @@
 
 ## mobile 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
 - [rikschennink/shiny](https://github.com/rikschennink/shiny) - 🌟 Shiny reflections for mobile websites
@@ -2441,6 +2448,7 @@
 
 ## shell 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
@@ -2540,6 +2548,7 @@
 
 ## swift 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
 - [mattrighetti/Ulry](https://github.com/mattrighetti/Ulry) - Lightweight and fast link archiver app for iOS
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -2576,6 +2585,7 @@
 
 ## terminal 
 
+- [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
