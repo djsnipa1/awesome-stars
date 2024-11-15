@@ -296,7 +296,6 @@
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [sheharyar2/tailwind-colors-object](https://github.com/sheharyar2/tailwind-colors-object) - in colors.js files i have added all the colors with their codes.
-- [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - JavaScript utility library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
 - [javierbyte/color-sort](https://github.com/javierbyte/color-sort) - A simple lib for sorting colors by perception.
 - [JWally/vomitorium](https://github.com/JWally/vomitorium) - Traverse project structure and write file contents to a single output file
 - [null2/color-thief](https://github.com/null2/color-thief) - Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
@@ -550,6 +549,7 @@
 
 ## Lua 
 
+- [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) - Opens global note in a float window
 - [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) - A colorscheme creation micro-framework for Neovim
 - [adamkali/vaporlush](https://github.com/adamkali/vaporlush) - An absolutely dank vaporwave aesthetic 🌌 🌊
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
@@ -1106,6 +1106,7 @@
 - [marionebl/term-schemes](https://github.com/marionebl/term-schemes) - Parse and normalize common terminal emulator color schemes
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
+- [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - JavaScript utility library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 199 TypeScript projects (and ~180 examples) for general purpose, functional, data driven development
 - [charltoons/color-thief-ts](https://github.com/charltoons/color-thief-ts) - Grab the color palette from an image using just Javascript. Works in the browser and in Node.
 - [Bingchatbot/copilot-bing](https://github.com/Bingchatbot/copilot-bing) - Created with CodeSandbox
@@ -1121,7 +1122,7 @@
 - [babakfp/svelte-outclick](https://github.com/babakfp/svelte-outclick) - A Svelte component that allows you to listen to the clicks that happen outside of an element.
 - [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A Tailwindcss plugin that adds extra utilities and more.
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, SvelteKit, NestJS.
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
 - [braebo/sveltekit-starter](https://github.com/braebo/sveltekit-starter) - An opinionated SvelteKit starter
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
