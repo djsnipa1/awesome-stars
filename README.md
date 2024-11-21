@@ -255,6 +255,7 @@
 - [DawnOfCrafting/DawnOfCrafting.github.io](https://github.com/DawnOfCrafting/DawnOfCrafting.github.io) - http://www.dawnofcrafting.com/
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [TurboWay/big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CarlHauschke/spotiauth](https://github.com/CarlHauschke/spotiauth) - Easily display the result that the Spotify Developer Authorization form returns
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [aziz/sublime-mini-ui](https://github.com/aziz/sublime-mini-ui) - 
@@ -711,7 +712,6 @@
 - [nicolas-van/easy-markdown-to-github-pages](https://github.com/nicolas-van/easy-markdown-to-github-pages) - Convert Markdown files in Github to a full website using Github Pages
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [MSAdministrator/PoshCodeMarkDown](https://github.com/MSAdministrator/PoshCodeMarkDown) - Remember poshcode? Well, I converted all the code to Markdown.  Enjoy!
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
@@ -784,6 +784,7 @@
 
 ## Python 
 
+- [jimmc414/1filellm](https://github.com/jimmc414/1filellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 - [icitry/YoutubeCLI](https://github.com/icitry/YoutubeCLI) - 
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
