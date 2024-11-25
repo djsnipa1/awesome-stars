@@ -785,6 +785,7 @@
 
 ## Python 
 
+- [jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA) - 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [jimmc414/1filellm](https://github.com/jimmc414/1filellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 - [icitry/YoutubeCLI](https://github.com/icitry/YoutubeCLI) - 
@@ -1091,12 +1092,14 @@
 
 ## Swift 
 
+- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [mattrighetti/Ulry](https://github.com/mattrighetti/Ulry) - Lightweight and fast link archiver app for iOS
 - [acheronfail/pixel-picker](https://github.com/acheronfail/pixel-picker) - A tiny menu bar application that helps you pick colours from your screen! 🔍✨
 
 ## TypeScript 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [jdan/magic-editor](https://github.com/jdan/magic-editor) - LLM-powered writing experiments
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
