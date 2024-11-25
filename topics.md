@@ -274,6 +274,7 @@
 
 ## artificial-intelligence 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
 
 ## atom 
@@ -1385,6 +1386,7 @@
 
 ## machine-learning 
 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini)
@@ -1676,6 +1678,9 @@
 
 ## others 
 
+- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
+- [jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA) - 
+- [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) - 
 - [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) - Opens global note in a float window
 - [eraserhd/tmux-ctrlw](https://github.com/eraserhd/tmux-ctrlw) - Emulate Vim's C-w in tmux, making pane navigation really snazzy.
 - [jdan/magic-editor](https://github.com/jdan/magic-editor) - LLM-powered writing experiments
