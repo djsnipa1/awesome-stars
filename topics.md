@@ -528,6 +528,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
+- [evdcush/fart](https://github.com/evdcush/fart) - fart on your code
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
@@ -839,6 +840,7 @@
 - [robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) - turns out I like bitmap fonts
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+- [evdcush/fart](https://github.com/evdcush/fart) - fart on your code
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [googlefonts/decovar](https://github.com/googlefonts/decovar) - A multistyle decorative variable font by David Berlow
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -1012,7 +1014,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
-- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1157,6 +1158,7 @@
 
 ## javascript 
 
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) - 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
 - [morris/vanilla-prime](https://github.com/morris/vanilla-prime) - A simpler, more sustainable way of web development
@@ -1598,6 +1600,7 @@
 
 ## nodejs 
 
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
@@ -1678,6 +1681,8 @@
 
 ## others 
 
+- [gorootde/silverbullet-collection](https://github.com/gorootde/silverbullet-collection) - Collection of awesome silverbullet.md stuff
+- [asadm/markdowndown](https://github.com/asadm/markdowndown) - 
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 - [jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA) - 
 - [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) - 
@@ -1984,7 +1989,6 @@
 - [angelogiuseppe/force-resolutions](https://github.com/angelogiuseppe/force-resolutions) - This packages modifies package-lock.json to force the installation of specific version of a transitive dependency
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
-- [evdcush/fart](https://github.com/evdcush/fart) - fart on your code
 - [lord63/figlet_web](https://github.com/lord63/figlet_web) - Generate text to ASCII art! TRY IT NOW: http://text2ascii.lord63.com/
 - [thugcrowd/gangshit](https://github.com/thugcrowd/gangshit) - Figlet fonts for crimes
 - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
@@ -2303,6 +2307,7 @@
 
 ## react 
 
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -2667,6 +2672,7 @@
 
 ## typescript 
 
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) - 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 Strongly typed CLI development for Node.js
 - [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - JavaScript utility library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
@@ -2744,6 +2750,7 @@
 
 ## vue 
 
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [ameistad/tailwind-colors](https://github.com/ameistad/tailwind-colors) - Tailwind CSS color configration tool
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -2759,6 +2766,7 @@
 
 ## vuejs 
 
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
