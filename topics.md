@@ -2382,6 +2382,7 @@
 
 ## rust 
 
+- [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
