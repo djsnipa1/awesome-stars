@@ -624,6 +624,7 @@
 
 ## Nix 
 
+- [ryantm/tiny-home-manager](https://github.com/ryantm/tiny-home-manager) - One file to configure them all!
 - [jordanisaacs/homeage](https://github.com/jordanisaacs/homeage) - runtime decrypted age secrets for nix home manager
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
 - [elythh/nixvim](https://github.com/elythh/nixvim) - ❄️ my neovim config using nixvim
@@ -792,6 +793,7 @@
 
 ## Python 
 
+- [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA) - 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
