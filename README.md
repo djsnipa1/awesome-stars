@@ -291,6 +291,7 @@
 
 ## JavaScript 
 
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [asadm/markdowndown](https://github.com/asadm/markdowndown) - 
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [jdan/dynamo.js](https://github.com/jdan/dynamo.js) - Cycles through bits of text in place
