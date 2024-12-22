@@ -299,7 +299,6 @@
 - [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors
 - [thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) - 🤏 A collection of tiny JS libraries (under 2 kB) to put your bundle on a diet
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
-- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [sheharyar2/tailwind-colors-object](https://github.com/sheharyar2/tailwind-colors-object) - in colors.js files i have added all the colors with their codes.
 - [javierbyte/color-sort](https://github.com/javierbyte/color-sort) - A simple lib for sorting colors by perception.
 - [JWally/vomitorium](https://github.com/JWally/vomitorium) - Traverse project structure and write file contents to a single output file
@@ -1129,6 +1128,7 @@
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 Strongly typed CLI development for Node.js
 - [marionebl/term-schemes](https://github.com/marionebl/term-schemes) - Parse and normalize common terminal emulator color schemes
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
+- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
 - [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - TypeScript utility library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 199 TypeScript projects (and ~180 examples) for general purpose, functional, data driven development
@@ -1199,7 +1199,7 @@
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [MasatoMakino/threejs-shader-materials](https://github.com/MasatoMakino/threejs-shader-materials) - Collection of shader materials for three.js
 - [dpwoert/magic-circle](https://github.com/dpwoert/magic-circle) - Creative coding UI
