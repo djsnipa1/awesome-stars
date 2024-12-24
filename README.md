@@ -665,6 +665,7 @@
 
 ## Others 
 
+- [DavidBuchanan314/bitmap-font-css](https://github.com/DavidBuchanan314/bitmap-font-css) - Trying to make bitmap web fonts look better.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [gorootde/silverbullet-collection](https://github.com/gorootde/silverbullet-collection) - Collection of awesome silverbullet.md stuff
@@ -793,6 +794,7 @@
 
 ## Python 
 
+- [DysDiv/inst414.w2.e1](https://github.com/DysDiv/inst414.w2.e1) - Repository for INST414 Week 2 Exercise 1
 - [Stehos/stehos-reddit-markdown-with-fabric](https://github.com/Stehos/stehos-reddit-markdown-with-fabric) - A simple tool to extracts text from Reddit posts, converts them into markdown files, and processes them with Fabric. It utilizes several python scripts to achieve this functionality.
 - [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
