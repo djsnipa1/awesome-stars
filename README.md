@@ -292,6 +292,7 @@
 
 ## JavaScript 
 
+- [ScriptRaccoon/spotify-playlist-finder](https://github.com/ScriptRaccoon/spotify-playlist-finder) - Finds your playlists on Spotify which have a specified song
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [asadm/markdowndown](https://github.com/asadm/markdowndown) - 
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
@@ -665,6 +666,7 @@
 
 ## Others 
 
+- [LarissaGuder/spotify-awesome-list](https://github.com/LarissaGuder/spotify-awesome-list) - A curated contents of things related to Spotify.
 - [DavidBuchanan314/bitmap-font-css](https://github.com/DavidBuchanan314/bitmap-font-css) - Trying to make bitmap web fonts look better.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -936,6 +938,8 @@
 
 ## Rust 
 
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [dspearson/librespot-auth](https://github.com/dspearson/librespot-auth) - 
 - [jonringer/nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy
@@ -1080,6 +1084,7 @@
 
 ## Svelte 
 
+- [ScriptRaccoon/sveltekit-password](https://github.com/ScriptRaccoon/sveltekit-password) - How to protect a SvelteKit page with a password
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [babakfp/epicgamesapi](https://github.com/babakfp/epicgamesapi) - Built afater being inspired by https://github.com/marclou ❤️
