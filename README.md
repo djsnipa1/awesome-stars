@@ -927,7 +927,7 @@
 - [drshrey/spotify-flask-auth-example](https://github.com/drshrey/spotify-flask-auth-example) - Walkthrough of Authorization Code Flow using Flask and Python, with the Spotify API.
 - [jnylen/spotify-backup](https://github.com/jnylen/spotify-backup) - A Python script that exports all of your Spotify playlists.
 - [radusuciu/savesoundcloud](https://github.com/radusuciu/savesoundcloud) - Web app for exporting information from soundcloud to csv
-- [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all the new torrents
+- [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all public torrents
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
 ## Ruby 
@@ -1043,7 +1043,7 @@
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
 - [ConnerWill/cheat-fzf](https://github.com/ConnerWill/cheat-fzf) - Browse UNIX/Linux Command Cheatsheets from cht.sh/cheat.sh using fzf
 - [ilya-manin/tmux-weather](https://github.com/ilya-manin/tmux-weather) - 🌤 Weather plugin for tmux
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [djsnipa1/ctf-colab](https://github.com/djsnipa1/ctf-colab) - 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
@@ -1234,7 +1234,7 @@
 - [actuallyReallyAlex/create-cli-application](https://github.com/actuallyReallyAlex/create-cli-application) - A bootstrapper for creating a cli application with Node.
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [MamoruDS/TaioTrans](https://github.com/MamoruDS/TaioTrans) - Generate Taio's workflow with JS/TS
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
