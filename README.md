@@ -112,7 +112,7 @@
 - [mlorberdev/Palettes-API-NodeJS](https://github.com/mlorberdev/Palettes-API-NodeJS) - 
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [darshandsoni/asciidoctor-skins](https://github.com/darshandsoni/asciidoctor-skins) - Control how your asciidoctor powered documentation looks
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [tudurom/rainbou](https://github.com/tudurom/rainbou) - Theme generator
