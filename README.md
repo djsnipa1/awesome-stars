@@ -409,7 +409,6 @@
 - [timothypholmes/startup-page](https://github.com/timothypholmes/startup-page) - A custom startup page for your browser.
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [oriane212/zdog-ui](https://github.com/oriane212/zdog-ui) - Web app for creating animated illustrations with 3D JavaScript engine Zdog
-- [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) - Open movies everywhere
 - [HenryQW/mercury-parser-api](https://github.com/HenryQW/mercury-parser-api) - 🐋 A Dockerized drop-in replacement for the Mercury Parser API.
 - [vasturiano/three-globe](https://github.com/vasturiano/three-globe) - WebGL Globe Data Visualization as a ThreeJS reusable 3D object
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -1225,6 +1224,7 @@
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
 - [zakhenry/embedme](https://github.com/zakhenry/embedme) - Utility for embedding code snippets into markdown documents
+- [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) - Open movies everywhere
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor) - An assist for creating CSS snippets for Obsidian
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
@@ -1237,7 +1237,7 @@
 - [actuallyReallyAlex/create-cli-application](https://github.com/actuallyReallyAlex/create-cli-application) - A bootstrapper for creating a cli application with Node.
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [MamoruDS/TaioTrans](https://github.com/MamoruDS/TaioTrans) - Generate Taio's workflow with JS/TS
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
