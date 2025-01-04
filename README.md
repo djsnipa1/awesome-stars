@@ -82,6 +82,7 @@
 
 ## C# # 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [AmitJayant/MaterialColorsApp](https://github.com/AmitJayant/MaterialColorsApp) - Material design color palette app for Windows.
 - [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
@@ -666,6 +667,7 @@
 
 ## Others 
 
+- [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [LarissaGuder/spotify-awesome-list](https://github.com/LarissaGuder/spotify-awesome-list) - A curated contents of things related to Spotify.
 - [DavidBuchanan314/bitmap-font-css](https://github.com/DavidBuchanan314/bitmap-font-css) - Trying to make bitmap web fonts look better.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
@@ -797,6 +799,7 @@
 
 ## Python 
 
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [DysDiv/inst414.w2.e1](https://github.com/DysDiv/inst414.w2.e1) - Repository for INST414 Week 2 Exercise 1
 - [Stehos/stehos-reddit-markdown-with-fabric](https://github.com/Stehos/stehos-reddit-markdown-with-fabric) - A simple tool to extracts text from Reddit posts, converts them into markdown files, and processes them with Fabric. It utilizes several python scripts to achieve this functionality.
 - [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
@@ -939,6 +942,8 @@
 
 ## Rust 
 
+- [oplehtinen/kumori-bar](https://github.com/oplehtinen/kumori-bar) - A simple status bar, designed to be used with the Komorebi tiling window manager.
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify's servers
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
