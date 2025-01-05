@@ -942,6 +942,8 @@
 
 ## Rust 
 
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- [DeeKahy/CopyCat](https://github.com/DeeKahy/CopyCat) - 
 - [oplehtinen/kumori-bar](https://github.com/oplehtinen/kumori-bar) - A simple status bar, designed to be used with the Komorebi tiling window manager.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify's servers
@@ -1011,6 +1013,8 @@
 
 ## Shell 
 
+- [Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox) - gruvbox theme for fish
+- [oh-my-fish/plugin-dpaste](https://github.com/oh-my-fish/plugin-dpaste) - 
 - [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [eraserhd/tmux-ctrlw](https://github.com/eraserhd/tmux-ctrlw) - Emulate Vim's C-w in tmux, making pane navigation really snazzy.
 - [hellricer/cursedtag](https://github.com/hellricer/cursedtag) - A console audio tag editor.
