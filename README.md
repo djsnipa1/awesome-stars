@@ -82,6 +82,7 @@
 
 ## C# # 
 
+- [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [AmitJayant/MaterialColorsApp](https://github.com/AmitJayant/MaterialColorsApp) - Material design color palette app for Windows.
@@ -91,6 +92,7 @@
 
 ## C++ 
 
+- [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - Nvy - A Neovim client in C++
 - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - 
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
