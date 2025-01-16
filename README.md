@@ -809,7 +809,7 @@
 - [Stehos/stehos-reddit-markdown-with-fabric](https://github.com/Stehos/stehos-reddit-markdown-with-fabric) - A simple tool to extracts text from Reddit posts, converts them into markdown files, and processes them with Fabric. It utilizes several python scripts to achieve this functionality.
 - [Realiserad/fish-ai](https://github.com/Realiserad/fish-ai) - Supercharge your command line with LLMs and get shell scripting assistance in Fish. 💪
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
-- [jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA) - 
+- [jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA) - Diffusion-based Portrait and Animal Animation
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 - [icitry/YoutubeCLI](https://github.com/icitry/YoutubeCLI) - 
