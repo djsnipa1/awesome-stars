@@ -295,6 +295,7 @@
 
 ## JavaScript 
 
+- [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
 - [ScriptRaccoon/spotify-playlist-finder](https://github.com/ScriptRaccoon/spotify-playlist-finder) - Finds your playlists on Spotify which have a specified song
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [asadm/markdowndown](https://github.com/asadm/markdowndown) - 
@@ -1138,6 +1139,10 @@
 
 ## TypeScript 
 
+- [VdustR/pocket](https://github.com/VdustR/pocket) - 👀 Stay awhile and listen. My bookmarks and starred repositories.
+- [VdustR/my-vercel-redirect](https://github.com/VdustR/my-vercel-redirect) - My redirect repository for vercel subdomains
+- [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
+- [VdustR/gruvbox.css](https://github.com/VdustR/gruvbox.css) - gruvbox css variables.
 - [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
 - [redphx/better-xcloud](https://github.com/redphx/better-xcloud) - Userscript to improve Xbox Cloud Gaming (xCloud) and Remote Play experiences on web browsers
 - [jill64/svelte-dark-theme](https://github.com/jill64/svelte-dark-theme) - ☯ Dark Theme Manager for SvelteKit
