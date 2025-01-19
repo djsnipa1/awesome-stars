@@ -54,6 +54,7 @@
 
 ## AutoHotkey 
 
+- [acorns/Particle-System](https://github.com/acorns/Particle-System) - It makes pretties
 - [camerb/AHKs](https://github.com/camerb/AHKs) - My AHK library
 - [denolfe/AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 
@@ -107,6 +108,7 @@
 
 ## CSS 
 
+- [catppuccin/zen-browser](https://github.com/catppuccin/zen-browser) - 🧘‍♂️ Soothing pastel theme for Zen Browser
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [mwrouse/message-bubbles](https://github.com/mwrouse/message-bubbles) - A little proof of concept for text message style CSS lists
 - [tristancade/geomanist](https://github.com/tristancade/geomanist) - 
