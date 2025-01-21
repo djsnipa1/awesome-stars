@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - Nvy - A Neovim client in C++
 - [jmoon018/PacVim](https://github.com/jmoon018/PacVim) - 
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
