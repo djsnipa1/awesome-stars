@@ -676,6 +676,7 @@
 
 ## Others 
 
+- [Mike-Aniki/Aniki-ReMake](https://github.com/Mike-Aniki/Aniki-ReMake) - Fullscreen Theme for Playnite
 - [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [LarissaGuder/spotify-awesome-list](https://github.com/LarissaGuder/spotify-awesome-list) - A curated contents of things related to Spotify.
 - [DavidBuchanan314/bitmap-font-css](https://github.com/DavidBuchanan314/bitmap-font-css) - Trying to make bitmap web fonts look better.
@@ -1143,6 +1144,7 @@
 
 ## TypeScript 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [VdustR/pocket](https://github.com/VdustR/pocket) - 👀 Stay awhile and listen. My bookmarks and starred repositories.
 - [VdustR/my-vercel-redirect](https://github.com/VdustR/my-vercel-redirect) - My redirect repository for vercel subdomains
 - [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
