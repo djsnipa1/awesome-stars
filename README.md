@@ -93,6 +93,8 @@
 
 ## C++ 
 
+- [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen) - Converseen is a batch image converter and resizer
+- [mcnameej/WallpaperChanger](https://github.com/mcnameej/WallpaperChanger) - Change the Windows desktop wallpaper at regular intervals, switching randomly between a set of images.
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - Nvy - A Neovim client in C++
@@ -299,6 +301,7 @@
 
 ## JavaScript 
 
+- [pooch-tonic/UmaStitcher](https://github.com/pooch-tonic/UmaStitcher) - Umamusume info screenshot stitcher that works purely on the web client side.
 - [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
 - [ScriptRaccoon/spotify-playlist-finder](https://github.com/ScriptRaccoon/spotify-playlist-finder) - Finds your playlists on Spotify which have a specified song
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -785,6 +788,7 @@
 
 ## PowerShell 
 
+- [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [TNG/please-pwsh](https://github.com/TNG/please-pwsh) - An AI helper for creating CLI commands in Powershell
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
@@ -1144,6 +1148,7 @@
 
 ## TypeScript 
 
+- [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [VdustR/pocket](https://github.com/VdustR/pocket) - 👀 Stay awhile and listen. My bookmarks and starred repositories.
 - [VdustR/my-vercel-redirect](https://github.com/VdustR/my-vercel-redirect) - My redirect repository for vercel subdomains
