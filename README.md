@@ -55,6 +55,7 @@
 ## AutoHotkey 
 
 - [acorns/Particle-System](https://github.com/acorns/Particle-System) - It makes pretties
+- [zhukant/Karabiner-Numpad-Mode](https://github.com/zhukant/Karabiner-Numpad-Mode) - A Custom Complex Modification for Karabiner Elements by Tekezo
 - [camerb/AHKs](https://github.com/camerb/AHKs) - My AHK library
 - [denolfe/AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect
 
@@ -712,7 +713,6 @@
 - [ThomasOrlita/awesome-bookmarklets](https://github.com/ThomasOrlita/awesome-bookmarklets) - Collection of useful bookmarklets for developers.
 - [gitpod-samples/awesome-gitpod](https://github.com/gitpod-samples/awesome-gitpod) - 🍊 Awesome Gitpod | A curated list of awesome Gitpod resources.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-- [zhukant/Karabiner-Numpad-Mode](https://github.com/zhukant/Karabiner-Numpad-Mode) - A Custom Complex Modification for Karabiner Elements by Tekezo
 - [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins) - List of pastebin services
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
