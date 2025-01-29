@@ -680,6 +680,7 @@
 
 ## Others 
 
+- [LGUG2Z/awesome-komorebi](https://github.com/LGUG2Z/awesome-komorebi) - A curated list of awesome projects in the Komorebi ecosystem 🍉
 - [Mike-Aniki/Aniki-ReMake](https://github.com/Mike-Aniki/Aniki-ReMake) - Fullscreen Theme for Playnite
 - [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
 - [LarissaGuder/spotify-awesome-list](https://github.com/LarissaGuder/spotify-awesome-list) - A curated contents of things related to Spotify.
@@ -957,6 +958,7 @@
 
 ## Rust 
 
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [DeeKahy/CopyCat](https://github.com/DeeKahy/CopyCat) - 
 - [oplehtinen/kumori-bar](https://github.com/oplehtinen/kumori-bar) - A simple status bar, designed to be used with the Komorebi tiling window manager.
