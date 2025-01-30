@@ -65,6 +65,7 @@
 
 ## C 
 
+- [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [stgiga/UnifontEX](https://github.com/stgiga/UnifontEX) - An extended fork of GNU Unifont with a focus on high compatibility.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
@@ -302,6 +303,7 @@
 
 ## JavaScript 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [pooch-tonic/UmaStitcher](https://github.com/pooch-tonic/UmaStitcher) - Umamusume info screenshot stitcher that works purely on the web client side.
 - [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
 - [ScriptRaccoon/spotify-playlist-finder](https://github.com/ScriptRaccoon/spotify-playlist-finder) - Finds your playlists on Spotify which have a specified song
@@ -846,7 +848,7 @@
 - [dtaivpp/ghdorker](https://github.com/dtaivpp/ghdorker) - An extensible GitHub dorking project
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - [ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
@@ -1218,7 +1220,6 @@
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [replayio/devtools](https://github.com/replayio/devtools) - Replay.io DevTools
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
