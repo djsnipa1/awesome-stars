@@ -303,6 +303,7 @@
 
 ## JavaScript 
 
+- [WazeDev/Eslint-Config](https://github.com/WazeDev/Eslint-Config) - Eslint Config for Userscripts
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [pooch-tonic/UmaStitcher](https://github.com/pooch-tonic/UmaStitcher) - Umamusume info screenshot stitcher that works purely on the web client side.
 - [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
@@ -960,6 +961,7 @@
 
 ## Rust 
 
+- [LGUG2Z/komokana](https://github.com/LGUG2Z/komokana) - Automatic application-aware keyboard layer switching for Windows
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [DeeKahy/CopyCat](https://github.com/DeeKahy/CopyCat) - 
