@@ -54,6 +54,7 @@
 
 ## AutoHotkey 
 
+- [evilC/HotVoice](https://github.com/evilC/HotVoice) - Adds Speech Recognition support to AutoHotkey, via a C# DLL
 - [acorns/Particle-System](https://github.com/acorns/Particle-System) - It makes pretties
 - [zhukant/Karabiner-Numpad-Mode](https://github.com/zhukant/Karabiner-Numpad-Mode) - A Custom Complex Modification for Karabiner Elements by Tekezo
 - [camerb/AHKs](https://github.com/camerb/AHKs) - My AHK library
@@ -85,6 +86,7 @@
 
 ## C# # 
 
+- [flyingpie/windows-terminal-quake](https://github.com/flyingpie/windows-terminal-quake) - Enable Quake-style dropdown for (almost) any application.
 - [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -95,6 +97,7 @@
 
 ## C++ 
 
+- [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...
 - [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen) - Converseen is a batch image converter and resizer
 - [mcnameej/WallpaperChanger](https://github.com/mcnameej/WallpaperChanger) - Change the Windows desktop wallpaper at regular intervals, switching randomly between a set of images.
 - [ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork - The easiest way to stream with the native resolution of your client device
