@@ -309,6 +309,7 @@
 
 ## JavaScript 
 
+- [thesephist/codeframe](https://github.com/thesephist/codeframe) - The fastest, easiest way to build and deploy quick static webpages
 - [WazeDev/Eslint-Config](https://github.com/WazeDev/Eslint-Config) - Eslint Config for Userscripts
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [pooch-tonic/UmaStitcher](https://github.com/pooch-tonic/UmaStitcher) - Umamusume info screenshot stitcher that works purely on the web client side.
@@ -1163,6 +1164,7 @@
 
 ## TypeScript 
 
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
 - [leiske/Bookframe](https://github.com/leiske/Bookframe) - Bookframe - bookmarklet development supercharged
 - [mrmartineau/Otter](https://github.com/mrmartineau/Otter) - Otter is a self-hosted bookmark manager made with Next.js and Supabase with Mastodon integration.
 - [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
