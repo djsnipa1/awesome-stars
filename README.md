@@ -121,6 +121,7 @@
 
 - [catppuccin/zen-browser](https://github.com/catppuccin/zen-browser) - 🧘‍♂️ Soothing pastel theme for Zen Browser
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
+- [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A set of Tailwind CSS preflights, themes, utilities and variants.
 - [mwrouse/message-bubbles](https://github.com/mwrouse/message-bubbles) - A little proof of concept for text message style CSS lists
 - [tristancade/geomanist](https://github.com/tristancade/geomanist) - 
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
@@ -1207,7 +1208,6 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Olivr/nx-copybara](https://github.com/Olivr/nx-copybara) - Example of using Copybara to open-source a library from a nx monorepo
 - [babakfp/svelte-outclick](https://github.com/babakfp/svelte-outclick) - A Svelte component that allows you to listen to the clicks that happen outside of an element.
-- [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A Tailwindcss plugin that adds extra utilities and more.
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
