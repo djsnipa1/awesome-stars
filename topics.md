@@ -2699,7 +2699,7 @@
 - [ameistad/tailwind-colors](https://github.com/ameistad/tailwind-colors) - Tailwind CSS color configration tool
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
 - [CarbonPackages/Carbon.ColorPicker.OKLCH](https://github.com/CarbonPackages/Carbon.ColorPicker.OKLCH) - Color picker for Neos CMS who saves the color in the OKLCH color space
-- [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A Tailwindcss plugin that adds extra utilities and more.
+- [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A set of Tailwind CSS preflights, themes, utilities and variants.
 - [umeshmk/Tailwindcss-cheatsheet](https://github.com/umeshmk/Tailwindcss-cheatsheet) - A very elegant and helpful Tailwind CSS cheat-sheet.
 - [saadeghi/tailwindcss-document-cli](https://github.com/saadeghi/tailwindcss-document-cli) - Tailwind CSS Document for CLI
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
