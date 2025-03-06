@@ -1211,7 +1211,7 @@
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
-- [braebo/sveltekit-starter](https://github.com/braebo/sveltekit-starter) - An opinionated SvelteKit starter
+- [braebo/svelte-starter](https://github.com/braebo/svelte-starter) - An opinionated SvelteKit starter
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
 - [bhaskarGyan/sveltekit-device-detector](https://github.com/bhaskarGyan/sveltekit-device-detector) - Detect device, and render view according to the detected device type.
 - [DaveKeehl/svelte-reveal](https://github.com/DaveKeehl/svelte-reveal) - Svelte action that leverages the Intersection Observer API to trigger reveal on scroll transitions.
