@@ -311,6 +311,7 @@
 
 ## JavaScript 
 
+- [ehmorris/bubbles](https://github.com/ehmorris/bubbles) - 
 - [thesephist/codeframe](https://github.com/thesephist/codeframe) - The fastest, easiest way to build and deploy quick static webpages
 - [WazeDev/Eslint-Config](https://github.com/WazeDev/Eslint-Config) - Eslint Config for Userscripts
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -692,6 +693,7 @@
 
 ## Others 
 
+- [SylEleuth/blender-gruvbox](https://github.com/SylEleuth/blender-gruvbox) - Blender gruvbox theme
 - [bluescan/proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.
 - [KadoBOT/80s-retrowave](https://github.com/KadoBOT/80s-retrowave) - 80s retrowave theme for windows terminal
 - [LGUG2Z/awesome-komorebi](https://github.com/LGUG2Z/awesome-komorebi) - A curated list of awesome projects in the Komorebi ecosystem 🍉
