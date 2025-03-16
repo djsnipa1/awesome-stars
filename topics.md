@@ -220,6 +220,7 @@
 
 ## ai 
 
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -855,6 +856,7 @@
 
 ## flask 
 
+- [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
 ## flutter 
@@ -1207,6 +1209,7 @@
 
 ## javascript 
 
+- [janmyler/DOM-inspector](https://github.com/janmyler/DOM-inspector) - Simple DOM inspector written in JS.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [VdustR/gruvbox.css](https://github.com/VdustR/gruvbox.css) - gruvbox css variables.
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
@@ -1543,6 +1546,7 @@
 
 ## mongodb 
 
+- [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -1742,6 +1746,8 @@
 
 ## others 
 
+- [ehmorris/bubbles](https://github.com/ehmorris/bubbles) - 
+- [SylEleuth/blender-gruvbox](https://github.com/SylEleuth/blender-gruvbox) - Blender gruvbox theme
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [qwerasd205/PixelCode](https://github.com/qwerasd205/PixelCode) - A pixel font designed to actually be good for programming.
 - [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
@@ -1878,7 +1884,7 @@
 - [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed) - Animated and tweakable starfield for HTML5 Canvas
 - [andremaha/md2html](https://github.com/andremaha/md2html) - CLI utility to convert markdown files into the most beautiful HTML you have ever seen. Written in Rust.
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
-- [alisoft/github-trending-api](https://github.com/alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
+- [Alisoft/github-trending-api](https://github.com/Alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
@@ -2334,6 +2340,7 @@
 
 ## python 
 
+- [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
