@@ -311,6 +311,7 @@
 
 ## JavaScript 
 
+- [janmyler/DOM-inspector](https://github.com/janmyler/DOM-inspector) - Simple DOM inspector written in JS.
 - [ehmorris/bubbles](https://github.com/ehmorris/bubbles) - 
 - [thesephist/codeframe](https://github.com/thesephist/codeframe) - The fastest, easiest way to build and deploy quick static webpages
 - [WazeDev/Eslint-Config](https://github.com/WazeDev/Eslint-Config) - Eslint Config for Userscripts
@@ -364,7 +365,7 @@
 - [GraemeFulton/ThreeJS-3D-Music-Visualizer](https://github.com/GraemeFulton/ThreeJS-3D-Music-Visualizer) - Three.js terrain + starfield (object oriented)
 - [chrisdiana/webden](https://github.com/chrisdiana/webden) - Open source mobile friendly code playground 📱
 - [adiptal/studio](https://github.com/adiptal/studio) - Adiptal Studio is an iframe based self-host headless page builder to integrate in any cms/framework. It's feature-rich design and gives clean output to design responsive pages.
-- [alisoft/github-trending-api](https://github.com/alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
+- [Alisoft/github-trending-api](https://github.com/Alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
 - [cheeaun/node-hnapi](https://github.com/cheeaun/node-hnapi) - Unofficial Hacker News API
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
@@ -830,6 +831,7 @@
 
 ## Python 
 
+- [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 - [qwerasd205/PixelCode](https://github.com/qwerasd205/PixelCode) - A pixel font designed to actually be good for programming.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
