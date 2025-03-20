@@ -1182,7 +1182,7 @@
 - [leiske/Bookframe](https://github.com/leiske/Bookframe) - Bookframe - bookmarklet development supercharged
 - [mrmartineau/Otter](https://github.com/mrmartineau/Otter) - Otter is a self-hosted bookmark manager made with Next.js and Supabase with Mastodon integration.
 - [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [VdustR/pocket](https://github.com/VdustR/pocket) - 👀 Stay awhile and listen. My bookmarks and starred repositories.
 - [VdustR/my-vercel-redirect](https://github.com/VdustR/my-vercel-redirect) - My redirect repository for vercel subdomains
 - [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
@@ -1333,6 +1333,7 @@
 
 ## Vue 
 
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [nwtgck/piping-ssh-web](https://github.com/nwtgck/piping-ssh-web) - SSH over HTTPS via Piping Server on Web browser
 - [shaunabanana/zdog-editor](https://github.com/shaunabanana/zdog-editor) - An editor for the ZDog 3D engine.
 - [ameistad/tailwind-colors](https://github.com/ameistad/tailwind-colors) - Tailwind CSS color configration tool
