@@ -315,6 +315,8 @@
 
 ## JavaScript 
 
+- [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core) - A web-based ASCII and Unicode diagram builder written in vanilla Javascript
 - [janmyler/DOM-inspector](https://github.com/janmyler/DOM-inspector) - Simple DOM inspector written in JS.
@@ -812,6 +814,7 @@
 
 ## PowerShell 
 
+- [be5invis/prompt](https://github.com/be5invis/prompt) - My PwSH prompt
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [TNG/please-pwsh](https://github.com/TNG/please-pwsh) - An AI helper for creating CLI commands in Powershell
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -837,6 +840,7 @@
 
 ## Python 
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 - [qwerasd205/PixelCode](https://github.com/qwerasd205/PixelCode) - A pixel font designed to actually be good for programming.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
