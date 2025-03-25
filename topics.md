@@ -876,6 +876,9 @@
 
 ## font 
 
+- [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [cdalvaro/docker-nerd-fonts-patcher](https://github.com/cdalvaro/docker-nerd-fonts-patcher) - 🐳 Dockerized Nerd Fonts patcher
 - [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
 - [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
@@ -1767,6 +1770,7 @@
 
 ## others 
 
+- [be5invis/prompt](https://github.com/be5invis/prompt) - My PwSH prompt
 - [jsr-io/jsr-npm](https://github.com/jsr-io/jsr-npm) - A cli tool to make installing packages form jsr.io in node easy
 - [khromov/svelte-render-scan](https://github.com/khromov/svelte-render-scan) - Visual debugging tool for Svelte applications.
 - [RLabs-Inc/shadcn-themes](https://github.com/RLabs-Inc/shadcn-themes) - Generate themes for Shadcn UI using Sacred Geometry Patterns and modern mathematics equations mixed within Color Theory or just pick your colors for each available CSS variable. This project leverages
