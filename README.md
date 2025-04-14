@@ -1150,6 +1150,8 @@
 
 ## Svelte 
 
+- [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for ideas
+- [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
 - [khromov/svelte-render-scan](https://github.com/khromov/svelte-render-scan) - Visual debugging tool for Svelte applications.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [ScriptRaccoon/sveltekit-password](https://github.com/ScriptRaccoon/sveltekit-password) - How to protect a SvelteKit page with a password
