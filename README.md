@@ -50,6 +50,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
 ## AutoHotkey 
@@ -1351,6 +1352,10 @@
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
 - [kristijanhusak/vim-carbon-now-sh](https://github.com/kristijanhusak/vim-carbon-now-sh) - Open selected text in https://carbon.now.sh
+
+## Visual Basic .NET 
+
+- [roblatour/setvol](https://github.com/roblatour/setvol) - change Windows computer's master volume and recording levels
 
 ## Vue 
 
