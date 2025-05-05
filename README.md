@@ -127,6 +127,7 @@
 - [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A set of Tailwind CSS preflights, themes, utilities and variants.
 - [mwrouse/message-bubbles](https://github.com/mwrouse/message-bubbles) - A little proof of concept for text message style CSS lists
 - [tristancade/geomanist](https://github.com/tristancade/geomanist) - 
+- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
 - [mlorberdev/Palettes-API-NodeJS](https://github.com/mlorberdev/Palettes-API-NodeJS) - 
@@ -1166,7 +1167,6 @@
 - [Ennoriel/svelte-awesome-color-picker](https://github.com/Ennoriel/svelte-awesome-color-picker) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
 - [AlessioGr/sveltescape](https://github.com/AlessioGr/sveltescape) - A stunning storybook alternative made with Svelte for Svelte
 - [open-source-labs/SvelteStorm](https://github.com/open-source-labs/SvelteStorm) - SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time
-- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
 - [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
 - [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
