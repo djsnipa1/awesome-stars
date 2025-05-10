@@ -1951,7 +1951,7 @@
 - [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed) - Animated and tweakable starfield for HTML5 Canvas
 - [andremaha/md2html](https://github.com/andremaha/md2html) - CLI utility to convert markdown files into the most beautiful HTML you have ever seen. Written in Rust.
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
-- [Alisoft/github-trending-api](https://github.com/Alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
+- [alisoft/github-trending-api](https://github.com/alisoft/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
