@@ -191,6 +191,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -202,6 +203,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -214,6 +216,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xcode](#xcode)
+- [xml](#xml)
 
 ## 3d 
 
@@ -530,6 +533,7 @@
 
 ## cli 
 
+- [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Link-/gh-token](https://github.com/Link-/gh-token) - Manage installation access tokens for GitHub apps from your terminal 💻
@@ -1145,6 +1149,7 @@
 
 ## html 
 
+- [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 206 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [morris/vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
@@ -1184,6 +1189,7 @@
 
 ## http 
 
+- [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [morris/s4d](https://github.com/morris/s4d) - Minimal web development server with live reload
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -1340,6 +1346,7 @@
 
 ## json 
 
+- [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
@@ -2625,6 +2632,7 @@
 
 ## self-hosted 
 
+- [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -2782,6 +2790,21 @@
 
 - [mattrighetti/Ulry](https://github.com/mattrighetti/Ulry) - Lightweight and fast link archiver app for iOS
 
+## tailwind 
+
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+- [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
+- [babakfp/tailwindcss-addons](https://github.com/babakfp/tailwindcss-addons) - A set of Tailwind CSS preflights, themes, utilities and variants.
+- [umeshmk/Tailwindcss-cheatsheet](https://github.com/umeshmk/Tailwindcss-cheatsheet) - A very elegant and helpful Tailwind CSS cheat-sheet.
+- [saadeghi/tailwindcss-document-cli](https://github.com/saadeghi/tailwindcss-document-cli) - Tailwind CSS Document for CLI
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+- [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
+- [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
+- [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
+- [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
+
 ## tailwindcss 
 
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -2931,6 +2954,18 @@
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 
+## ui 
+
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 206 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
+- [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
+- [adiptal/studio](https://github.com/adiptal/studio) - Adiptal Studio is an iframe based self-host headless page builder to integrate in any cms/framework. It's feature-rich design and gives clean output to design responsive pages.
+- [dpwoert/magic-circle](https://github.com/dpwoert/magic-circle) - Creative coding UI
+- [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
+- [itmeo/webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
+- [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
+
 ## ui-design 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -3007,6 +3042,7 @@
 
 ## web 
 
+- [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [nwtgck/piping-ssh-web](https://github.com/nwtgck/piping-ssh-web) - SSH over HTTPS via Piping Server on Web browser
 - [morris/s4d](https://github.com/morris/s4d) - Minimal web development server with live reload
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -3068,6 +3104,10 @@
 ## xcode 
 
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
+
+## xml 
+
+- [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 
 
 ## License
