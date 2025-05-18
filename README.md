@@ -852,7 +852,7 @@
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
 - [qwerasd205/PixelCode](https://github.com/qwerasd205/PixelCode) - A pixel font designed to actually be good for programming.
-- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [DysDiv/inst414.w2.e1](https://github.com/DysDiv/inst414.w2.e1) - Repository for INST414 Week 2 Exercise 1
 - [Stehos/stehos-reddit-markdown-with-fabric](https://github.com/Stehos/stehos-reddit-markdown-with-fabric) - A simple tool to extracts text from Reddit posts, converts them into markdown files, and processes them with Fabric. It utilizes several python scripts to achieve this functionality.
