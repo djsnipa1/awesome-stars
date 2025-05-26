@@ -1193,7 +1193,7 @@
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [morris/s4d](https://github.com/morris/s4d) - Minimal web development server with live reload
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests
@@ -1816,6 +1816,8 @@
 
 ## others 
 
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
+- [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages.
 - [roblatour/setvol](https://github.com/roblatour/setvol) - change Windows computer's master volume and recording levels
 - [clr2of8/TellTail](https://github.com/clr2of8/TellTail) - A tool to display Windows Event logs as they happen.
 - [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for ideas
@@ -2584,7 +2586,7 @@
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
