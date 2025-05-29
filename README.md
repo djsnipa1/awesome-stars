@@ -282,7 +282,6 @@
 - [DawnOfCrafting/DawnOfCrafting.github.io](https://github.com/DawnOfCrafting/DawnOfCrafting.github.io) - http://www.dawnofcrafting.com/
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [TurboWay/big_screen](https://github.com/TurboWay/big_screen) - 数据大屏可视化
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CarlHauschke/spotiauth](https://github.com/CarlHauschke/spotiauth) - Easily display the result that the Spotify Developer Authorization form returns
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [aziz/sublime-mini-ui](https://github.com/aziz/sublime-mini-ui) - 
@@ -937,6 +936,7 @@
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [danishprakash/spotify-tools](https://github.com/danishprakash/spotify-tools) - :musical_note: Export Spotify playlist to plain text without logging in. (WIP)
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [simplenote-vim/simplenote.vim](https://github.com/simplenote-vim/simplenote.vim) - vim plugin to interact with the simplenote service
 - [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
@@ -1232,7 +1232,7 @@
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
 - [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - TypeScript utility library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 207 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 208 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [charltoons/color-thief-ts](https://github.com/charltoons/color-thief-ts) - Grab the color palette from an image using just Javascript. Works in the browser and in Node.
 - [Bingchatbot/copilot-bing](https://github.com/Bingchatbot/copilot-bing) - Created with CodeSandbox
 - [robbie-cahill/serve-public](https://github.com/robbie-cahill/serve-public) - Serve any folder with a public URL
