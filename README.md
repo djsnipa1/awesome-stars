@@ -357,7 +357,7 @@
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [NateBaldwinDesign/proportio](https://github.com/NateBaldwinDesign/proportio) - Tool for creating proportional scales for typography, iconography, spacing, and components in design systems.
 - [adobe/leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - A web component for visual art and creative coding with CSS
 - [ivanzk/bookmarklet-webpack-template](https://github.com/ivanzk/bookmarklet-webpack-template) - Create bookmarklets using Webpack
 - [eonarheim/webpack-bookmarklet](https://github.com/eonarheim/webpack-bookmarklet) - Build a bookmarklet with webpack for automating your websites (Like YouTube)
 - [mark-rolich/RulersGuides.js](https://github.com/mark-rolich/RulersGuides.js) - Creates Photoshop-like guides and rulers interface on a web page
