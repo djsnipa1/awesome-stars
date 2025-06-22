@@ -421,7 +421,6 @@
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 - [yzdbg/spectrogram-threejs](https://github.com/yzdbg/spectrogram-threejs) - A realtime 3d spectrogram visualization of the user's microphone audio. Made with threeJs using shaders.
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [gmattie/Data-Pixels](https://github.com/gmattie/Data-Pixels) - Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -1305,6 +1304,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [MasatoMakino/threejs-shader-materials](https://github.com/MasatoMakino/threejs-shader-materials) - Collection of shader materials for three.js
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [dpwoert/magic-circle](https://github.com/dpwoert/magic-circle) - Creative coding UI
 - [ikeryou/sketch253](https://github.com/ikeryou/sketch253) - sketch253
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
