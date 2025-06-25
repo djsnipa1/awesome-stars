@@ -908,7 +908,7 @@
 
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [cdalvaro/docker-nerd-fonts-patcher](https://github.com/cdalvaro/docker-nerd-fonts-patcher) - 🐳 Dockerized Nerd Fonts patcher
 - [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
