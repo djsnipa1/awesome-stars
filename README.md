@@ -591,6 +591,7 @@
 
 ## Lua 
 
+- [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [leobeosab/brr.nvim](https://github.com/leobeosab/brr.nvim) - Easy persistent scratch files in neovim.
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
@@ -1350,6 +1351,7 @@
 
 ## Vim Script 
 
+- [Sammyalhashe/random_colorscheme.vim](https://github.com/Sammyalhashe/random_colorscheme.vim) - Open a random colorscheme with every new (neo)vim session.
 - [vv9k/bogster](https://github.com/vv9k/bogster) - A theme for Vim and NeoVim
 - [nickeb96/fish.vim](https://github.com/nickeb96/fish.vim) - Vim configuration for Fish
 - [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) - Vim plugin to fetch and display answers from Stack Overflow
