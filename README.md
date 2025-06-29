@@ -319,6 +319,7 @@
 
 ## JavaScript 
 
+- [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
 - [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages.
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
@@ -1074,6 +1075,7 @@
 
 ## Shell 
 
+- [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [cdalvaro/docker-nerd-fonts-patcher](https://github.com/cdalvaro/docker-nerd-fonts-patcher) - 🐳 Dockerized Nerd Fonts patcher
 - [Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox) - gruvbox theme for fish
