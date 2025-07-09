@@ -1008,7 +1008,7 @@
 - [DeeKahy/CopyCat](https://github.com/DeeKahy/CopyCat) - 
 - [oplehtinen/kumori-bar](https://github.com/oplehtinen/kumori-bar) - A simple status bar, designed to be used with the Komorebi tiling window manager.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-- [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify's servers
+- [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
