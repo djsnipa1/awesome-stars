@@ -915,7 +915,7 @@
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
-- [evdcush/fart](https://github.com/evdcush/fart) - fart on your code
+- [evdcush/fart](https://github.com/evdcush/fart) - you cannot fart without art
 - [charludo/barely](https://github.com/charludo/barely) - barely is a lightweight, but highly extensible static site generator written in pure python.
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS）。
@@ -1318,7 +1318,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
-- [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some Utilities and Quality-of-Life Features for Designers of Obsidian Themes
+- [chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities) - Some utilities and Quality-of-Life features for designers of Obsidian themes.
 - [zakhenry/embedme](https://github.com/zakhenry/embedme) - Utility for embedding code snippets into markdown documents
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) - Open movies everywhere
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
