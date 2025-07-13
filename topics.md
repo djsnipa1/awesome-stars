@@ -960,6 +960,7 @@
 
 ## game 
 
+- [codebox/beatmatcher](https://github.com/codebox/beatmatcher) - An HTML/JavaScript mixing and beatmatching game
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [nroutasuo/level13](https://github.com/nroutasuo/level13) - Incremental browser text adventure
