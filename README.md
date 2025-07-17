@@ -1162,6 +1162,7 @@
 
 ## Svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for ideas
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
 - [khromov/svelte-render-scan](https://github.com/khromov/svelte-render-scan) - Visual debugging tool for Svelte applications.
