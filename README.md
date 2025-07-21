@@ -593,6 +593,8 @@
 
 ## Lua 
 
+- [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
+- [motaz-shokry/gruvbox.nvim](https://github.com/motaz-shokry/gruvbox.nvim) - this is a mirror repo.
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [leobeosab/brr.nvim](https://github.com/leobeosab/brr.nvim) - Easy persistent scratch files in neovim.
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
