@@ -31,6 +31,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cms](#cms)
 - [code](#code)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
@@ -594,6 +595,11 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [patrickschur/pappet](https://github.com/patrickschur/pappet) - A command-line tool to crawl websites using puppeteer.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
+
+## cms 
+
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 🚨 GROW YOUR AUDIENCE WITH HUGOBLOX! 🚀 HugoBlox is an easy, fast no-code website builder for researchers, entrepreneurs, data scientists, and developers. Build stunning sites in minutes. 适合研究人员、企业家、数据科
 
 ## code 
 
@@ -1660,6 +1666,7 @@
 
 ## neovim 
 
+- [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
@@ -1848,6 +1855,7 @@
 
 ## others 
 
+- [motaz-shokry/gruvbox.nvim](https://github.com/motaz-shokry/gruvbox.nvim) - this is a mirror repo.
 - [simonw/screenshot-worker](https://github.com/simonw/screenshot-worker) - Cloudflare worker for taking screenshots based on a URL protected by a signature
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
 - [Sammyalhashe/random_colorscheme.vim](https://github.com/Sammyalhashe/random_colorscheme.vim) - Open a random colorscheme with every new (neo)vim session.
