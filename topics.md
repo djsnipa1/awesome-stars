@@ -545,6 +545,7 @@
 
 ## cli 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1236,6 +1237,7 @@
 
 ## image-processing 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen) - Converseen is a batch image converter and resizer
 - [maxent-ai/ocrpy](https://github.com/maxent-ai/ocrpy) - OCR, Archive, Index and Search: Implementation agnostic OCR framework.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -1855,6 +1857,9 @@
 
 ## others 
 
+- [LGUG2Z/JeezyVim](https://github.com/LGUG2Z/JeezyVim) - A fast, reliable NeoVim configuration as a Nix Flake for people who want to use NeoVim as an editor and not as an IDE
+- [LGUG2Z/nixos-wsl-starter](https://github.com/LGUG2Z/nixos-wsl-starter) - A sane, batteries-included starter template for running NixOS on WSL
+- [kepano/tidy](https://github.com/kepano/tidy) - A simple bookmarklet to tidy up articles for easy reading
 - [motaz-shokry/gruvbox.nvim](https://github.com/motaz-shokry/gruvbox.nvim) - this is a mirror repo.
 - [simonw/screenshot-worker](https://github.com/simonw/screenshot-worker) - Cloudflare worker for taking screenshots based on a URL protected by a signature
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
@@ -2409,6 +2414,7 @@
 
 ## pixel-art 
 
+- [nygaard91/Pixel-Perfect-AI-Art-Converter](https://github.com/nygaard91/Pixel-Perfect-AI-Art-Converter) - AI-generated pixel art often lacks true pixel precision, making it oversized or unsuitable for professional use. Pixel Perfect is designed to refine AI-generated pixel art, giving you greater control 
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
@@ -2423,6 +2429,7 @@
 
 ## powershell 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -2911,6 +2918,7 @@
 
 ## terminal 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [flyingpie/windows-terminal-quake](https://github.com/flyingpie/windows-terminal-quake) - Enable Quake-style dropdown for (almost) any application.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
