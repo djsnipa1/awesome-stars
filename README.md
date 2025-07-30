@@ -102,6 +102,7 @@
 
 ## C++ 
 
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
 - [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...
 - [Faster3ck/Converseen](https://github.com/Faster3ck/Converseen) - Converseen is a batch image converter and resizer
@@ -319,6 +320,7 @@
 
 ## JavaScript 
 
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nygaard91/Pixel-Perfect-AI-Art-Converter](https://github.com/nygaard91/Pixel-Perfect-AI-Art-Converter) - AI-generated pixel art often lacks true pixel precision, making it oversized or unsuitable for professional use. Pixel Perfect is designed to refine AI-generated pixel art, giving you greater control 
 - [kepano/tidy](https://github.com/kepano/tidy) - A simple bookmarklet to tidy up articles for easy reading
 - [codebox/beatmatcher](https://github.com/codebox/beatmatcher) - An HTML/JavaScript mixing and beatmatching game
@@ -856,6 +858,7 @@
 
 ## Python 
 
+- [james-see/awesome-pastes](https://github.com/james-see/awesome-pastes) - list of all the pastebins across all protocols (Tor, ZeroNet, etc.)
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [amrzv/awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1007,6 +1010,7 @@
 
 ## Rust 
 
+- [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [wllfaria/hac](https://github.com/wllfaria/hac) - A terminal API Client that comes in handy. // Lightweight alternative to postman
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1083,6 +1087,7 @@
 
 ## Shell 
 
+- [not-three/main](https://github.com/not-three/main) - !3 is a simple, secure and open source paste sharing platform.
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [cdalvaro/docker-nerd-fonts-patcher](https://github.com/cdalvaro/docker-nerd-fonts-patcher) - 🐳 Dockerized Nerd Fonts patcher
@@ -1169,6 +1174,7 @@
 
 ## Svelte 
 
+- [sveltejs/svelte.dev](https://github.com/sveltejs/svelte.dev) - The Svelte omnisite
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for ideas
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
@@ -1208,6 +1214,10 @@
 
 ## TypeScript 
 
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
