@@ -629,6 +629,7 @@
 - [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) - Color scheme for neovim, based on SublimeText 4 monokai
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
+- [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
@@ -726,7 +727,7 @@
 
 ## Nushell 
 
-- [ninecath/nincat](https://github.com/ninecath/nincat) - A small, lightweight, and fun way to differentiate a new terminal from others *:｡･ﾟ.*ヽ(´∀｀ヽ)
+- [BeyondMagic/nincat](https://github.com/BeyondMagic/nincat) - A small, lightweight, and fun way to differentiate a new terminal from others *:｡･ﾟ.*ヽ(´∀｀ヽ)
 
 ## Others 
 
@@ -1124,7 +1125,6 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [hiifeng/V2ray-for-Codesandbox](https://github.com/hiifeng/V2ray-for-Codesandbox) - The tool can install v2ray on the Codesandbox, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 - [TheRealLorenz/lf-settings](https://github.com/TheRealLorenz/lf-settings) - This repository contains my configuration for lf file manager, file preview for lf, some custom settings and an install script.
-- [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
 - [xwmx/bask](https://github.com/xwmx/bask) - A runner and framework for command-centric Bash scripts.
 - [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
