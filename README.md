@@ -849,7 +849,7 @@
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [TNG/please-pwsh](https://github.com/TNG/please-pwsh) - An AI helper for creating CLI commands in Powershell
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [charliebillen/ConvertItermColoursToHex](https://github.com/charliebillen/ConvertItermColoursToHex) - Given an iTerm colour scheme outputs the colours in standard hex RGB format to allow easier conversion to other terminals
 - [MSAdministrator/ConvertPoshCodeCode](https://github.com/MSAdministrator/ConvertPoshCodeCode) - Code to convert PoshCode download to Markdown
 - [SCRT-HQ/PSProfile](https://github.com/SCRT-HQ/PSProfile) - PSProfile is a cross-platform PowerShell module built for profile customization. It uses PoshCode's Configuration module to handle the layered Configuration.
@@ -1108,6 +1108,7 @@
 
 ## Shell 
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [Apoo711/Context-Engineering](https://github.com/Apoo711/Context-Engineering) - 🚀 A framework for Context Engineering using Google Gemini. Move beyond simple prompting and learn to systematically provide context to your AI coding assistant for more reliable, consistent, and compl
 - [not-three/main](https://github.com/not-three/main) - !3 is a simple, secure and open source paste sharing platform.
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
@@ -1236,6 +1237,7 @@
 
 ## TypeScript 
 
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [unjs/automd](https://github.com/unjs/automd) - 🤖 Automated markdown maintainer
 - [h3js/srvx](https://github.com/h3js/srvx) - λ Universal Server based on web standards.
