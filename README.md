@@ -103,6 +103,7 @@
 
 ## C++ 
 
+- [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [alexhua/Aria2-Manager](https://github.com/alexhua/Aria2-Manager) - A useful tool to run Aria2 in the background easily
 - [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) - MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...
@@ -532,7 +533,7 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [CodingTrain/website-archive](https://github.com/CodingTrain/website-archive) - Archive of the Coding Train website (first version)
 - [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
-- [noelleleigh/animated-pixel-gradients](https://github.com/noelleleigh/animated-pixel-gradients) - Make pixelated gradient GIFs with words
+- [noelleleigh/animated-pixel-gradients](https://github.com/noelleleigh/animated-pixel-gradients) - [Moved to Sourcehut] Make pixelated gradient GIFs with words
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [btmills/geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
