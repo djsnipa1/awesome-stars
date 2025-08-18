@@ -734,6 +734,7 @@
 
 ## Others 
 
+- [threedle/ll3m](https://github.com/threedle/ll3m) - 
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [n1ckfg/awesome-3D-generation](https://github.com/n1ckfg/awesome-3D-generation) - A curated list of awesome 3d generation papers
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
