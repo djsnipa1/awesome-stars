@@ -300,7 +300,7 @@
 - [Martins-Bruno/material-colors-palette](https://github.com/Martins-Bruno/material-colors-palette) - 
 - [divshot/geo-bootstrap](https://github.com/divshot/geo-bootstrap) - A timeless Twitter Bootstrap theme built for the modern web.
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. 1-click GitHub Pages. Premium templates.
+- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [wizardg/paintstrap](https://github.com/wizardg/paintstrap) - Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
 - [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
