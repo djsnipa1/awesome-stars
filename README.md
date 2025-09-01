@@ -610,6 +610,7 @@
 
 ## Lua 
 
+- [picolove/picolove](https://github.com/picolove/picolove) - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim) - An extensible and performant Neovim minimap plugin that helps you visualize code structure, diagnostics, git changes, and more at a glance.
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) - URL previews in Neovim 🔗💫
 - [motaz-shokry/gruvbox.nvim](https://github.com/motaz-shokry/gruvbox.nvim) - this is a mirror repo.
