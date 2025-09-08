@@ -850,6 +850,7 @@
 
 ## PowerShell 
 
+- [ScoopInstaller/BucketTemplate](https://github.com/ScoopInstaller/BucketTemplate) - Template Bucket for Scoop Installer
 - [be5invis/prompt](https://github.com/be5invis/prompt) - My PwSH prompt
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [TNG/please-pwsh](https://github.com/TNG/please-pwsh) - An AI helper for creating CLI commands in Powershell
@@ -1243,6 +1244,7 @@
 
 ## TypeScript 
 
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [unjs/automd](https://github.com/unjs/automd) - 🤖 Automated markdown maintainer
