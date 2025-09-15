@@ -257,6 +257,7 @@
 ## HTML 
 
 - [logan-larson/tailwind-light-dark](https://github.com/logan-larson/tailwind-light-dark) - A Tailwind CSS plugin that generates shorthand utilities for light and dark mode color pairs
+- [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [kaBeech/serious-shanns](https://github.com/kaBeech/serious-shanns) - A legible monospace font for playful professionals. Comic Sans for hackers
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [markmead/hyperjs](https://github.com/markmead/hyperjs) - HyperJS is a component library for Alpine JS allowing developers to quickly copy and paste functionality into their projects 🛵
@@ -1280,7 +1281,6 @@
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [jdan/magic-editor](https://github.com/jdan/magic-editor) - LLM-powered writing experiments
-- [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
 - [kevinfiol/mdbin](https://github.com/kevinfiol/mdbin) - self-hostable markdown pastebin
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [nfaucher8/daisy-ext](https://github.com/nfaucher8/daisy-ext) - A plugin for DaisyUI that extends the available color palette
