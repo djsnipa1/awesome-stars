@@ -95,7 +95,7 @@
 - [flyingpie/windows-terminal-quake](https://github.com/flyingpie/windows-terminal-quake) - Enable Quake-style dropdown for (almost) any application.
 - [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [AmitJayant/MaterialColorsApp](https://github.com/AmitJayant/MaterialColorsApp) - Material design color palette app for Windows.
 - [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 - [kevinmurphy678/Stardew_Injector](https://github.com/kevinmurphy678/Stardew_Injector) - Stardew  Valley Various Mods (obsolete)
