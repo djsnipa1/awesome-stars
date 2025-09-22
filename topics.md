@@ -168,6 +168,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -2478,7 +2479,6 @@
 - [wizardg/paintstrap](https://github.com/wizardg/paintstrap) - Generate beautiful Twitter Bootstrap themes using the Adobe kuler / COLOURlovers color scheme
 - [ahmadawais/VSCode-Tips-Tricks](https://github.com/ahmadawais/VSCode-Tips-Tricks) - VSCode-Tips-Tricks Examples and Workflows to help you become a Visual Studio Code Power User →
 - [anirudhjoshi/lastpass2keepass](https://github.com/anirudhjoshi/lastpass2keepass) - Allows you to convert the LastPass export to a KeePass XML import.
-- [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 - [markkohdev/spotify-api-starter](https://github.com/markkohdev/spotify-api-starter) - A starter pack for using the Spotify Web API in Python
 - [jsbain/GitHubGet](https://github.com/jsbain/GitHubGet) - Quick script to zip and download a repo from github, for those afraid of shellista
 - [drshrey/spotify-flask-auth-example](https://github.com/drshrey/spotify-flask-auth-example) - Walkthrough of Authorization Code Flow using Flask and Python, with the Spotify API.
@@ -2601,6 +2601,11 @@
 
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+
+## programming-language 
+
+- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
+- [pfgithub/scpl](https://github.com/pfgithub/scpl) - text language for writing ios shortcuts faster
 
 ## project-management 
 
