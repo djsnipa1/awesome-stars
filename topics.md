@@ -823,6 +823,7 @@
 
 ## docker 
 
+- [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
@@ -868,7 +869,7 @@
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [neilsabde/nfs](https://github.com/neilsabde/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - ❄️  nixos, fish, neovim, leftwm
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [syndrizzle/hotfiles](https://github.com/syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
@@ -1520,7 +1521,7 @@
 - [haydenjames/bench-scripts](https://github.com/haydenjames/bench-scripts) - A compilation of Linux server benchmarking scripts.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [bcyran/fancy-motd](https://github.com/bcyran/fancy-motd) - Fancy, colorful MOTD written in bash. Server status at a glance.
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [snowfallorg/nix-editor](https://github.com/snowfallorg/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop) - ❄️  nixos, fish, neovim, leftwm
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
@@ -1766,7 +1767,7 @@
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
 - [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Generalized and Personalized
 - [nickeb96/fish.vim](https://github.com/nickeb96/fish.vim) - Vim configuration for Fish
-- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration
+- [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
@@ -2529,6 +2530,7 @@
 
 ## php 
 
+- [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -2627,6 +2629,7 @@
 
 ## python 
 
+- [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
