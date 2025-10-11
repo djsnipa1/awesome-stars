@@ -724,6 +724,7 @@
 - [DieracDelta/vimconf_talk](https://github.com/DieracDelta/vimconf_talk) - accompanying repo to vimconf talk
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [nix-community/pnpm2nix](https://github.com/nix-community/pnpm2nix) - Load pnpm lock files into nix :) [maintainer=]
+- [jeremyschlatter/env](https://github.com/jeremyschlatter/env) - My development environment, managed by nix
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [binzcodes/new](https://github.com/binzcodes/new) - A remote, reproducible, ephemeral, sandboxed and completely diposable nix-based dev env
 - [georgealexanderday/nix-gitpod](https://github.com/georgealexanderday/nix-gitpod) - gitpod nix dotfiles
@@ -1093,7 +1094,6 @@
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [raftario/filite](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
-- [jeremyschlatter/env](https://github.com/jeremyschlatter/env) - My development environment, managed by nix
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
