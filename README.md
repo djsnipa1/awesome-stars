@@ -104,7 +104,7 @@
 
 ## C++ 
 
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
 - [trvon/yams](https://github.com/trvon/yams) - Content addressable  storage with excellent search
 - [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
@@ -504,7 +504,7 @@
 - [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
 - [spieglt/Cloaker.js](https://github.com/spieglt/Cloaker.js) - Simple password-based file encryption entirely in your browser, interoperable with Cloaker.
 - [peabrainiac/peabrainiac.github.io](https://github.com/peabrainiac/peabrainiac.github.io) - 
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [JMPerez/spotify-dedup-mobile](https://github.com/JMPerez/spotify-dedup-mobile) - Spotify Dedup - Mobile app version
 - [JMPerez/contour](https://github.com/JMPerez/contour) - Draw an image with SVG
 - [spckio/spck-embed](https://github.com/spckio/spck-embed) - Full-fledged embeddable code editor designed for the web.
