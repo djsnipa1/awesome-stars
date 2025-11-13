@@ -65,7 +65,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
@@ -648,7 +648,7 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [neilsabde/nfs](https://github.com/neilsabde/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port for Neovim
-- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Generalized and Personalized
+- [Alexis12119/nvim-config](https://github.com/Alexis12119/nvim-config) - Perfect for developers seeking a single, unified environment for web development, backend systems, mobile apps, and competitive programming.
 - [lynndylanhurley/nvim](https://github.com/lynndylanhurley/nvim) - My personal neovim config
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
@@ -884,6 +884,7 @@
 
 ## Python 
 
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [gensyn-ai/codeassist](https://github.com/gensyn-ai/codeassist) - A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 - [threedle/ll3m](https://github.com/threedle/ll3m) - LL3M writes Python code that generates 3D assets in Blender.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -1278,7 +1279,7 @@
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [RLabs-Inc/shadcn-themes](https://github.com/RLabs-Inc/shadcn-themes) - Generate themes for Shadcn UI using Sacred Geometry Patterns and modern mathematics equations mixed within Color Theory or just pick your colors for each available CSS variable. This project leverages
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross platform Markdown editor, but it is lighter, smarter, and purer. 一个跨平台 Markdown 编辑器，但是更轻快、更智能、更纯粹。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
 - [leiske/Bookframe](https://github.com/leiske/Bookframe) - Bookframe - bookmarklet development supercharged
 - [mrmartineau/Otter](https://github.com/mrmartineau/Otter) - Otter is a self-hosted bookmark manager made with Next.js and Supabase with Mastodon integration.
 - [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
