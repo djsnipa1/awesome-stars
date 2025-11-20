@@ -2035,7 +2035,7 @@
 - [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages.
 - [roblatour/setvol](https://github.com/roblatour/setvol) - change Windows computer's master volume and recording levels
 - [clr2of8/TellTail](https://github.com/clr2of8/TellTail) - A tool to display Windows Event logs as they happen.
-- [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for thoughts and ideas
+- [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for thoughts
 - [simonthum/git-sync](https://github.com/simonthum/git-sync) - Safe and simple one-script git synchronization
 - [leobeosab/brr.nvim](https://github.com/leobeosab/brr.nvim) - Easy persistent scratch files in neovim.
 - [be5invis/prompt](https://github.com/be5invis/prompt) - My PwSH prompt
