@@ -1221,7 +1221,7 @@
 - [flo-bit/svelte-depth-3d-component](https://github.com/flo-bit/svelte-depth-3d-component) - svelte component to show a fake 3d image with depth map
 - [sveltejs/svelte.dev](https://github.com/sveltejs/svelte.dev) - The Svelte omnisite
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for thoughts and ideas
+- [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for thoughts
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
 - [khromov/svelte-render-scan](https://github.com/khromov/svelte-render-scan) - Visual debugging tool for Svelte applications.
 - [ScriptRaccoon/sveltekit-password](https://github.com/ScriptRaccoon/sveltekit-password) - How to protect a SvelteKit page with a password
