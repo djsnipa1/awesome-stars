@@ -2376,7 +2376,7 @@
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [gmattie/Data-Pixels](https://github.com/gmattie/Data-Pixels) - Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [archcraft-os/archcraft-wallpapers](https://github.com/archcraft-os/archcraft-wallpapers) - // Packages : Wallpapers
