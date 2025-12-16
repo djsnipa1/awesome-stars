@@ -210,6 +210,7 @@
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [ajitid/telltail-sync](https://github.com/ajitid/telltail-sync) - Sync lets you copy and paste from universal clipboard with your usual keyboard shortcuts. A part of Telltail.
 - [Link-/gh-token](https://github.com/Link-/gh-token) - Manage installation access tokens for GitHub apps from your terminal 💻
@@ -347,7 +348,6 @@
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
-- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [nygaard91/Pixel-Perfect-AI-Art-Converter](https://github.com/nygaard91/Pixel-Perfect-AI-Art-Converter) - AI-generated pixel art often lacks true pixel precision, making it oversized or unsuitable for professional use. Pixel Perfect is designed to refine AI-generated pixel art, giving you greater control 
 - [codebox/beatmatcher](https://github.com/codebox/beatmatcher) - An HTML/JavaScript mixing and beatmatching game
 - [simonw/screenshot-worker](https://github.com/simonw/screenshot-worker) - Cloudflare worker for taking screenshots based on a URL protected by a signature
