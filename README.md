@@ -704,6 +704,7 @@
 
 ## Nix 
 
+- [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim) - 
 - [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix) - This flake provides a bleeding edge LazyVim  home-manager module, allowing you to install and configure LazyVim declaratively on NixOS. It tracks LazyVim releases automatically, and uses the latest pl
 - [LGUG2Z/JeezyVim](https://github.com/LGUG2Z/JeezyVim) - A fast, reliable NeoVim configuration as a Nix Flake for people who want to use NeoVim as an editor and not as an IDE
 - [LGUG2Z/nixos-wsl-starter](https://github.com/LGUG2Z/nixos-wsl-starter) - A sane, batteries-included starter template for running NixOS on WSL
@@ -996,7 +997,7 @@
 - [adamerose/PandasGUI](https://github.com/adamerose/PandasGUI) - A GUI for Pandas DataFrames
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [danishprakash/spotify-tools](https://github.com/danishprakash/spotify-tools) - :musical_note: Export Spotify playlist to plain text without logging in. (WIP)
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [simplenote-vim/simplenote.vim](https://github.com/simplenote-vim/simplenote.vim) - vim plugin to interact with the simplenote service
