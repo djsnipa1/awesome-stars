@@ -704,6 +704,7 @@
 
 ## Nix 
 
+- [azuwis/nix-config](https://github.com/azuwis/nix-config) - 
 - [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim) - 
 - [pfassina/lazyvim-nix](https://github.com/pfassina/lazyvim-nix) - This flake provides a bleeding edge LazyVim  home-manager module, allowing you to install and configure LazyVim declaratively on NixOS. It tracks LazyVim releases automatically, and uses the latest pl
 - [LGUG2Z/JeezyVim](https://github.com/LGUG2Z/JeezyVim) - A fast, reliable NeoVim configuration as a Nix Flake for people who want to use NeoVim as an editor and not as an IDE
