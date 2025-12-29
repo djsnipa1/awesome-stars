@@ -394,7 +394,7 @@
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) - A curated list of awesome Scriptable scripts and widgets.
-- [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
+- [makccr/dot](https://github.com/makccr/dot) - Dotfiles & repo for any and all application configs.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
@@ -1937,7 +1937,7 @@
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) - A fast dotfiles and system configuration installer framework optimized for Gitpod and power users
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
-- [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
+- [makccr/dot](https://github.com/makccr/dot) - Dotfiles & repo for any and all application configs.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
@@ -2120,6 +2120,7 @@
 
 ## others 
 
+- [skelhammer/slime-rancher-2-guide](https://github.com/skelhammer/slime-rancher-2-guide) - A guide for Slime Rancher 2.
 - [azuwis/nix-config](https://github.com/azuwis/nix-config) - 
 - [lukasl-dev/rime](https://github.com/lukasl-dev/rime) - An MCP server for NixOS users.
 - [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim) - 
@@ -3591,7 +3592,7 @@
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) - A fast dotfiles and system configuration installer framework optimized for Gitpod and power users
-- [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
+- [makccr/dot](https://github.com/makccr/dot) - Dotfiles & repo for any and all application configs.
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
