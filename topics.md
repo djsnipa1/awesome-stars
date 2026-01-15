@@ -274,7 +274,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
 - [travisvn/gptree](https://github.com/travisvn/gptree) - A CLI tool to provide LLM context for coding projects by combining project files into a single text file (or clipboard text) with directory tree structure.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -302,6 +302,7 @@
 
 ## android 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [picolove/picolove](https://github.com/picolove/picolove) - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
@@ -885,6 +886,7 @@
 
 ## design 
 
+- [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -1451,6 +1453,7 @@
 
 ## ios 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
@@ -1484,6 +1487,7 @@
 
 ## javascript 
 
+- [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -1835,6 +1839,7 @@
 
 ## material-design 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [mike-schultz/materialette](https://github.com/mike-schultz/materialette) - Materialette - A material design color palette
 
 ## maven 
@@ -1863,6 +1868,8 @@
 
 ## mobile 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+- [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
@@ -2141,6 +2148,7 @@
 
 ## others 
 
+- [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [halostatue/sponge](https://github.com/halostatue/sponge) - Clean fish history from typos automatically
 - [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - a browser script to selectively export your chatgpt, gemini conversations to markdown or json
@@ -2908,6 +2916,8 @@
 
 ## react 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -3171,6 +3181,8 @@
 
 ## svelte 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+- [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -3222,6 +3234,7 @@
 
 ## tailwind 
 
+- [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
@@ -3238,6 +3251,7 @@
 
 ## tailwindcss 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [logan-larson/tailwind-light-dark](https://github.com/logan-larson/tailwind-light-dark) - A Tailwind CSS plugin that generates shorthand utilities for light and dark mode color pairs
@@ -3509,6 +3523,8 @@
 
 ## vue 
 
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [ameistad/tailwind-colors](https://github.com/ameistad/tailwind-colors) - Tailwind CSS color configration tool
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
