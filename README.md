@@ -210,7 +210,7 @@
 - [boyter/cs](https://github.com/boyter/cs) - command line codespelunker or code search
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [ajitid/telltail-sync](https://github.com/ajitid/telltail-sync) - Sync lets you copy and paste from universal clipboard with your usual keyboard shortcuts. A part of Telltail.
@@ -345,6 +345,8 @@
 
 ## JavaScript 
 
+- [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
@@ -1248,6 +1250,7 @@
 
 ## Svelte 
 
+- [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [flo-bit/svelte-depth-3d-component](https://github.com/flo-bit/svelte-depth-3d-component) - svelte component to show a fake 3d image with depth map
 - [sveltejs/svelte.dev](https://github.com/sveltejs/svelte.dev) - The Svelte omnisite
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -1289,6 +1292,7 @@
 
 ## TypeScript 
 
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
