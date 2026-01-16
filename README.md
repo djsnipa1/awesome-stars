@@ -345,6 +345,7 @@
 
 ## JavaScript 
 
+- [klevron/threejs-toys](https://github.com/klevron/threejs-toys) - ✨ ThreeJS Toys ⚡
 - [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
