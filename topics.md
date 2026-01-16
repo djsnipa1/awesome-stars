@@ -2148,6 +2148,7 @@
 
 ## others 
 
+- [klevron/threejs-toys](https://github.com/klevron/threejs-toys) - ✨ ThreeJS Toys ⚡
 - [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [halostatue/sponge](https://github.com/halostatue/sponge) - Clean fish history from typos automatically
