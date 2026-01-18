@@ -807,7 +807,6 @@
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [damiankorcz/Prism-Theme](https://github.com/damiankorcz/Prism-Theme) - A Comprehensive, Highly-Customisable and Elegant Light/Dark Theme for Obsidian.md
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-- [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [mitchas/Keyframes](https://github.com/mitchas/Keyframes) - A simple CSS toolbox
@@ -1003,7 +1002,6 @@
 ## education 
 
 - [beetrandahiya/ChelseaJS](https://github.com/beetrandahiya/ChelseaJS) - ChelseaJS is a Javascript library for creative, generative Coding.
-- [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CodingTrain/website-archive](https://github.com/CodingTrain/website-archive) - Archive of the Coding Train website (first version)
@@ -1396,7 +1394,6 @@
 - [helloworld-Co/html2md](https://github.com/helloworld-Co/html2md) - helloworld 开发者社区开源的一个轻量级，强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地。
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [beetrandahiya/ChelseaJS](https://github.com/beetrandahiya/ChelseaJS) - ChelseaJS is a Javascript library for creative, generative Coding.
-- [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
@@ -1540,7 +1537,6 @@
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
-- [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [mhyfritz/generative-art-speedrun-examples](https://github.com/mhyfritz/generative-art-speedrun-examples) - Examples from @tholman's "Generative Art Speedrun" talk
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [yaylinda/scriptable](https://github.com/yaylinda/scriptable) - Scripts and widgets for the iOS Scriptable App
@@ -3635,7 +3631,6 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [neilsabde/nfs](https://github.com/neilsabde/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
-- [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [CodingTrain/website-archive](https://github.com/CodingTrain/website-archive) - Archive of the Coding Train website (first version)
 
 ## zig 
