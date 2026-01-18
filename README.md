@@ -302,7 +302,6 @@
 - [conradj/now-mercury-parser](https://github.com/conradj/now-mercury-parser) - Easily deployed mercury-parser endpoint
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [adolfintel/muhtriangles.js](https://github.com/adolfintel/muhtriangles.js) - A simple and lightweight library for drawing colorful and animated triangles to an HTML5 Canvas element, with a good amout of settings that you can tweak.
-- [enjeck/TutCode](https://github.com/enjeck/TutCode) - Watch/read tutorials and write code on the same page
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [jayseesee/Crittermound-Fork](https://github.com/jayseesee/Crittermound-Fork) - Fork of Crittermound
 - [RamonGebben/figlefy](https://github.com/RamonGebben/figlefy) - API for getting ascii art strings
