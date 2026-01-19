@@ -1008,7 +1008,6 @@
 
 ## electron 
 
-- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Rich markdown live preview app with linter
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -3183,6 +3182,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
+- [VdustR/pocket](https://github.com/VdustR/pocket) - 🗡️ It's dangerous to go alone! Take this. Curated GitHub stars for your coding adventure.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [babakfp/svelte-outclick](https://github.com/babakfp/svelte-outclick) - A Svelte component that allows you to listen to the clicks that happen outside of an element.
@@ -3253,6 +3253,7 @@
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [logan-larson/tailwind-light-dark](https://github.com/logan-larson/tailwind-light-dark) - A Tailwind CSS plugin that generates shorthand utilities for light and dark mode color pairs
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
+- [VdustR/pocket](https://github.com/VdustR/pocket) - 🗡️ It's dangerous to go alone! Take this. Curated GitHub stars for your coding adventure.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ameistad/tailwind-colors](https://github.com/ameistad/tailwind-colors) - Tailwind CSS color configration tool
@@ -3578,7 +3579,7 @@
 
 ## website 
 
-- [VdustR/pocket](https://github.com/VdustR/pocket) - 👀 Stay awhile and listen. My bookmarks and starred repositories.
+- [VdustR/pocket](https://github.com/VdustR/pocket) - 🗡️ It's dangerous to go alone! Take this. Curated GitHub stars for your coding adventure.
 
 ## windows 
 
