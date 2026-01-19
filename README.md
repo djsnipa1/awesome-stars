@@ -1257,6 +1257,7 @@
 - [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for thoughts
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
 - [khromov/svelte-render-scan](https://github.com/khromov/svelte-render-scan) - Visual debugging tool for Svelte applications.
+- [VdustR/pocket](https://github.com/VdustR/pocket) - 🗡️ It's dangerous to go alone! Take this. Curated GitHub stars for your coding adventure.
 - [ScriptRaccoon/sveltekit-password](https://github.com/ScriptRaccoon/sveltekit-password) - How to protect a SvelteKit page with a password
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
@@ -1325,7 +1326,6 @@
 - [mrmartineau/Otter](https://github.com/mrmartineau/Otter) - Otter is a self-hosted bookmark manager made with Next.js and Supabase with Mastodon integration.
 - [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
-- [VdustR/pocket](https://github.com/VdustR/pocket) - 👀 Stay awhile and listen. My bookmarks and starred repositories.
 - [VdustR/my-vercel-redirect](https://github.com/VdustR/my-vercel-redirect) - My redirect repository for vercel subdomains
 - [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
 - [VdustR/gruvbox.css](https://github.com/VdustR/gruvbox.css) - gruvbox css variables.
