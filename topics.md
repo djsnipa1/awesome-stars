@@ -265,6 +265,7 @@
 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## ai 
@@ -543,7 +544,7 @@
 
 - [mcnameej/WallpaperChanger](https://github.com/mcnameej/WallpaperChanger) - Change the Windows desktop wallpaper at regular intervals, switching randomly between a set of images.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [gansm/finalcut](https://github.com/gansm/finalcut) - The modern text-based widget toolkit
+- [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
 
 ## chatbot 
 
@@ -754,7 +755,7 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [gansm/finalcut](https://github.com/gansm/finalcut) - The modern text-based widget toolkit
+- [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
 
 ## crawler 
 
@@ -1114,7 +1115,7 @@
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
-- [gansm/finalcut](https://github.com/gansm/finalcut) - The modern text-based widget toolkit
+- [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 
 ## frontend 
@@ -1637,7 +1638,7 @@
 ## library 
 
 - [Carza-104/apple-svelte](https://github.com/Carza-104/apple-svelte) - UI component library for Svelte based on Apple's Human Interface design language.
-- [gansm/finalcut](https://github.com/gansm/finalcut) - The modern text-based widget toolkit
+- [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 
@@ -1907,6 +1908,8 @@
 
 ## neovim 
 
+- [kepano/flexoki-neovim](https://github.com/kepano/flexoki-neovim) - Flexoki color scheme for Neovim
+- [niksingh710/nvix](https://github.com/niksingh710/nvix) - Neovim Configuration based on Nixvim.
 - [eero-lehtinen/oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) - A graphical color picker and highlighter for Neovim
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim) - An extensible and performant Neovim minimap plugin that helps you visualize code structure, diagnostics, git changes, and more at a glance.
@@ -2346,7 +2349,7 @@
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [viperML/neohome](https://github.com/viperML/neohome) - Source for https://ayats.org
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [lazamar/nix-package-versions](https://github.com/lazamar/nix-package-versions) - Search for old versions of Nix packages
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
@@ -3296,6 +3299,7 @@
 
 ## terminal 
 
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [benjajaja/ratatui-image](https://github.com/benjajaja/ratatui-image) - Ratatui widget for rendering image graphics in terminals that support it
@@ -3330,7 +3334,7 @@
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧   .files - different setups separated in branches
-- [gansm/finalcut](https://github.com/gansm/finalcut) - The modern text-based widget toolkit
+- [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
@@ -3386,7 +3390,7 @@
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [gansm/finalcut](https://github.com/gansm/finalcut) - The modern text-based widget toolkit
+- [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -3475,6 +3479,8 @@
 
 ## vim 
 
+- [kepano/flexoki-neovim](https://github.com/kepano/flexoki-neovim) - Flexoki color scheme for Neovim
+- [niksingh710/nvix](https://github.com/niksingh710/nvix) - Neovim Configuration based on Nixvim.
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
