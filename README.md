@@ -25,7 +25,6 @@
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
@@ -344,6 +343,8 @@
 
 ## JavaScript 
 
+- [stephanedenis/OntoWave](https://github.com/stephanedenis/OntoWave) - 
+- [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [klevron/threejs-toys](https://github.com/klevron/threejs-toys) - ✨ ThreeJS Toys ⚡
 - [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
@@ -592,10 +593,6 @@
 - [chaohuang/cloudsave](https://github.com/chaohuang/cloudsave) - Save to the cloud.
 - [yyx990803/HTML5-Clear](https://github.com/yyx990803/HTML5-Clear) - [DEPRECATED] A replica of the Clear iphone app in HTML5
 
-## Jinja 
-
-- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
-
 ## Jupyter Notebook 
 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -758,6 +755,7 @@
 
 ## Others 
 
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
 - [skelhammer/slime-rancher-2-guide](https://github.com/skelhammer/slime-rancher-2-guide) - A guide for Slime Rancher 2.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -973,6 +971,7 @@
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
+- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [AlexEidt/Fractal-Explorer](https://github.com/AlexEidt/Fractal-Explorer) - Escape-Time Fractal Explorer for Mandelbrot and Julia Sets.
 - [AlexEidt/ASCII-Vision](https://github.com/AlexEidt/ASCII-Vision) - Real-time Color ASCII Webcam Streaming.
 - [jm33-m0/mec](https://github.com/jm33-m0/mec) - for mass exploiting
@@ -1295,6 +1294,7 @@
 
 ## TypeScript 
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
