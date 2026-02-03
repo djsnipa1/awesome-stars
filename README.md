@@ -99,7 +99,7 @@
 - [flyingpie/windows-terminal-quake](https://github.com/flyingpie/windows-terminal-quake) - Enable Quake-style dropdown for (almost) any application.
 - [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [AmitJayant/MaterialColorsApp](https://github.com/AmitJayant/MaterialColorsApp) - Material design color palette app for Windows.
 - [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 - [kevinmurphy678/Stardew_Injector](https://github.com/kevinmurphy678/Stardew_Injector) - Stardew  Valley Various Mods (obsolete)
@@ -1448,7 +1448,7 @@
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [jasperhartong/scriptable-ts-boilerplate](https://github.com/jasperhartong/scriptable-ts-boilerplate) - A boilerplate for creating remote-updatable Scriptable widgets. Includes setup, components, utils and examples to develop in the comfort of TypeScript.
 - [brentvollebregt/emotionify](https://github.com/brentvollebregt/emotionify) - Webapp than can create emotionally gradiented Spotify playlists and more 🎵🎧🔀
 - [brentvollebregt/spotify-lyrics-viewer](https://github.com/brentvollebregt/spotify-lyrics-viewer) - View the lyrics of the current playing Spotify song in your browser
