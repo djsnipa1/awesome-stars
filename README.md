@@ -874,6 +874,7 @@
 
 ## PowerShell 
 
+- [okibcn/ScoopMaster](https://github.com/okibcn/ScoopMaster) - Scoop Meta-bucket with all the apps in Scoop, always updated. One bucket for all your needs with the latest version of every app.
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 - [ScoopInstaller/BucketTemplate](https://github.com/ScoopInstaller/BucketTemplate) - Template Bucket for Scoop Installer
 - [be5invis/prompt](https://github.com/be5invis/prompt) - My PwSH prompt
