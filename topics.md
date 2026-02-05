@@ -866,6 +866,7 @@
 
 ## database 
 
+- [okibcn/ScoopMaster](https://github.com/okibcn/ScoopMaster) - Scoop Meta-bucket with all the apps in Scoop, always updated. One bucket for all your needs with the latest version of every app.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
