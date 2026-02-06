@@ -1351,7 +1351,7 @@
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
 - [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - Library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [charltoons/color-thief-ts](https://github.com/charltoons/color-thief-ts) - Grab the color palette from an image using just Javascript. Works in the browser and in Node.
 - [Bingchatbot/copilot-bing](https://github.com/Bingchatbot/copilot-bing) - Created with CodeSandbox
 - [robbie-cahill/serve-public](https://github.com/robbie-cahill/serve-public) - Serve any folder with a public URL
