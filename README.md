@@ -205,6 +205,7 @@
 
 ## Go 
 
+- [hmajid2301/OptiNix](https://github.com/hmajid2301/OptiNix) - A CLI tool written in go, for searching options in Nix. Mirrored from https://gitlab.com/hmajid2301/optinix
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [boyter/cs](https://github.com/boyter/cs) - command line codespelunker or code search
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
