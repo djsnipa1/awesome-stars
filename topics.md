@@ -3209,6 +3209,7 @@
 
 ## svelte 
 
+- [jerrythomas/rokkit](https://github.com/jerrythomas/rokkit) - A set of composable, data-driven and themeable UI components.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
