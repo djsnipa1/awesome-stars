@@ -810,7 +810,7 @@
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [NotNexuss/NodeJS-Project-Hoster](https://github.com/NotNexuss/NodeJS-Project-Hoster) - Host your repl.it project 24/7 with this code!, compatible with Node.JS.
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) - A curated list of awesome Scriptable scripts and widgets.
 - [mattdesl/workshop-p5-intro](https://github.com/mattdesl/workshop-p5-intro) - Intro to Creative Coding workshop with p5.js and Tone.js
