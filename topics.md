@@ -1383,6 +1383,7 @@
 
 ## html 
 
+- [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages.
 - [benibela/xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
@@ -1810,6 +1811,7 @@
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown live preview app
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
+- [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor.
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -2230,7 +2232,6 @@
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Neovim colorschemes generated on the fly with a text prompt using ChatGPT
 - [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
-- [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages.
 - [roblatour/setvol](https://github.com/roblatour/setvol) - change Windows computer's master volume and recording levels
 - [clr2of8/TellTail](https://github.com/clr2of8/TellTail) - A tool to display Windows Event logs as they happen.
 - [builders-of-stuff/Irarium](https://github.com/builders-of-stuff/Irarium) - A space for thoughts
