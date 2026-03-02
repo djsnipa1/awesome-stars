@@ -345,6 +345,7 @@
 
 ## JavaScript 
 
+- [mksglu/claude-context-mode](https://github.com/mksglu/claude-context-mode) - Stop losing context to large outputs.
 - [jerrythomas/rokkit](https://github.com/jerrythomas/rokkit) - A set of composable, data-driven and themeable UI components.
 - [stephanedenis/OntoWave](https://github.com/stephanedenis/OntoWave) - 
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
