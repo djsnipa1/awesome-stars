@@ -270,7 +270,6 @@
 
 ## HTML 
 
-- [santoshxshrestha/mdwatch](https://github.com/santoshxshrestha/mdwatch) - A simple CLI tool to live-preview Markdown files in your browser.
 - [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - a browser script to selectively export your chatgpt, gemini conversations to markdown or json
 - [logan-larson/tailwind-light-dark](https://github.com/logan-larson/tailwind-light-dark) - A Tailwind CSS plugin that generates shorthand utilities for light and dark mode color pairs
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
@@ -362,7 +361,7 @@
 - [codebox/beatmatcher](https://github.com/codebox/beatmatcher) - An HTML/JavaScript mixing and beatmatching game
 - [simonw/screenshot-worker](https://github.com/simonw/screenshot-worker) - Cloudflare worker for taking screenshots based on a URL protected by a signature
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
-- [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages.
+- [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Moved to the main defuddle repo. Command line utility to extract clean html, markdown and metadata from web pages.
 - [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1073,6 +1072,7 @@
 ## Rust 
 
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
+- [santoshxshrestha/mdwatch](https://github.com/santoshxshrestha/mdwatch) - A simple CLI tool to live-preview Markdown files in your browser.
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
 - [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown live preview app
 - [lukasl-dev/rime](https://github.com/lukasl-dev/rime) - An MCP server for NixOS users.
