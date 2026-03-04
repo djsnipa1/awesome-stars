@@ -1508,6 +1508,7 @@
 
 ## Zig 
 
+- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
 
 
