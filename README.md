@@ -1305,6 +1305,8 @@
 
 ## TypeScript 
 
+- [smartfrog/opencode-froggy](https://github.com/smartfrog/opencode-froggy) - 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
