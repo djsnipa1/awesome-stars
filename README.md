@@ -348,7 +348,7 @@
 
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [mharrys/fluids-2d](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - MCP is the protocol for tool access. We're the virtualization layer for context.
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context.
 - [jerrythomas/rokkit](https://github.com/jerrythomas/rokkit) - A set of composable, data-driven and themeable UI components.
 - [stephanedenis/OntoWave](https://github.com/stephanedenis/OntoWave) - 
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
