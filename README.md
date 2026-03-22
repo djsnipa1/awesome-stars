@@ -271,7 +271,7 @@
 
 ## HTML 
 
-- [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - a browser script to selectively export your chatgpt, gemini conversations to markdown or json
+- [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - Export your ChatGPT, Claude, Copilot, and Google Gemini chat, using Tampermonkey on chrome, firefox, and other supported browsers, with rich Markdown formatting, a Table of Contents (TOC), YAML metada
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [logan-larson/tailwind-light-dark](https://github.com/logan-larson/tailwind-light-dark) - A Tailwind CSS plugin that generates shorthand utilities for light and dark mode color pairs
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
@@ -349,7 +349,6 @@
 - [dalmaer/stitch-prompt](https://github.com/dalmaer/stitch-prompt) - A simple CLI to generate design prompts with various styles
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [mharrys/fluids-2d](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context.
 - [jerrythomas/rokkit](https://github.com/jerrythomas/rokkit) - A set of composable, data-driven and themeable UI components.
 - [stephanedenis/OntoWave](https://github.com/stephanedenis/OntoWave) - 
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
@@ -1172,6 +1171,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [halostatue/sponge](https://github.com/halostatue/sponge) - Clean fish history from typos automatically
@@ -1316,6 +1316,7 @@
 - [svonjoi/obsidian-heading-level-indent](https://github.com/svonjoi/obsidian-heading-level-indent) - obsidian plugin for hierarchical structuration of document content based on heading levels
 - [smartfrog/opencode-froggy](https://github.com/smartfrog/opencode-froggy) - 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context.
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
