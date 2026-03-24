@@ -271,7 +271,7 @@
 
 ## HTML 
 
-- [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - Export your ChatGPT, Claude, Copilot, and Google Gemini chat, using Tampermonkey on chrome, firefox, and other supported browsers, with rich Markdown formatting, a Table of Contents (TOC), YAML metada
+- [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - Export your ChatGPT, Claude, Copilot, Gemini and Grok chat, using Tampermonkey on chrome, firefox, and other supported browsers, with rich Markdown formatting, a Table of Contents (TOC), YAML metadata
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [logan-larson/tailwind-light-dark](https://github.com/logan-larson/tailwind-light-dark) - A Tailwind CSS plugin that generates shorthand utilities for light and dark mode color pairs
 - [Rezi/svelte-gestures](https://github.com/Rezi/svelte-gestures) - 
@@ -490,7 +490,7 @@
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
-- [timothypholmes/startup-page](https://github.com/timothypholmes/startup-page) - A custom startup page for your browser.
+- [tim-codes-tech/startup-page](https://github.com/tim-codes-tech/startup-page) - A custom startup page for your browser.
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [oriane212/zdog-ui](https://github.com/oriane212/zdog-ui) - Web app for creating animated illustrations with 3D JavaScript engine Zdog
 - [HenryQW/mercury-parser-api](https://github.com/HenryQW/mercury-parser-api) - 🐋 A Dockerized drop-in replacement for the Mercury Parser API.
@@ -1389,7 +1389,7 @@
 - [Olivr/nx-copybara](https://github.com/Olivr/nx-copybara) - Example of using Copybara to open-source a library from a nx monorepo
 - [babakfp/svelte-outclick](https://github.com/babakfp/svelte-outclick) - A Svelte component that allows you to listen to the clicks that happen outside of an element.
 - [Namide/extract-colors](https://github.com/Namide/extract-colors) - Pulls the most common colors out of an image
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JS SDKs. Bot detection, rate limiting, email validation, attack protection, data redaction for Node.js, Next.js, Deno, Bun, Remix, SvelteKit, NestJS.
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JavaScript (JS) / TypeScript SDK. Stop bots and automated attacks from burning your AI budget, leaking data, or misusing tools with Arcjet's AI security building blocks.
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
 - [braebo/svelte-starter](https://github.com/braebo/svelte-starter) - An opinionated SvelteKit starter
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
