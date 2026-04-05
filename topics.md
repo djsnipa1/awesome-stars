@@ -632,6 +632,7 @@
 
 ## cli 
 
+- [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [hmajid2301/OptiNix](https://github.com/hmajid2301/OptiNix) - A CLI tool written in go, for searching options in Nix. Mirrored from https://gitlab.com/hmajid2301/optinix
 - [vimlinuz/mdwatch](https://github.com/vimlinuz/mdwatch) - A simple CLI tool to live-preview Markdown files in your browser.
@@ -1833,7 +1834,7 @@
 
 - [vimlinuz/mdwatch](https://github.com/vimlinuz/mdwatch) - A simple CLI tool to live-preview Markdown files in your browser.
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
-- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown browser
+- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric Markdown browser
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Moved to the main defuddle repo. Command line utility to extract clean html, markdown and metadata from web pages.
@@ -2211,6 +2212,8 @@
 
 ## others 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/nix-vite-plus](https://github.com/ryoppippi/nix-vite-plus) - i'm too lazy to configure dependencies but i just wanna use vite-plus with nix
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [SerifeusStudio/threlte-mcp](https://github.com/SerifeusStudio/threlte-mcp) - An MCP (Model Context Protocol) server that enables AI agents to inspect and manipulate Three.js/Threlte scenes in real-time.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -2425,7 +2428,7 @@
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins
 - [coolapso/hugo-theme-terminalcv](https://github.com/coolapso/hugo-theme-terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
-- [benlinton/slugify](https://github.com/benlinton/slugify) - Bash command that converts filenames and directories to a web friendly format.
+- [jabbercube/slugify](https://github.com/jabbercube/slugify) - Bash command that converts filenames and directories to a web friendly format.
 - [anoduck/anoduck](https://github.com/anoduck/anoduck) - Github Profile page for Anoduck:
 - [dominikduda/tmux_mode_indicator](https://github.com/dominikduda/tmux_mode_indicator) - Tmux plugin that indicate modes you are in (normal/prefix, copy/insert)
 - [dominik-lueke/PokemonOfTheDay](https://github.com/dominik-lueke/PokemonOfTheDay) - Scriptable iOS Widget to display a new random Pokémon every day
@@ -2902,6 +2905,7 @@
 
 ## python 
 
+- [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
 - [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints) - ☕ BeatPrints, create eye-catching, Pinterest-style music posters effortlessly.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [detroittommy879/aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
@@ -3550,6 +3554,7 @@
 
 ## video 
 
+- [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
