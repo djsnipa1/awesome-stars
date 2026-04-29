@@ -27,6 +27,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -154,6 +155,7 @@
 - [neovim](#neovim)
 - [neovim-colorscheme](#neovim-colorscheme)
 - [nextjs](#nextjs)
+- [nim](#nim)
 - [nlp](#nlp)
 - [no-code](#no-code)
 - [node](#node)
@@ -276,6 +278,7 @@
 
 ## ai 
 
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -566,6 +569,10 @@
 - [mcnameej/WallpaperChanger](https://github.com/mcnameej/WallpaperChanger) - Change the Windows desktop wallpaper at regular intervals, switching randomly between a set of images.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
+
+## c-sharp 
+
+- [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 
 ## chatbot 
 
@@ -2074,6 +2081,10 @@
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [jasperhartong/scriptable-ts-boilerplate](https://github.com/jasperhartong/scriptable-ts-boilerplate) - A boilerplate for creating remote-updatable Scriptable widgets. Includes setup, components, utils and examples to develop in the comfort of TypeScript.
+
+## nim 
+
+- [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 
 ## nlp 
 
