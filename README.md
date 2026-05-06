@@ -927,7 +927,7 @@
 - [tuan3w/awesome-tech-rss](https://github.com/tuan3w/awesome-tech-rss) - List of awesome RSS channels related to startup, science and technology.
 - [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
-- [cycyrild/spotify-dl-cli](https://github.com/cycyrild/spotify-dl-cli) - Spotify CLI downloader that retrieves and decrypts Spotify audio streams
+- [cycyrild/spotify-dl-cli](https://github.com/cycyrild/spotify-dl-cli) - Research project on native DRM analysis through dynamic emulation
 - [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
 - [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints) - ☕ BeatPrints, create eye-catching, Pinterest-style music posters effortlessly.
 - [connerohnesorge/awesome-vaults](https://github.com/connerohnesorge/awesome-vaults) - This is an List of Obsidian Vaults that show off features or collections of Notes.
