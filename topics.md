@@ -1975,7 +1975,7 @@
 
 ## music 
 
-- [cycyrild/spotify-dl-cli](https://github.com/cycyrild/spotify-dl-cli) - Spotify CLI downloader that retrieves and decrypts Spotify audio streams
+- [cycyrild/spotify-dl-cli](https://github.com/cycyrild/spotify-dl-cli) - Research project on native DRM analysis through dynamic emulation
 - [TrueMyst/BeatPrints](https://github.com/TrueMyst/BeatPrints) - ☕ BeatPrints, create eye-catching, Pinterest-style music posters effortlessly.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify
@@ -3125,6 +3125,7 @@
 
 ## reverse-engineering 
 
+- [cycyrild/spotify-dl-cli](https://github.com/cycyrild/spotify-dl-cli) - Research project on native DRM analysis through dynamic emulation
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
 
