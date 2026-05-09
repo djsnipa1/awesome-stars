@@ -1172,7 +1172,7 @@
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
-- [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
+- [heapwolf/giant](https://github.com/heapwolf/giant) - A Component Framework with SSR for Rust & Nodejs. Inspired by React, Tailwind, ShadCN, & Next.js
 - [gansm/finalcut](https://github.com/gansm/finalcut) - A Modern C++ Text-Based Widget Toolkit (TUI)
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
 
@@ -1219,7 +1219,7 @@
 
 ## generative-ai 
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No 
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Apoo711/Context-Engineering](https://github.com/Apoo711/Context-Engineering) - 🚀 A framework for Context Engineering using Google Gemini. Move beyond simple prompting and learn to systematically provide context to your AI coding assistant for more reliable, consistent, and compl
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
@@ -1556,7 +1556,7 @@
 
 ## javascript 
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No 
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -2087,6 +2087,7 @@
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js) - Arcjet JavaScript (JS) / TypeScript SDK. Stop bots and automated attacks from burning your AI budget, leaking data, or misusing tools with Arcjet's AI security building blocks.
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [heapwolf/giant](https://github.com/heapwolf/giant) - A Component Framework with SSR for Rust & Nodejs. Inspired by React, Tailwind, ShadCN, & Next.js
 - [jasperhartong/scriptable-ts-boilerplate](https://github.com/jasperhartong/scriptable-ts-boilerplate) - A boilerplate for creating remote-updatable Scriptable widgets. Includes setup, components, utils and examples to develop in the comfort of TypeScript.
 
 ## nim 
@@ -2208,7 +2209,7 @@
 
 ## open-source 
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No 
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -3073,7 +3074,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [spotky1004/Resource-Grid](https://github.com/spotky1004/Resource-Grid) - Fill 9x9 grid with various Resources!
 - [adventurer-hexed/HexedVisualizer](https://github.com/adventurer-hexed/HexedVisualizer) - Hexed Visualizer is an audio visualizer built for spotify.
-- [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
+- [heapwolf/giant](https://github.com/heapwolf/giant) - A Component Framework with SSR for Rust & Nodejs. Inspired by React, Tailwind, ShadCN, & Next.js
 - [timh-dev/startup-page](https://github.com/timh-dev/startup-page) - A custom startup page for your browser.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [thelicato/asciified](https://github.com/thelicato/asciified) - A simple ASCII Art API with a good-looking Web App.
@@ -3170,6 +3171,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [heapwolf/giant](https://github.com/heapwolf/giant) - A Component Framework with SSR for Rust & Nodejs. Inspired by React, Tailwind, ShadCN, & Next.js
 - [K4rakara/freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -3394,6 +3396,7 @@
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
 - [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
+- [heapwolf/giant](https://github.com/heapwolf/giant) - A Component Framework with SSR for Rust & Nodejs. Inspired by React, Tailwind, ShadCN, & Next.js
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 
@@ -3422,6 +3425,7 @@
 - [svelte-add/svelte-add](https://github.com/svelte-add/svelte-add) - Easily add integrations and other functionality to Svelte(kit) apps
 - [N00nDay/stwui](https://github.com/N00nDay/stwui) - Opinionated yet customizable Svelte-TailwindCSS component library
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+- [heapwolf/giant](https://github.com/heapwolf/giant) - A Component Framework with SSR for Rust & Nodejs. Inspired by React, Tailwind, ShadCN, & Next.js
 - [zvizvi/freewindcss](https://github.com/zvizvi/freewindcss) - 🍃 Use Tailwind's set values and units in pure CSS variables
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 
