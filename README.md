@@ -85,6 +85,7 @@
 - [VaughnValle/blue-sky](https://github.com/VaughnValle/blue-sky) - A clean and blue BSPWM setup
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+- [makccr/dot](https://github.com/makccr/dot) - A repository to contain any and all of my personal application configuration files.
 - [o-oconnell/mp4grep](https://github.com/o-oconnell/mp4grep) - mp4grep is a CLI for transcribing and searching audio/video files
 - [Francesco149/weebp](https://github.com/Francesco149/weebp) - free and open-source wallpaper engine, set any window as your wallpaper
 - [borisfaure/terminology](https://github.com/borisfaure/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
@@ -351,7 +352,7 @@
 
 ## JavaScript 
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-host
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [dalmaer/stitch-prompt](https://github.com/dalmaer/stitch-prompt) - A simple CLI to generate design prompts with various styles
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
@@ -363,7 +364,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [skelhammer/slime-rancher-2-guide](https://github.com/skelhammer/slime-rancher-2-guide) - A guide for Slime Rancher 2.
-- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
+- [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend code editor
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [noelportugal/wyze-node](https://github.com/noelportugal/wyze-node) - An un-official API wrapper for Wyze products
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -1266,7 +1267,6 @@
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [bxm/ish](https://github.com/bxm/ish) - 
-- [makccr/dot](https://github.com/makccr/dot) - Dotfiles & repo for any and all application configs.
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
@@ -1402,7 +1402,7 @@
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [L-Blondy/tw-colors](https://github.com/L-Blondy/tw-colors) - Tailwind plugin to easily add multiple color themes to your projects.
 - [prjctimg/huetiful](https://github.com/prjctimg/huetiful) - Library for simple 🧮, fast ⏱️ and accessible ♿ color manipulation.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 215 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [charltoons/color-thief-ts](https://github.com/charltoons/color-thief-ts) - Grab the color palette from an image using just Javascript. Works in the browser and in Node.
 - [Bingchatbot/copilot-bing](https://github.com/Bingchatbot/copilot-bing) - Created with CodeSandbox
