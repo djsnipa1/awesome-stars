@@ -2671,6 +2671,7 @@
 - [tobi-wan-kenobi/dotfiles](https://github.com/tobi-wan-kenobi/dotfiles) - Small collection of my humble dot files
 - [tobi-wan-kenobi/vim-hints](https://github.com/tobi-wan-kenobi/vim-hints) - Collection of small, hopefully useful vim hints (mostly to help me learn vim better)
 - [dguo/blood-moon](https://github.com/dguo/blood-moon) - :waxing_crescent_moon: A bold, dark color scheme for code
+- [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [jayseesee/Crittermound-Fork](https://github.com/jayseesee/Crittermound-Fork) - Fork of Crittermound
 - [insanum/sncli](https://github.com/insanum/sncli) - Simplenote CLI
 - [sonjiku/pywal](https://github.com/sonjiku/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -3481,7 +3482,6 @@
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
-- [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
