@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -56,6 +57,10 @@
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Assembly 
+
+- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 
 ## AutoHotkey 
 
@@ -276,6 +281,7 @@
 
 ## HTML 
 
+- [Turtle6665/QR-marklet](https://github.com/Turtle6665/QR-marklet) - A Bookmarklets to create localy a QRcode of the current url web page and show it on a popup.
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 - [stephanedenis/OntoWave](https://github.com/stephanedenis/OntoWave) - 
 - [revivalstack/ai-chat-exporter](https://github.com/revivalstack/ai-chat-exporter) - Export your ChatGPT, Claude, Copilot, Gemini and Grok chat, using Tampermonkey on chrome, firefox, and other supported browsers, with rich Markdown formatting, a Table of Contents (TOC), YAML metadata
@@ -778,6 +784,8 @@
 
 ## Others 
 
+- [TarunDaCoder/OperatorMono_NerdFont](https://github.com/TarunDaCoder/OperatorMono_NerdFont) - The famous $600 Operator Mono font, but for free and with nerd fonts patched
+- [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -1335,7 +1343,7 @@
 - [leontloveless/ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds) - AI-powered RSS feed generator for blogs without RSS
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [ryoppippi/nix-vite-plus](https://github.com/ryoppippi/nix-vite-plus) - i'm too lazy to configure dependencies but i just wanna use vite-plus with nix
 - [SerifeusStudio/threlte-mcp](https://github.com/SerifeusStudio/threlte-mcp) - An MCP (Model Context Protocol) server that enables AI agents to inspect and manipulate Three.js/Threlte scenes in real-time.
 - [svonjoi/obsidian-heading-level-indent](https://github.com/svonjoi/obsidian-heading-level-indent) - obsidian plugin for hierarchical structuration of document content based on heading levels
