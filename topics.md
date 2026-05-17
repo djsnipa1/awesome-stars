@@ -2272,7 +2272,7 @@
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [Kyure-A/agent-skills-nix](https://github.com/Kyure-A/agent-skills-nix) - Declarative management of Agent Skills on Nix
 - [haxiomic/GPU-Fluid-Experiments](https://github.com/haxiomic/GPU-Fluid-Experiments) - 
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [ryoppippi/nix-vite-plus](https://github.com/ryoppippi/nix-vite-plus) - i'm too lazy to configure dependencies but i just wanna use vite-plus with nix
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [SerifeusStudio/threlte-mcp](https://github.com/SerifeusStudio/threlte-mcp) - An MCP (Model Context Protocol) server that enables AI agents to inspect and manipulate Three.js/Threlte scenes in real-time.
