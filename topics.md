@@ -2059,7 +2059,7 @@
 - [makccr/dot](https://github.com/makccr/dot) - A repository to contain any and all of my personal application configuration files.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
+- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find your next vim colorcheme.
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [toggle-corp/alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme) - Change colorscheme of alacritty with ease.
@@ -2360,7 +2360,7 @@
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
 - [pooch-tonic/UmaStitcher](https://github.com/pooch-tonic/UmaStitcher) - Umamusume info screenshot stitcher that works purely on the web client side.
-- [Mike-Aniki/Aniki-ReMake](https://github.com/Mike-Aniki/Aniki-ReMake) - Fullscreen Theme for Playnite
+- [Mike-Aniki/Aniki-ReMake](https://github.com/Mike-Aniki/Aniki-ReMake) - A Console-Style Fullscreen Experience for Playnite
 - [acorns/Particle-System](https://github.com/acorns/Particle-System) - It makes pretties
 - [catppuccin/zen-browser](https://github.com/catppuccin/zen-browser) - 🧘‍♂️ Soothing pastel theme for Zen Browser
 - [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
@@ -3668,7 +3668,7 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
-- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
+- [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find your next vim colorcheme.
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
 - [toggle-corp/alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme) - Change colorscheme of alacritty with ease.
