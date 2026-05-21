@@ -1018,7 +1018,7 @@
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [yboyer/realreleaseradar](https://github.com/yboyer/realreleaseradar) - Creates and updates a Release Radar playlist on Spotify with all your new weekly tracks.
 
 ## documentation 
@@ -1245,7 +1245,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ajoberstar/PSGitDotfiles](https://github.com/ajoberstar/PSGitDotfiles) - PowerShell module for managing dotfiles with Git
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## github 
 
@@ -1289,7 +1289,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## golang 
 
@@ -1992,7 +1992,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [adventurer-hexed/HexedVisualizer](https://github.com/adventurer-hexed/HexedVisualizer) - Hexed Visualizer is an audio visualizer built for spotify.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [ezSQL/ezsql](https://github.com/ezSQL/ezsql) - PHP class to make interacting with a database ridiculusly easy
 
 ## neovim 
@@ -2886,7 +2886,7 @@
 
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## powershell 
 
@@ -3055,7 +3055,7 @@
 
 ## raspberry-pi 
 
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## react 
 
@@ -3235,7 +3235,7 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
