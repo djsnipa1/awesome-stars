@@ -680,6 +680,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Link-/gh-token](https://github.com/Link-/gh-token) - Manage installation access tokens for GitHub apps from your terminal 💻
+- [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Python library and CLI for splitting large fonts into unicode-range WOFF/WOFF2 subsets.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
@@ -822,7 +823,7 @@
 ## css 
 
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
+- [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Python library and CLI for splitting large fonts into unicode-range WOFF/WOFF2 subsets.
 - [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
 - [VdustR/gruvbox.css](https://github.com/VdustR/gruvbox.css) - gruvbox css variables.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
@@ -1149,7 +1150,7 @@
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [cdalvaro/docker-nerd-fonts-patcher](https://github.com/cdalvaro/docker-nerd-fonts-patcher) - 🐳 Dockerized Nerd Fonts patcher
-- [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Split the big font file into small subsets
+- [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Python library and CLI for splitting large fonts into unicode-range WOFF/WOFF2 subsets.
 - [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
 - [stgiga/UnifontEX](https://github.com/stgiga/UnifontEX) - An extended fork of GNU Unifont with a focus on high compatibility.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -2975,6 +2976,7 @@
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [spoo-me/spoo](https://github.com/spoo-me/spoo) - spoo.me is an open-source & API first link management infra
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Python library and CLI for splitting large fonts into unicode-range WOFF/WOFF2 subsets.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
