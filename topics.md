@@ -1526,6 +1526,7 @@
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
+- [isontheline/pro.webssh.net](https://github.com/isontheline/pro.webssh.net) - iOS / iPadOS / macOS SSH Client
 - [Yannis4444/Orange-Share](https://github.com/Yannis4444/Orange-Share) - A small python server that accepts requests from an Apple shortcut to allow sharing all sorts of media from iOS with any desktop OS. It allows sending content right from the share sheet - similar to A
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
@@ -1848,6 +1849,7 @@
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
+- [isontheline/pro.webssh.net](https://github.com/isontheline/pro.webssh.net) - iOS / iPadOS / macOS SSH Client
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -2456,7 +2458,6 @@
 - [dgreenheck/threejs-procedural-planets](https://github.com/dgreenheck/threejs-procedural-planets) - Procedurally generated planets using Three.js
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [OmarShehata/google-earth-as-gltf](https://github.com/OmarShehata/google-earth-as-gltf) - 
-- [isontheline/pro.webssh.net](https://github.com/isontheline/pro.webssh.net) - iOS / iPadOS / macOS SSH Client
 - [b2renger/p5js-designing-interactive-patterns](https://github.com/b2renger/p5js-designing-interactive-patterns) - Code for a creative coding class with  graphics designers.
 - [b2renger/p5js_patterns](https://github.com/b2renger/p5js_patterns) - experiments with p5js and pattern design
 - [alialaa/css-grid-cheat-sheet](https://github.com/alialaa/css-grid-cheat-sheet) - CSS Grid Cheat Sheet
@@ -3460,6 +3461,7 @@
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
+- [isontheline/pro.webssh.net](https://github.com/isontheline/pro.webssh.net) - iOS / iPadOS / macOS SSH Client
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
