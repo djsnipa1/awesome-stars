@@ -510,7 +510,6 @@
 - [beetrandahiya/ChelseaJS](https://github.com/beetrandahiya/ChelseaJS) - ChelseaJS is a Javascript library for creative, generative Coding.
 - [edwinwebb/three-seed](https://github.com/edwinwebb/three-seed) - A Three.js starter project with ES6 and Webpack
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [delfws/Scriptables](https://github.com/delfws/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
 - [evandcoleman/scriptable](https://github.com/evandcoleman/scriptable) - A collection of my scriptable.app scripts
 - [ajatkj/scriptable](https://github.com/ajatkj/scriptable) - Scriptable scripts for iOS
 - [im3x/Scriptables](https://github.com/im3x/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
