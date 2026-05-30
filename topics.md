@@ -2650,7 +2650,6 @@
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [shazam/choreographer-example](https://github.com/shazam/choreographer-example) - Companion repo for Shazam's tagging animation blog post
 - [8BitJonny/liveSpotify](https://github.com/8BitJonny/liveSpotify) - Dynamic realtime profile ReadMe linked with spotify
-- [delfws/Scriptables](https://github.com/delfws/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
 - [evandcoleman/scriptable](https://github.com/evandcoleman/scriptable) - A collection of my scriptable.app scripts
 - [ajatkj/scriptable](https://github.com/ajatkj/scriptable) - Scriptable scripts for iOS
 - [im3x/Scriptables](https://github.com/im3x/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
