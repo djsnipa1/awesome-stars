@@ -2182,6 +2182,7 @@
 
 ## obsidian 
 
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates) - :rocket: Starter templates for Obsidian.md
 - [connerohnesorge/awesome-vaults](https://github.com/connerohnesorge/awesome-vaults) - This is an List of Obsidian Vaults that show off features or collections of Notes.
 - [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
@@ -2271,6 +2272,7 @@
 
 ## others 
 
+- [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
 - [4DBug/nix-ansi](https://github.com/4DBug/nix-ansi) - 
 - [Turtle6665/QR-marklet](https://github.com/Turtle6665/QR-marklet) - A Bookmarklets to create localy a QRcode of the current url web page and show it on a popup.
 - [TarunDaCoder/OperatorMono_NerdFont](https://github.com/TarunDaCoder/OperatorMono_NerdFont) - The famous $600 Operator Mono font, but for free and with nerd fonts patched
