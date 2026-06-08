@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [devenjarvis/lathe](https://github.com/devenjarvis/lathe) - Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋
 - [tjblackheart/andcli](https://github.com/tjblackheart/andcli) - A 2FA TUI for your shell
 - [andyrewlee/amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
