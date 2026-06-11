@@ -367,6 +367,7 @@
 - [dalmaer/stitch-prompt](https://github.com/dalmaer/stitch-prompt) - A simple CLI to generate design prompts with various styles
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [mharrys/fluids-2d](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js
+- [jerrythomas/rokkit](https://github.com/jerrythomas/rokkit) - A set of composable, data-driven and themeable UI components.
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [klevron/threejs-toys](https://github.com/klevron/threejs-toys) - ✨ ThreeJS Toys ⚡
 - [matyunya/svelte-image](https://github.com/matyunya/svelte-image) - Image (pre)processing with Sharp for Svelte
@@ -1109,7 +1110,7 @@
 
 - [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI for LLMs
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [vimlinuz/mdwatch](https://github.com/vimlinuz/mdwatch) - A simple CLI tool to live-preview Markdown files in your browser.
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
@@ -1297,7 +1298,6 @@
 ## Svelte 
 
 - [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components to build highly interactive applications.
-- [jerrythomas/rokkit](https://github.com/jerrythomas/rokkit) - A set of composable, data-driven and themeable UI components.
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [flo-bit/svelte-depth-3d-component](https://github.com/flo-bit/svelte-depth-3d-component) - svelte component to show a fake 3d image with depth map
 - [sveltejs/svelte.dev](https://github.com/sveltejs/svelte.dev) - The Svelte omnisite
@@ -1389,7 +1389,7 @@
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
 - [leiske/Bookframe](https://github.com/leiske/Bookframe) - Bookframe - bookmarklet development supercharged
-- [mrmartineau/Otter](https://github.com/mrmartineau/Otter) - Otter is a self-hosted bookmark manager made with Next.js and Supabase with Bluesky integration.
+- [mrmartineau/Otter](https://github.com/mrmartineau/Otter) - Otter is where your links, articles, videos and half-watched TV shows live. Save it, tag it, find it again — on your own infrastructure, with nobody reading over your shoulder.
 - [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [VdustR/my-vercel-redirect](https://github.com/VdustR/my-vercel-redirect) - My redirect repository for vercel subdomains
