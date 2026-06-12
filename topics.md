@@ -710,6 +710,7 @@
 - [Correia-jpv/fucking-terminals-are-sexy](https://github.com/Correia-jpv/fucking-terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [bcicen/tcolors](https://github.com/bcicen/tcolors) - Commandline color picker and palette builder
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [maxlath/ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - A command line executable to add a file to IPFS from a URL instead of a file path
 - [ipfs-shipyard/ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
@@ -2633,7 +2634,6 @@
 - [madbence/node-drawille-canvas](https://github.com/madbence/node-drawille-canvas) - 
 - [NotNexuss/NodeJS-Project-Hoster](https://github.com/NotNexuss/NodeJS-Project-Hoster) - Host your repl.it project 24/7 with this code!, compatible with Node.JS.
 - [spencerpogo/replitcli](https://github.com/spencerpogo/replitcli) - A command line interface for repl.it
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [metrofish/metrofish](https://github.com/metrofish/metrofish) - Swift, git-aware, space-conscious, powerline prompt. 🚇
 - [vaniacer/info-bar](https://github.com/vaniacer/info-bar) - CLI $PS1 extension. It shows current dir, username, hostname, date and time, git status (if in git folger) and some animations in upper row leaving whole string for commands.
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
@@ -2849,6 +2849,7 @@
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [tapannallan/awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 
