@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [jfhbrook/hoarders](https://github.com/jfhbrook/hoarders) - node.js's most complete "utility grab-bag". Dedicated to substack.
 - [krissrex/google-authenticator-exporter](https://github.com/krissrex/google-authenticator-exporter) - Get the TOTP secrets exported by Google Authenticator
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
@@ -734,6 +735,7 @@
 
 ## Nix 
 
+- [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [Kyure-A/agent-skills-nix](https://github.com/Kyure-A/agent-skills-nix) - Declarative management of Agent Skills on Nix
 - [khaneliman/khanelivim](https://github.com/khaneliman/khanelivim) - Nixvim neovim flake.
@@ -1108,9 +1110,10 @@
 
 ## Rust 
 
+- [nosajio/substack-dl](https://github.com/nosajio/substack-dl) - Download all public posts from any Substack newsletter
 - [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI for LLMs
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [vimlinuz/mdwatch](https://github.com/vimlinuz/mdwatch) - A simple CLI tool to live-preview Markdown files in your browser.
 - [Epistates/treemd](https://github.com/Epistates/treemd) - A (TUI/CLI) markdown navigator with tree-based structural navigation.
@@ -1345,6 +1348,8 @@
 
 ## TypeScript 
 
+- [postcli/substack](https://github.com/postcli/substack) - Substack CLI and MCP Server
+- [SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis) - Analyse the structure of your Obsidian graph using various analysis techniques
 - [leontloveless/ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds) - AI-powered RSS feed generator for blogs without RSS
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
@@ -1567,7 +1572,7 @@
 ## Zig 
 
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes
+- [neurosnap/zmx](https://github.com/neurosnap/zmx) - Session attach/detach for the terminal.
 
 
 ## License
