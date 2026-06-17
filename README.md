@@ -738,6 +738,7 @@
 - [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [Kyure-A/agent-skills-nix](https://github.com/Kyure-A/agent-skills-nix) - Declarative management of Agent Skills on Nix
+- [ryoppippi/nix-vite-plus](https://github.com/ryoppippi/nix-vite-plus) - i'm too lazy to configure dependencies but i just wanna use vite-plus with nix
 - [khaneliman/khanelivim](https://github.com/khaneliman/khanelivim) - Nixvim neovim flake.
 - [semi710/nvix](https://github.com/semi710/nvix) - Neovim Configuration based on Nixvim.
 - [azuwis/nix-config](https://github.com/azuwis/nix-config) - 
@@ -939,7 +940,7 @@
 
 ## Python 
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
 - [tuan3w/awesome-tech-rss](https://github.com/tuan3w/awesome-tech-rss) - List of awesome RSS channels related to startup, science and technology.
 - [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -1355,7 +1356,6 @@
 - [leontloveless/ai-rss-feeds](https://github.com/leontloveless/ai-rss-feeds) - AI-powered RSS feed generator for blogs without RSS
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [ryoppippi/nix-vite-plus](https://github.com/ryoppippi/nix-vite-plus) - i'm too lazy to configure dependencies but i just wanna use vite-plus with nix
 - [SerifeusStudio/threlte-mcp](https://github.com/SerifeusStudio/threlte-mcp) - An MCP (Model Context Protocol) server that enables AI agents to inspect and manipulate Three.js/Threlte scenes in real-time.
 - [svonjoi/obsidian-heading-level-indent](https://github.com/svonjoi/obsidian-heading-level-indent) - obsidian plugin for hierarchical structuration of document content based on heading levels
 - [smartfrog/opencode-froggy](https://github.com/smartfrog/opencode-froggy) - 
