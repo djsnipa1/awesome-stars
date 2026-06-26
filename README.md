@@ -276,7 +276,7 @@
 - [davemachado/public-api](https://github.com/davemachado/public-api) - Public API for the public-apis Github project
 - [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 
 ## Groff 
 
