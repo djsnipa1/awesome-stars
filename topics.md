@@ -2296,6 +2296,7 @@
 
 ## others 
 
+- [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [postcli/substack](https://github.com/postcli/substack) - Substack CLI and MCP Server
 - [jfhbrook/hoarders](https://github.com/jfhbrook/hoarders) - node.js's most complete "utility grab-bag". Dedicated to substack.
 - [nosajio/substack-dl](https://github.com/nosajio/substack-dl) - Download all public posts from any Substack newsletter
