@@ -750,6 +750,7 @@
 
 ## cms 
 
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## code 
@@ -843,6 +844,7 @@
 
 ## css 
 
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [VdustR/font-splitter](https://github.com/VdustR/font-splitter) - Python library and CLI for splitting large fonts into unicode-range WOFF/WOFF2 subsets.
 - [VdustR/gwf](https://github.com/VdustR/gwf) - A Google web font downloader
@@ -3793,6 +3795,7 @@
 
 ## website 
 
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 - [VdustR/pocket](https://github.com/VdustR/pocket) - 🗡️ It's dangerous to go alone! Take this. Curated GitHub stars for your coding adventure.
 
 ## windows 
