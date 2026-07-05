@@ -1114,6 +1114,7 @@
 
 ## Rust 
 
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [nosajio/substack-dl](https://github.com/nosajio/substack-dl) - Download all public posts from any Substack newsletter
 - [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI for LLMs
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
