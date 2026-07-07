@@ -364,7 +364,7 @@
 - [jfhbrook/hoarders](https://github.com/jfhbrook/hoarders) - node.js's most complete "utility grab-bag". Dedicated to substack.
 - [krissrex/google-authenticator-exporter](https://github.com/krissrex/google-authenticator-exporter) - Get the TOTP secrets exported by Google Authenticator
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
 - [dalmaer/stitch-prompt](https://github.com/dalmaer/stitch-prompt) - A simple CLI to generate design prompts with various styles
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [mharrys/fluids-2d](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js
@@ -1353,6 +1353,7 @@
 
 ## TypeScript 
 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [postcli/substack](https://github.com/postcli/substack) - Substack CLI and MCP Server
