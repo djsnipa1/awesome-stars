@@ -435,7 +435,7 @@
 - [alialaa/css-grid-cheat-sheet](https://github.com/alialaa/css-grid-cheat-sheet) - CSS Grid Cheat Sheet
 - [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) - 
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
-- [diogo-karma/bingchat-expressjs](https://github.com/diogo-karma/bingchat-expressjs) - Example of how to use BingChat with ExpressJS
+- [chakra-gold/bingchat-expressjs](https://github.com/chakra-gold/bingchat-expressjs) - Example of how to use BingChat with ExpressJS
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
 - [kevinashworth/make-bookmarklet](https://github.com/kevinashworth/make-bookmarklet) - Using node, make a bookmarklet from your JavaScript file.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
@@ -1341,7 +1341,7 @@
 
 ## Swift 
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [mattrighetti/Ulry](https://github.com/mattrighetti/Ulry) - Lightweight and fast link archiver app for iOS
