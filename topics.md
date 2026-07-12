@@ -2328,6 +2328,7 @@
 
 ## others 
 
+- [halfwhey/nix-playwright-nightly](https://github.com/halfwhey/nix-playwright-nightly) - Pure-Nix flake packaging @playwright/cli, @playwright/mcp, and PyPI playwright with revision-matched browsers. Also packages Camoufox.
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [postcli/substack](https://github.com/postcli/substack) - Substack CLI and MCP Server
 - [jfhbrook/hoarders](https://github.com/jfhbrook/hoarders) - node.js's most complete "utility grab-bag". Dedicated to substack.
