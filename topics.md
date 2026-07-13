@@ -2140,6 +2140,7 @@
 
 ## nextjs 
 
+- [NissonCX/death-stranding-profile](https://github.com/NissonCX/death-stranding-profile) - An intricate, Death Stranding-inspired aesthetic visualization generator for your GitHub Profile README. 📦🌧️
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
