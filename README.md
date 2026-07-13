@@ -1354,6 +1354,7 @@
 
 ## TypeScript 
 
+- [NissonCX/death-stranding-profile](https://github.com/NissonCX/death-stranding-profile) - An intricate, Death Stranding-inspired aesthetic visualization generator for your GitHub Profile README. 📦🌧️
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
