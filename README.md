@@ -364,7 +364,7 @@
 
 - [jfhbrook/hoarders](https://github.com/jfhbrook/hoarders) - node.js's most complete "utility grab-bag". Dedicated to substack.
 - [krissrex/google-authenticator-exporter](https://github.com/krissrex/google-authenticator-exporter) - Get the TOTP secrets exported by Google Authenticator
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [dalmaer/stitch-prompt](https://github.com/dalmaer/stitch-prompt) - A simple CLI to generate design prompts with various styles
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
@@ -943,7 +943,7 @@
 
 ## Python 
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
 - [tuan3w/awesome-tech-rss](https://github.com/tuan3w/awesome-tech-rss) - List of awesome RSS channels related to startup, science and technology.
 - [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -1357,7 +1357,7 @@
 
 - [NissonCX/death-stranding-profile](https://github.com/NissonCX/death-stranding-profile) - An intricate, Death Stranding-inspired aesthetic visualization generator for your GitHub Profile README. 📦🌧️
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
-- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [postcli/substack](https://github.com/postcli/substack) - Substack CLI and MCP Server
 - [SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis) - Analyse the structure of your Obsidian graph using various analysis techniques
