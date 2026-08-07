@@ -535,7 +535,7 @@
 - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [mhyfritz/generative-art-speedrun-examples](https://github.com/mhyfritz/generative-art-speedrun-examples) - Examples from @tholman's "Generative Art Speedrun" talk
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
-- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 An interesting markdown note taking application
+- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 Local-first markdown notebook - notes live in your browser or local folders as plain markdown files, synced with in-browser git. No server, no account, works offline.
 - [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [felipecustodio/p5-starter](https://github.com/felipecustodio/p5-starter) - :herb: Boilerplate for p5.js projects, including VSCode Intellisense and linting for HTML, CSS and JS.
