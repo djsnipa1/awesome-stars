@@ -1090,7 +1090,6 @@
 
 ## dotfiles 
 
-- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [neilsabde/nfs](https://github.com/neilsabde/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [gvolpe/nix-config](https://github.com/gvolpe/nix-config) - :space_invader: NixOS configuration :space_invader:
@@ -2087,7 +2086,6 @@
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
-- [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
@@ -2581,7 +2579,6 @@
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [chunqiuyiyu/bing-chat-bookmarklets](https://github.com/chunqiuyiyu/bing-chat-bookmarklets) - A collection of bookmarklets for the Bing chat client.
 - [mafintosh/webcat](https://github.com/mafintosh/webcat) - Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery
-- [viperML/iosevka](https://github.com/viperML/iosevka) - My iosevka build, patched with nerd fonts
 - [juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes) - This plugin allows side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [F1LT3R/axel](https://github.com/F1LT3R/axel) - AXEL is a Node.js graphics library for drawing graphics to your console with ASCII characters. AXEL has been designed to help create games, retro graphics and spice up the terminal components of your 
@@ -2987,6 +2984,7 @@
 ## privacy 
 
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
@@ -3424,7 +3422,6 @@
 - [any-tdf/any-tdf](https://github.com/any-tdf/any-tdf) - Mobile web component library based on Svelte/React/Vue and Tailwind
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [kylebuildsstuff/aichatbestie](https://github.com/kylebuildsstuff/aichatbestie) - ChatGPT API wrapper
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [VdustR/pocket](https://github.com/VdustR/pocket) - 🗡️ It's dangerous to go alone! Take this. Curated GitHub stars for your coding adventure.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
@@ -3496,7 +3493,6 @@
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [logan-larson/tailwind-light-dark](https://github.com/logan-larson/tailwind-light-dark) - A Tailwind CSS plugin that generates shorthand utilities for light and dark mode color pairs
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [VdustR/pocket](https://github.com/VdustR/pocket) - 🗡️ It's dangerous to go alone! Take this. Curated GitHub stars for your coding adventure.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
