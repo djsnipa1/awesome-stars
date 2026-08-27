@@ -941,7 +941,7 @@
 
 ## Python 
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [tuan3w/awesome-tech-rss](https://github.com/tuan3w/awesome-tech-rss) - List of awesome RSS channels related to startup, science and technology.
 - [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -1096,7 +1096,6 @@
 - [Yuzu/Spotifier](https://github.com/Yuzu/Spotifier) - A solution for keeping up to date w/ new Spotify artist releases!
 - [amiramitai/spotsync](https://github.com/amiramitai/spotsync) - Creates a new releases playlist from user's followed artists in spotify.
 - [gosulap/Spotify-forecast](https://github.com/gosulap/Spotify-forecast) - Finds songs that align with my music taste in Spotify's new releases
-- [kowenhouston/spotify-new-album](https://github.com/kowenhouston/spotify-new-album) - Do something when your favourite artist releases a new album
 - [anirudhjoshi/lastpass2keepass](https://github.com/anirudhjoshi/lastpass2keepass) - Allows you to convert the LastPass export to a KeePass XML import.
 - [jodal/pyspotify](https://github.com/jodal/pyspotify) - Python bindings for libspotify (no longer working as of May 2022)
 - [markkohdev/spotify-api-starter](https://github.com/markkohdev/spotify-api-starter) - A starter pack for using the Spotify Web API in Python
