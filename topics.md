@@ -2336,6 +2336,7 @@
 
 ## others 
 
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
 - [halfwhey/nix-playwright-nightly](https://github.com/halfwhey/nix-playwright-nightly) - Pure-Nix flake packaging @playwright/cli, @playwright/mcp, and PyPI playwright with revision-matched browsers. Also packages Camoufox.
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
