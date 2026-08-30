@@ -259,7 +259,7 @@
 - [bcicen/tcolors](https://github.com/bcicen/tcolors) - Commandline color picker and palette builder
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [AlexEidt/Amaze](https://github.com/AlexEidt/Amaze) - Maze Pattern Generator.
+- [AlexEidt/Amaze](https://github.com/AlexEidt/Amaze) - Maze Pattern Generator
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
@@ -1021,8 +1021,8 @@
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [devottys/darkdraw](https://github.com/devottys/darkdraw) - unicode art and animation in the terminal
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
-- [AlexEidt/Fractal-Explorer](https://github.com/AlexEidt/Fractal-Explorer) - Escape-Time Fractal Explorer for Mandelbrot and Julia Sets.
-- [AlexEidt/ASCII-Vision](https://github.com/AlexEidt/ASCII-Vision) - Real-time Color ASCII Webcam Streaming.
+- [AlexEidt/Fractal-Explorer](https://github.com/AlexEidt/Fractal-Explorer) - Escape-Time Fractal Explorer for Mandelbrot and Julia Sets
+- [AlexEidt/ASCII-Vision](https://github.com/AlexEidt/ASCII-Vision) - Real-time Color ASCII Webcam Streaming
 - [jm33-m0/mec](https://github.com/jm33-m0/mec) - for mass exploiting
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
