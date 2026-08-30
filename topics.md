@@ -1072,7 +1072,6 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [yboyer/realreleaseradar](https://github.com/yboyer/realreleaseradar) - Creates and updates a Release Radar playlist on Spotify with all your new weekly tracks.
@@ -1747,7 +1746,6 @@
 
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [ghuntley/ghuntley-monorepo-retired](https://github.com/ghuntley/ghuntley-monorepo-retired) - 
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## laravel 
@@ -2678,6 +2676,7 @@
 - [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) - uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [gmattie/Data-Pixels](https://github.com/gmattie/Data-Pixels) - Create pixel art programmatically.  Includes DataPixels.js and Data Pixels Playground desktop application.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [spite/genuary-2022](https://github.com/spite/genuary-2022) - 
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -2709,9 +2708,9 @@
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [icy-comet/dockered-nerdfonts-patcher](https://github.com/icy-comet/dockered-nerdfonts-patcher) - A small and simple unofficial Docker image to make NerdPatching fonts easy.
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
-- [AlexEidt/Amaze](https://github.com/AlexEidt/Amaze) - Maze Pattern Generator.
-- [AlexEidt/Fractal-Explorer](https://github.com/AlexEidt/Fractal-Explorer) - Escape-Time Fractal Explorer for Mandelbrot and Julia Sets.
-- [AlexEidt/ASCII-Vision](https://github.com/AlexEidt/ASCII-Vision) - Real-time Color ASCII Webcam Streaming.
+- [AlexEidt/Amaze](https://github.com/AlexEidt/Amaze) - Maze Pattern Generator
+- [AlexEidt/Fractal-Explorer](https://github.com/AlexEidt/Fractal-Explorer) - Escape-Time Fractal Explorer for Mandelbrot and Julia Sets
+- [AlexEidt/ASCII-Vision](https://github.com/AlexEidt/ASCII-Vision) - Real-time Color ASCII Webcam Streaming
 - [archcraft-os/archcraft-openbox](https://github.com/archcraft-os/archcraft-openbox) - // Configuration : Openbox
 - [is-a-good-dev/register](https://github.com/is-a-good-dev/register) - Register for your is-a-good.dev domain!
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
