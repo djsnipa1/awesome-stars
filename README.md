@@ -632,7 +632,6 @@
 - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.
 - [HendrickZhou/shazam-air](https://github.com/HendrickZhou/shazam-air) - music recognition and classifier project just like shazam but lighter and simpler
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
-- [Ori5000/zspotifycolab](https://github.com/Ori5000/zspotifycolab) - ZSpotify? Now in Google Colab! :)
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [justmarkham/trump-lies](https://github.com/justmarkham/trump-lies) - Tutorial: Web scraping in Python with Beautiful Soup
 
@@ -682,7 +681,7 @@
 - [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) - Color scheme for neovim, based on SublimeText 4 monokai
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
-- [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
+- [mister-grimm96/swaystation](https://github.com/mister-grimm96/swaystation) - A collection of dotfiles based on arch linux and swaywm
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
@@ -1401,7 +1400,7 @@
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [RLabs-Inc/shadcn-themes](https://github.com/RLabs-Inc/shadcn-themes) - Generate themes for Shadcn UI using Sacred Geometry Patterns and modern mathematics equations mixed within Color Theory or just pick your colors for each available CSS variable. This project leverages
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A high-performance, cross-platform editor that supports WYSIWYG Markdown and general text editing.
 - [leiske/Bookframe](https://github.com/leiske/Bookframe) - Bookframe - bookmarklet development supercharged
 - [mrmartineau/Otter](https://github.com/mrmartineau/Otter) - Otter is where your links, articles, videos and half-watched TV shows live. Save it, tag it, find it again — on your own infrastructure, with nobody reading over your shoulder.
 - [benhansen-io/pinging](https://github.com/benhansen-io/pinging) - Pinging.net - Monitor Your Internet Connection
