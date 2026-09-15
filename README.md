@@ -1503,7 +1503,7 @@
 - [dpwoert/magic-circle](https://github.com/dpwoert/magic-circle) - Creative coding UI
 - [ikeryou/sketch253](https://github.com/ikeryou/sketch253) - sketch253
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and m
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
 - [timh-dev/startup-page](https://github.com/timh-dev/startup-page) - A custom startup page for your browser.
