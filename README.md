@@ -446,7 +446,6 @@
 - [chakra-gold/bingchat-expressjs](https://github.com/chakra-gold/bingchat-expressjs) - Example of how to use BingChat with ExpressJS
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
 - [kevinashworth/make-bookmarklet](https://github.com/kevinashworth/make-bookmarklet) - Using node, make a bookmarklet from your JavaScript file.
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [GraemeFulton/ThreeJS-3D-Music-Visualizer](https://github.com/GraemeFulton/ThreeJS-3D-Music-Visualizer) - Three.js terrain + starfield (object oriented)
 - [chrisdiana/webden](https://github.com/chrisdiana/webden) - Open source mobile friendly code playground 📱
 - [adiptal/studio](https://github.com/adiptal/studio) - Adiptal Studio is an iframe based self-host headless page builder to integrate in any cms/framework. It's feature-rich design and gives clean output to design responsive pages.
@@ -1327,6 +1326,7 @@
 - [SvelteLab/SvelteLab](https://github.com/SvelteLab/SvelteLab) - supercharged REPL for Svelte
 - [alialaa/svelte-spotify](https://github.com/alialaa/svelte-spotify) - 
 - [bennymi/ato-ui](https://github.com/bennymi/ato-ui) - The elemental UI component library for Svelte, built with UnoCSS and Melt UI.
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [Aman07a/svelte-spotify](https://github.com/Aman07a/svelte-spotify) - Svelte & SvelteKit: The Complete Guide
 - [radulff/sveltekit-spotify-app](https://github.com/radulff/sveltekit-spotify-app) - SvelteKit Spotify Learning App
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
@@ -1459,7 +1459,7 @@
 - [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [svecosystem/mode-watcher](https://github.com/svecosystem/mode-watcher) - Simple light/dark mode management for Svelte apps. 🌑 ←→ ☀️
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
