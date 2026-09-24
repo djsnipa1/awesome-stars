@@ -179,7 +179,7 @@
 - [simurai/duotone-syntax](https://github.com/simurai/duotone-syntax) - Master template for DuoTone syntax themes
 - [gautamkrishnar/github-pages-gallery](https://github.com/gautamkrishnar/github-pages-gallery) - A zero dollar solution to host your photo/video gallery online using Github pages and GitHub Actions. No coding necessary.
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
-- [jasonm23/markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - A collection of css themes for Markdown
+- [ocodo/markdown-css-themes](https://github.com/ocodo/markdown-css-themes) - A collection of css themes for Markdown
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 - [imfunniee/gitark](https://github.com/imfunniee/gitark) - :octocat: Dark theme for Github
 - [mike-schultz/materialette](https://github.com/mike-schultz/materialette) - Materialette - A material design color palette
