@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
@@ -328,6 +329,13 @@
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
+
+## ai-agent 
+
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 ## ai-agents 
 
@@ -2436,7 +2444,6 @@
 - [acorns/Particle-System](https://github.com/acorns/Particle-System) - It makes pretties
 - [catppuccin/zen-browser](https://github.com/catppuccin/zen-browser) - 🧘‍♂️ Soothing pastel theme for Zen Browser
 - [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
-- [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
 - [DeeKahy/CopyCat](https://github.com/DeeKahy/CopyCat) - 
 - [Jomik/fish-gruvbox](https://github.com/Jomik/fish-gruvbox) - gruvbox theme for fish
@@ -2774,7 +2781,7 @@
 - [paladini/ghost-on-github-pages](https://github.com/paladini/ghost-on-github-pages) - Ghost on Github Pages. Build and deploy Ghost for free in a few minutes.
 - [orderedlist/minimal](https://github.com/orderedlist/minimal) - A Theme for GitHub Pages
 - [d16sekine/serverless-s3zip](https://github.com/d16sekine/serverless-s3zip) - Sample code to zip files uploaded to AWS S3. It uses Serverless Framework.
-- [jasonm23/markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - A collection of css themes for Markdown
+- [ocodo/markdown-css-themes](https://github.com/ocodo/markdown-css-themes) - A collection of css themes for Markdown
 - [Francesco149/weebp](https://github.com/Francesco149/weebp) - free and open-source wallpaper engine, set any window as your wallpaper
 - [habamax/vim-gruvbit](https://github.com/habamax/vim-gruvbit) - Refined gruvbox vim colorscheme
 - [MSAdministrator/ConvertPoshCodeCode](https://github.com/MSAdministrator/ConvertPoshCodeCode) - Code to convert PoshCode download to Markdown
