@@ -1529,7 +1529,7 @@
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find your next vim colorcheme.
 - [jacoborus/estilo](https://github.com/jacoborus/estilo) - Create color schemes for Vim, Airline and Lightline
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
 - [jasperhartong/scriptable-ts-boilerplate](https://github.com/jasperhartong/scriptable-ts-boilerplate) - A boilerplate for creating remote-updatable Scriptable widgets. Includes setup, components, utils and examples to develop in the comfort of TypeScript.
 - [brentvollebregt/emotionify](https://github.com/brentvollebregt/emotionify) - Webapp than can create emotionally gradiented Spotify playlists and more 🎵🎧🔀
 - [brentvollebregt/spotify-lyrics-viewer](https://github.com/brentvollebregt/spotify-lyrics-viewer) - View the lyrics of the current playing Spotify song in your browser
