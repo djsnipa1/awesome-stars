@@ -46,6 +46,7 @@
 - [Processing](#processing)
 - [Pug](#pug)
 - [Python](#python)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1106,6 +1107,10 @@
 - [stefantalpalaru/deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) - Deluge plugin for adding default trackers to all public torrents
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 
+## Roff 
+
+- [LuRsT/hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal
+
 ## Ruby 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1114,6 +1119,8 @@
 
 ## Rust 
 
+- [gourlaysama/girouette](https://github.com/gourlaysama/girouette) - show the weather in the terminal, in style
+- [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nosajio/substack-dl](https://github.com/nosajio/substack-dl) - Download all public posts from any Substack newsletter
 - [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI for LLMs
