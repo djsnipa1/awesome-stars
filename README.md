@@ -173,6 +173,7 @@
 - [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) - An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️.
 - [jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme) - CSS files and a template for using Pandoc to generate standalone HTML files
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
+- [felipecustodio/p5-starter](https://github.com/felipecustodio/p5-starter) - :herb: Boilerplate for p5.js projects, including VSCode Intellisense and linting for HTML, CSS and JS.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Vallium/godoc-gruvbox](https://github.com/Vallium/godoc-gruvbox) - Gruvbox colors for https://godoc.org/, https://play.golang.org/ and https://golang.org/
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
@@ -543,7 +544,6 @@
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [migueravila/bento](https://github.com/migueravila/bento) - The minimalist, elegant and hackable startpage.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [felipecustodio/p5-starter](https://github.com/felipecustodio/p5-starter) - :herb: Boilerplate for p5.js projects, including VSCode Intellisense and linting for HTML, CSS and JS.
 - [joshwcomeau/tinkersynth](https://github.com/joshwcomeau/tinkersynth) - An experimental art project. Create unique art through serendipitous discovery.
 - [spieglt/Cloaker.js](https://github.com/spieglt/Cloaker.js) - Simple password-based file encryption entirely in your browser, interoperable with Cloaker.
 - [peabrainiac/peabrainiac.github.io](https://github.com/peabrainiac/peabrainiac.github.io) - 
@@ -1385,7 +1385,7 @@
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [duquesnay/obsidian-mcp-ts](https://github.com/duquesnay/obsidian-mcp-ts) - TypeScript MCP server for Obsidian via Local REST API - port of the original Python mcp-obsidian
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
-- [preset-io/agor](https://github.com/preset-io/agor) - Agor - team command center for all things agentic
+- [preset-io/agor](https://github.com/preset-io/agor) - Multiplayer AI: Bring your team and agents together
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [dmotz/trystero](https://github.com/dmotz/trystero) - ✨🤝✨ Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
