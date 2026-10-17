@@ -1359,6 +1359,7 @@
 
 ## TypeScript 
 
+- [cyanolupus/silverbullet-cf](https://github.com/cyanolupus/silverbullet-cf) - Markdown as a platform in Cloudflare Workers
 - [NissonCX/death-stranding-profile](https://github.com/NissonCX/death-stranding-profile) - An intricate, Death Stranding-inspired aesthetic visualization generator for your GitHub Profile README. 📦🌧️
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.
@@ -1381,7 +1382,7 @@
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [duquesnay/obsidian-mcp-ts](https://github.com/duquesnay/obsidian-mcp-ts) - TypeScript MCP server for Obsidian via Local REST API - port of the original Python mcp-obsidian
