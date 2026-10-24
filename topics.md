@@ -74,6 +74,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -1130,6 +1131,13 @@
 ## dotnet 
 
 - [ghuntley/ghuntley-monorepo-retired](https://github.com/ghuntley/ghuntley-monorepo-retired) - 
+
+## downloader 
+
+- [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
+- [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 
 ## education 
 
@@ -2362,7 +2370,6 @@
 - [cyanolupus/silverbullet-cf](https://github.com/cyanolupus/silverbullet-cf) - Markdown as a platform in Cloudflare Workers
 - [gourlaysama/girouette](https://github.com/gourlaysama/girouette) - show the weather in the terminal, in style
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
 - [halfwhey/nix-playwright-nightly](https://github.com/halfwhey/nix-playwright-nightly) - Pure-Nix flake packaging @playwright/cli, @playwright/mcp, and PyPI playwright with revision-matched browsers. Also packages Camoufox.
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [postcli/substack](https://github.com/postcli/substack) - Substack CLI and MCP Server
