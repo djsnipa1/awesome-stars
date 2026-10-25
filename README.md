@@ -1268,7 +1268,7 @@
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [bashbox/bashbox](https://github.com/bashbox/bashbox) - A Rust-like bash compiler written in bash to help create modular and maintainable bash projects.
 - [ConnerWill/cheat-fzf](https://github.com/ConnerWill/cheat-fzf) - Browse UNIX/Linux Command Cheatsheets from cht.sh/cheat.sh using fzf
-- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, Debian, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [ilya-manin/tmux-weather](https://github.com/ilya-manin/tmux-weather) - 🌤 Weather plugin for tmux
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
@@ -1358,6 +1358,7 @@
 
 ## TypeScript 
 
+- [priyanshdas/inkleaf](https://github.com/priyanshdas/inkleaf) - A free, open-source PDF editor for Windows, macOS and Linux that works entirely offline. Open a PDF, change it, save it. Nothing is uploaded anywhere, there are no accounts, and every tool is free. Bu
 - [cyanolupus/silverbullet-cf](https://github.com/cyanolupus/silverbullet-cf) - Markdown as a platform in Cloudflare Workers
 - [NissonCX/death-stranding-profile](https://github.com/NissonCX/death-stranding-profile) - An intricate, Death Stranding-inspired aesthetic visualization generator for your GitHub Profile README. 📦🌧️
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
