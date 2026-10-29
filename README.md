@@ -245,6 +245,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [gennaro-tedesco/gh-s](https://github.com/gennaro-tedesco/gh-s) - 🔎 search github repositories interactively
@@ -307,7 +308,6 @@
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [coolapso/hugo-theme-terminalcv](https://github.com/coolapso/hugo-theme-terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
-- [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [caiorss/bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker) - Tool to create bookmarklet/ javascript apps to automate the web browser.
