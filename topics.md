@@ -15,6 +15,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
@@ -383,6 +384,26 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+
+## animation 
+
+- [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+- [Gradients/awesome-gradient](https://github.com/Gradients/awesome-gradient) - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources
+- [thelevicole/stripe-gradient](https://github.com/thelevicole/stripe-gradient) - A reverse engineered, and simplified javascript library to replicate the animated Stripe gradients.
+- [gre/bezier-easing](https://github.com/gre/bezier-easing) - cubic-bezier implementation for your JavaScript animation easings – MIT License
+- [DaveKeehl/svelte-reveal](https://github.com/DaveKeehl/svelte-reveal) - Svelte action that leverages the Intersection Observer API to trigger reveal on scroll transitions.
+- [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
+- [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [parallax/svg-animation-tools](https://github.com/parallax/svg-animation-tools) - An awesome workflow for animated SVGs with Adobe Illustrator
+- [beetrandahiya/ChelseaJS](https://github.com/beetrandahiya/ChelseaJS) - ChelseaJS is a Javascript library for creative, generative Coding.
+- [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
+- [shakrmedia/tuesday](https://github.com/shakrmedia/tuesday) - A quirky CSS Animation Library by Shakr
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [nextapps-de/fat](https://github.com/nextapps-de/fat) - Web's fastest and most lightweight animation tool.
 
 ## api 
 
@@ -2545,10 +2566,8 @@
 - [Olivr/nx-copybara](https://github.com/Olivr/nx-copybara) - Example of using Copybara to open-source a library from a nx monorepo
 - [texel-org/color](https://github.com/texel-org/color) - modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [propolies/svelte-outside](https://github.com/propolies/svelte-outside) - A svelte use directive for clicking/tapping outside an element.
-- [thelevicole/stripe-gradient](https://github.com/thelevicole/stripe-gradient) - A reverse engineered, and simplified javascript library to replicate the animated Stripe gradients.
 - [mwrouse/message-bubbles](https://github.com/mwrouse/message-bubbles) - A little proof of concept for text message style CSS lists
 - [acconrad/css3-iphone-textmsg](https://github.com/acconrad/css3-iphone-textmsg) - A Pure CSS3 iPhone Text Message Demo
-- [gre/bezier-easing](https://github.com/gre/bezier-easing) - cubic-bezier implementation for your JavaScript animation easings – MIT License
 - [braebo/svelte-starter](https://github.com/braebo/svelte-starter) - An opinionated SvelteKit starter
 - [elron/svelte-confetti-p5](https://github.com/elron/svelte-confetti-p5) - 
 - [UndoTheFirewall/Using-The-API](https://github.com/UndoTheFirewall/Using-The-API) - 
@@ -2758,7 +2777,6 @@
 - [antonmedv/codejar](https://github.com/antonmedv/codejar) - An embeddable code editor for the browser 🍯
 - [HenryQW/mercury-parser-api](https://github.com/HenryQW/mercury-parser-api) - 🐋 A Dockerized drop-in replacement for the Mercury Parser API.
 - [codrops/ElasticSVGElements](https://github.com/codrops/ElasticSVGElements) - Adding elasticity with SVG shape animations for enhanced UI interactions.
-- [parallax/svg-animation-tools](https://github.com/parallax/svg-animation-tools) - An awesome workflow for animated SVGs with Adobe Illustrator
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [shazam/choreographer-example](https://github.com/shazam/choreographer-example) - Companion repo for Shazam's tagging animation blog post
 - [8BitJonny/liveSpotify](https://github.com/8BitJonny/liveSpotify) - Dynamic realtime profile ReadMe linked with spotify
