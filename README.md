@@ -28,6 +28,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Logos](#logos)
@@ -374,7 +375,7 @@
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [jfhbrook/hoarders](https://github.com/jfhbrook/hoarders) - node.js's most complete "utility grab-bag". Dedicated to substack.
 - [krissrex/google-authenticator-exporter](https://github.com/krissrex/google-authenticator-exporter) - Get the TOTP secrets exported by Google Authenticator
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [dalmaer/stitch-prompt](https://github.com/dalmaer/stitch-prompt) - A simple CLI to generate design prompts with various styles
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
@@ -638,6 +639,10 @@
 - [firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [justmarkham/trump-lies](https://github.com/justmarkham/trump-lies) - Tutorial: Web scraping in Python with Beautiful Soup
+
+## Just 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 
 ## Kotlin 
 
@@ -1224,7 +1229,6 @@
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [halostatue/sponge](https://github.com/halostatue/sponge) - Clean fish history from typos automatically
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [not-three/main](https://github.com/not-three/main) - !3 is a simple, secure and open source paste sharing platform.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
