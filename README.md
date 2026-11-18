@@ -269,7 +269,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [MarcelMue/konstrukt](https://github.com/MarcelMue/konstrukt) - Commandline tool for me to play with concrete art.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [darkhz/invidtui](https://github.com/darkhz/invidtui) - A TUI based Invidious client
 - [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
@@ -293,6 +293,7 @@
 
 ## HTML 
 
+- [skrove/graveyard-keeper-2](https://github.com/skrove/graveyard-keeper-2) - Graveyard Keeper 2 companion: item search, crafting calculator, alchemy, quests, traders, maps and skill trees. English/Russian. Browser and offline Windows app.
 - [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust
 - [Turtle6665/QR-marklet](https://github.com/Turtle6665/QR-marklet) - A Bookmarklets to create localy a QRcode of the current url web page and show it on a popup.
 - [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
@@ -369,6 +370,7 @@
 
 ## JavaScript 
 
+- [jimineybillybob1/graveyard-keeper-2-guide](https://github.com/jimineybillybob1/graveyard-keeper-2-guide) - An iPad-friendly Graveyard Keeper II field guide with recipes, interactive map, walkthroughs and local progress tracking.
 - [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Liquid Glass For The Web - WebGPU/WebGL
 - [vercel-labs/fx0](https://github.com/vercel-labs/fx0) - A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.
 - [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) - An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.
