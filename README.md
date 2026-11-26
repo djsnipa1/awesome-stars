@@ -173,7 +173,6 @@
 - [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) - An Obsidian.md theme with a stark contrast between dark mode and light mode, much like the Yin and Yang symbol ☯️.
 - [jez/pandoc-markdown-css-theme](https://github.com/jez/pandoc-markdown-css-theme) - CSS files and a template for using Pandoc to generate standalone HTML files
 - [Roboron3042/Cyberpunk-Neon](https://github.com/Roboron3042/Cyberpunk-Neon) - Cyberpunk Neon Themes for KDE Plasma, GTK, Telegram, Tilix, Vim, Zim and more.
-- [felipecustodio/p5-starter](https://github.com/felipecustodio/p5-starter) - :herb: Boilerplate for p5.js projects, including VSCode Intellisense and linting for HTML, CSS and JS.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Vallium/godoc-gruvbox](https://github.com/Vallium/godoc-gruvbox) - Gruvbox colors for https://godoc.org/, https://play.golang.org/ and https://golang.org/
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
@@ -376,7 +375,7 @@
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [jfhbrook/hoarders](https://github.com/jfhbrook/hoarders) - node.js's most complete "utility grab-bag". Dedicated to substack.
 - [krissrex/google-authenticator-exporter](https://github.com/krissrex/google-authenticator-exporter) - Get the TOTP secrets exported by Google Authenticator
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored AI Image & Video Generator — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [dalmaer/stitch-prompt](https://github.com/dalmaer/stitch-prompt) - A simple CLI to generate design prompts with various styles
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
@@ -943,6 +942,7 @@
 
 ## Python 
 
+- [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [Okohedeki/designai](https://github.com/Okohedeki/designai) - Scroll-driven websites from one YAML file: generated film, live 3D, data stories, maps. Runs locally, no API keys; Claude can drive it via MCP.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
@@ -1145,7 +1145,7 @@
 - [ratatui/ratatui-image](https://github.com/ratatui/ratatui-image) - Ratatui widget for rendering image graphics in terminals that support it
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [ttulttul/llm-globber](https://github.com/ttulttul/llm-globber) - A no-dependencies single binary command-line utility that combines multiple files into a single text document with clear file separators.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
@@ -1470,6 +1470,7 @@
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
 - [snuffyDev/Wolfensvelte-3D](https://github.com/snuffyDev/Wolfensvelte-3D) - Wolfenstein 3D, reimagined in Svelte - rendered with the DOM
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -1537,6 +1538,7 @@
 - [dguo/blood-moon](https://github.com/dguo/blood-moon) - :waxing_crescent_moon: A bold, dark color scheme for code
 - [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 Local-first markdown notebook - notes live in your browser or local folders as plain markdown files, synced with in-browser git. No server, no account, works offline.
 - [actuallyReallyAlex/create-cli-application](https://github.com/actuallyReallyAlex/create-cli-application) - A bootstrapper for creating a cli application with Node.
+- [felipecustodio/p5-starter](https://github.com/felipecustodio/p5-starter) - :herb: Boilerplate for p5.js projects, including VSCode Intellisense and linting for HTML, CSS and JS.
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [MamoruDS/TaioTrans](https://github.com/MamoruDS/TaioTrans) - Generate Taio's workflow with JS/TS
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
@@ -1583,7 +1585,6 @@
 - [nwtgck/piping-ssh-web](https://github.com/nwtgck/piping-ssh-web) - SSH over HTTPS via Piping Server on Web browser
 - [shaunabanana/zdog-editor](https://github.com/shaunabanana/zdog-editor) - An editor for the ZDog 3D engine.
 - [ameistad/tailwind-colors](https://github.com/ameistad/tailwind-colors) - Tailwind CSS color configration tool
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [s-rigaud/huskyfy](https://github.com/s-rigaud/huskyfy) - Huskyfy - Interact with Spotify playlists smoothly
 - [layoutit/layoutit-grid](https://github.com/layoutit/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
