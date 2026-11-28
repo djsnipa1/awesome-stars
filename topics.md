@@ -315,6 +315,7 @@
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents to 1,600+ APIs.
 
 ## ai 
 
@@ -432,7 +433,7 @@
 - [abdfnx/resto](https://github.com/abdfnx/resto) - 🔗 Send pretty HTTP & API requests with TUI.
 - [thelicato/asciified](https://github.com/thelicato/asciified) - A simple ASCII Art API with a good-looking Web App.
 - [fedecalendino/wrap-genius](https://github.com/fedecalendino/wrap-genius) - Unofficial python wrapper for genius' API.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents & product to 1,000 APIs.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Connect your agents to 1,600+ APIs.
 - [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1519,7 +1520,6 @@
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -2432,6 +2432,7 @@
 
 ## others 
 
+- [nmd-113/Tray-Temps](https://github.com/nmd-113/Tray-Temps) - Monitor your PC's temps at a glance. This utility displays customizable CPU and GPU temperature icons right in your Windows system tray.
 - [jimineybillybob1/graveyard-keeper-2-guide](https://github.com/jimineybillybob1/graveyard-keeper-2-guide) - An iPad-friendly Graveyard Keeper II field guide with recipes, interactive map, walkthroughs and local progress tracking.
 - [fer0n/Unwatched](https://github.com/fer0n/Unwatched) - RSS feed based YouTube video player for iOS, macOS, tvOS
 - [naughtyduk/liquidGL](https://github.com/naughtyduk/liquidGL) - liquidGL – Liquid Glass For The Web - WebGPU/WebGL
@@ -2661,7 +2662,7 @@
 - [Flet/rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements) - 😵 GitHub achievements that did not make the cut.
 - [lucax88x/nvim-awesome](https://github.com/lucax88x/nvim-awesome) - A showcase of nvim plugins
 - [coolapso/hugo-theme-terminalcv](https://github.com/coolapso/hugo-theme-terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme for HUGO
-- [JabberLabs/slugify](https://github.com/JabberLabs/slugify) - Bash command that converts filenames and directories to a web friendly format.
+- [JabberShare/slugify](https://github.com/JabberShare/slugify) - Bash command that converts filenames and directories to a web friendly format.
 - [anoduck/anoduck](https://github.com/anoduck/anoduck) - Github Profile page for Anoduck:
 - [dominikduda/tmux_mode_indicator](https://github.com/dominikduda/tmux_mode_indicator) - Tmux plugin that indicate modes you are in (normal/prefix, copy/insert)
 - [dominik-lueke/PokemonOfTheDay](https://github.com/dominik-lueke/PokemonOfTheDay) - Scriptable iOS Widget to display a new random Pokémon every day
